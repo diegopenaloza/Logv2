@@ -27,5 +27,6 @@
 	  collapsed:: true
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
 	- Objetivos
-		- Reducir la asimetría de la información frente a los procesos de compras
+		- Reducir la asimetría de la información frente a los procesos de compras públicas, para empresas medianas y pequeñas
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
+		- Brindar un servicio personalizado y a bajo costo
