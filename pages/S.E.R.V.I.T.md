@@ -1,3 +1,3 @@
 - #Recursos
-	-
+	- <object data="https://www.ucuenca.edu.ec/images/ciencias-economicas/DocFacultad/FormatosTitulacion/Instructivo-General-Para-Modalidad-de-Titulacin--Abril-2017.pdf" width="100%" height="800px"></object>
 -
