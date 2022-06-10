@@ -8,7 +8,6 @@
 		- ((62a29b13-89b5-48b3-b9a4-5d34e25459d0))
 - ---
 - # Protocolo del Proyecto Integrador S.E.R.V.I.T. 🤖
-  collapsed:: true
 	- Portada
 	  collapsed:: true
 		- #+BEGIN_CENTER
