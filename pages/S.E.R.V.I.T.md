@@ -25,4 +25,8 @@
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
 		- Brindar un servicio personalizado y a bajo costo pertinente a los procesos de compras públicas dirigido a pequeñas y medianas empresas
 	- **Metodología (marco teórico base y diseño metodológico)**
-		- Análisis Exploratorio y predictivo de datos, medi
+		- Análisis Exploratorio y predictivo de datos, mediante algoritmos de redes neurnales preentrenadas
+	- **Cronograma de Actividades**
+		- TODO Exploración de Datos
+		-
+-
