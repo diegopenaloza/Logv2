@@ -30,5 +30,6 @@
 		- TODO Extracción de Base de Datos
 		- TODO Exploración de Datos
 		- TODO Test del Proyecto
-		-
--
+	- **Esquema Tentativo**
+		- Ni Idea
+	- **Bibliografía**
