@@ -6,4 +6,6 @@
 	- ![Instructivo-de-Titulacin-FCEA--20-diciembre-2021.pdf](../assets/Instructivo-de-Titulacin-FCEA--20-diciembre-2021_1654823450541_0.pdf)
 	  collapsed:: true
 		- ((62a29b13-89b5-48b3-b9a4-5d34e25459d0))
-- Pr
+- ---
+- # Protocolo del Proyecto Integrador
+	-
