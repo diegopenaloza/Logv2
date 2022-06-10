@@ -9,6 +9,7 @@
 - ---
 - # Protocolo del Proyecto Integrador S.E.R.V.I.T. 🤖
 	- Portada
+	  collapsed:: true
 		- #+BEGIN_CENTER
 		  <h1> Contratación Publica Multidisciplinaria e inteligente </h1>
 		  #+END_CENTER
@@ -25,3 +26,4 @@
 	- Problema Central
 	  collapsed:: true
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
+	- Obk
