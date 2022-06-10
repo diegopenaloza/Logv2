@@ -187,7 +187,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["How to take dummy notes?"]
+ :favorites ["S.E.R.V.I.T" "How to take dummy notes?"]
  :ui/show-brackets? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
