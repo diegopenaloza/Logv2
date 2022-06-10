@@ -24,5 +24,5 @@
 		- Reducir la asimetría de la información frente a los procesos de compras públicas, para empresas medianas y pequeñas
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
 		- Brindar un servicio personalizado y a bajo costo pertinente a los procesos de compras públicas dirigido a pequeñas y medianas empresas
-	-
--
+	- **Metodología (marco teórico base y diseño metodológico)**
+		- Análisis Exploratorio y predictivo de datos, medi
