@@ -1,5 +1,4 @@
 - Instructivos
-  collapsed:: true
 	- ![Instructivo-General-Para-Modalidad-de-Titulacin--Abril-2017.pdf](../assets/Instructivo-General-Para-Modalidad-de-Titulacin--Abril-2017_1654823325948_0.pdf)
 	  collapsed:: true
 		- ((62a29aee-9d5e-40f6-a4ee-9bce63389a3d))
@@ -32,9 +31,3 @@
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
 		- Brindar un servicio personalizado y a bajo costo pertinente a los procesos de compras públicas
 	-
-	-
-	-
-	- <html><iframe src="https://colab.research.google.com" height="400" width="800" name="demo">
-	    <p>Su navegador no es compatible con iframes</p>
-	  </iframe>
-	  </html>
