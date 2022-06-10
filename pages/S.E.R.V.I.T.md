@@ -17,3 +17,8 @@
 			   Diego  I. Peñaloza Guamán
 			  #+END_CENTER
 			-
+	- Pertinencia académico-científico y social
+	  collapsed:: true
+		- Ni idea
+	- Justificación
+		-
