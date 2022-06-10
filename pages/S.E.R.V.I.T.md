@@ -7,9 +7,8 @@
 	  collapsed:: true
 		- ((62a29b13-89b5-48b3-b9a4-5d34e25459d0))
 - ---
-- # Protocolo del Proyecto Integrador
+- # Protocolo del Proyecto Integrador S.E.R.V.I.T. 🤖
 	- Portada
-	  collapsed:: true
 		- #+BEGIN_CENTER
 		  <h1> Contratación Publica Multidisciplinaria e inteligente </h1>
 		  #+END_CENTER
@@ -21,6 +20,8 @@
 	  collapsed:: true
 		- Ni idea
 	- Justificación
+	  collapsed:: true
 		- Este proyecto se justifica debido  a la necesidad de un mecanismo que permita a un mayor numero de empresas ofertar sus productos o servicios ante el sistema de compras publicas del Ecuador
-	- Prb
+	- Problema Central
+	  collapsed:: true
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
