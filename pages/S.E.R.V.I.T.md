@@ -21,5 +21,5 @@
 	  collapsed:: true
 		- Ni idea
 	- Justificación
-	  collapsed:: true
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
+	-
