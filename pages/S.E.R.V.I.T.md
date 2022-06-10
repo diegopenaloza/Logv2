@@ -21,5 +21,6 @@
 	  collapsed:: true
 		- Ni idea
 	- Justificación
-		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
+		- Este proyecto se justifica debido  a la necesidad de un mecanismo que permita a un ma
 	- e
+		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
