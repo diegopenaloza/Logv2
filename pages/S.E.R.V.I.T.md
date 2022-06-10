@@ -21,6 +21,6 @@
 	  collapsed:: true
 		- Ni idea
 	- Justificación
-		- Este proyecto se justifica debido  a la necesidad de un mecanismo que permita a un ma
-	- e
+		- Este proyecto se justifica debido  a la necesidad de un mecanismo que permita a un mayor numero de empresas ofertar sus productos o servicios ante el sistema de compras publicas del Ecuador
+	- Prb
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
