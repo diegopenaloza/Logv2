@@ -27,6 +27,8 @@
 	- **Metodología (marco teórico base y diseño metodológico)**
 		- Análisis Exploratorio y predictivo de datos, mediante algoritmos de redes neurnales preentrenadas
 	- **Cronograma de Actividades**
+		- TODO Extracción de Base de Datos
 		- TODO Exploración de Datos
+		- TODO Test del Proyecto
 		-
 -
