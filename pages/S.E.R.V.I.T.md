@@ -8,6 +8,7 @@
 		- ((62a29b13-89b5-48b3-b9a4-5d34e25459d0))
 - ---
 - # Protocolo del Proyecto Integrador S.E.R.V.I.T. 🤖
+  collapsed:: true
 	- Portada
 	  collapsed:: true
 		- #+BEGIN_CENTER
@@ -27,6 +28,7 @@
 	  collapsed:: true
 		- No se observa una libre competencia dentro del sector de las compras publicas en [[Ecuador]]
 	- Objetivos
+	  collapsed:: true
 		- Reducir la asimetría de la información frente a los procesos de compras públicas, para empresas medianas y pequeñas
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
-		- Brindar un servicio personalizado y a bajo costo
+		- Brindar un servicio personalizado y a bajo costo pertinente a los procesos de compras públicas
