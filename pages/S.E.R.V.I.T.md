@@ -31,3 +31,10 @@
 		- Reducir la asimetría de la información frente a los procesos de compras públicas, para empresas medianas y pequeñas
 		  id:: 62a2a258-c5bd-4258-aba1-c0b244f770c8
 		- Brindar un servicio personalizado y a bajo costo pertinente a los procesos de compras públicas
+	-
+	-
+	- https://colab.research.google.com/drive/1-aGhltTpyXjPj9b6sIcSyDxEhjmBhHbe
+	- <html><iframe src="https://ticktick.com/webapp/#q/all/today" height="400" width="800" name="demo">
+	    <p>Su navegador no es compatible con iframes</p>
+	  </iframe>
+	  </html>
