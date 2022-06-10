@@ -10,5 +10,8 @@
 - # Protocolo del Proyecto Integrador
 	- Portada
 		- #+BEGIN_CENTER
-		  Contratación Publica Multidisciplinaria e inteligente
+		  <h1> Contratación Publica Multidisciplinaria e inteligente </h1>
 		  #+END_CENTER
+			- #+BEGIN_CENTER
+			   Diego Peñaloza
+			  #+END_CENTER
