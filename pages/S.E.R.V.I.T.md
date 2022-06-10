@@ -21,4 +21,4 @@
 	  collapsed:: true
 		- Ni idea
 	- Justificación
-		-
+		- Según ....... las compras publicas en el ecuador, se encuentran dómidas por un conglomerado de grandes empresas,
