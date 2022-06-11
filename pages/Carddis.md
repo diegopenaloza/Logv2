@@ -6,7 +6,10 @@
 	- 1.
 		- {{renderer :linkpreview,https://www.architecturaldigest.com/story/best-online-furniture-stores}}
 	- 2.
-		- {{renderer :linkpreview,https://www.essentialhome.eu/inspirations/lifestyle/exclusive-luxury-furniture-brands/}}
+	  collapsed:: true
+		- https://www.essentialhome.eu/inspirations/lifestyle/exclusive-luxury-furniture-brands/
 	- 3.
-		- https://www.americansignaturefurniture.com/
+		- {{renderer :linkpreview,https://www.americansignaturefurniture.com/}}
+	- 4.
+		- https://www.raymourflanigan.com/
 	-
