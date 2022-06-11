@@ -12,6 +12,8 @@
 - 🔎 [[Revisar]]
   collapsed:: true
 	- TODO Sistema de Facturación para N5 Studio
+	- TODO Libros recomendados por Bill
+		-
 - ---
 - 🧠 [[Ideas]]
 	- TODO Servicio de Facturación Para N5 Studio
