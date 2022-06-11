@@ -22,18 +22,12 @@
  {:block/name "card",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
- {:block/name "carddis",
-  :block/created-at 1654957874701,
-  :block/updated-at 1654957874701}
  {:block/name "cerebro digital",
   :block/created-at 1654741694137,
   :block/updated-at 1654741694137}
  {:block/name "contents",
   :block/created-at 1654745543997,
   :block/updated-at 1654865013009}
- {:block/name "daily log",
-  :block/created-at 1654907702116,
-  :block/updated-at 1654907702116}
  {:block/name "diario",
   :block/created-at 1654746466986,
   :block/updated-at 1654746466986}
@@ -43,9 +37,6 @@
  {:block/name "done",
   :block/created-at 1654745543997,
   :block/updated-at 1654745543997}
- {:block/name "draws/2022-06-10-20-38-25.excalidraw",
-  :block/created-at 1654957967171,
-  :block/updated-at 1654957967171}
  {:block/name "ecuador",
   :block/created-at 1654864265115,
   :block/updated-at 1654864265115}
@@ -70,11 +61,8 @@
   :block/created-at 1654746476670,
   :block/updated-at 1654746476670}
  {:block/name "jun 10th, 2022",
-  :block/created-at 1654905950038,
-  :block/updated-at 1654910989632}
- {:block/name "jun 11th, 2022",
-  :block/created-at 1654923600072,
-  :block/updated-at 1654923600072}
+  :block/created-at 1654864264536,
+  :block/updated-at 1654868198708}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
@@ -101,7 +89,7 @@
   :block/updated-at 1654864265125}
  {:block/name "s.e.r.v.i.t",
   :block/created-at 1654870447317,
-  :block/updated-at 1654910081091}
+  :block/updated-at 1654870447317}
  {:block/name "s/e",
   :block/created-at 1654864265126,
   :block/updated-at 1654864265126}
@@ -118,14 +106,8 @@
   :block/created-at 1654864265124,
   :block/updated-at 1654864265124}
  {:block/name "tareas",
-  :block/created-at 1654957732263,
-  :block/updated-at 1654957732263}
- {:block/name "tareas externas",
-  :block/created-at 1654907759502,
-  :block/updated-at 1654907759502}
- {:block/name "tareas internas",
-  :block/created-at 1654907768288,
-  :block/updated-at 1654907768288}
+  :block/created-at 1654746973476,
+  :block/updated-at 1654746973476}
  {:block/name "todo",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
