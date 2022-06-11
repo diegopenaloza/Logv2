@@ -1,7 +1,5 @@
 - ✒️ Tareas Internas
 	- {{renderer agenda, task-list}}
-	- {{renderer agenda, task-list}}
-	- {{renderer agenda, task-list}}
 	-
 - 🗒️[[Tareas]]
   collapsed:: true
