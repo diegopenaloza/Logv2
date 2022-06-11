@@ -2,6 +2,7 @@
   collapsed:: true
 	- https://create.vista.com/es/similar-photos/258224330/
 - Web
+  collapsed:: true
 	- Paginas de Referencia
 	- 0.
 	  collapsed:: true
