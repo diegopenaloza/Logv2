@@ -1,5 +1,5 @@
 -
 - Agenda
-	- TODO Entrenamiento 1 >[2022-06-02 19:30 - 20:00](#agenda://?start=2022-06-03T00%3A30%3A00.000Z&end=2022-06-03T01%3A00%3A00.000Z&allDay=false)
+	- TODO 1 Entrenamiento 1
 -
 -
