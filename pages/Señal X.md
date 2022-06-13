@@ -46,7 +46,7 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Escribir un guion publicitario para la presentación de la empresa, según las caracteristicas 
+	  Escribir un guion publicitario para la presentación de la empresa, según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de l
 	  
 	  Guion de video Corporativo Publicitario para la empresa Señal X, con base a las características de los párrafos anteriores, con voz de mujer narrando cada una de las 20 escenas del video:
 		-
