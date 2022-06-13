@@ -873,7 +873,8 @@
 		  La mujer joven en este video está tomando un medicamento que la hace sentir mejor. Se siente mejor porque ha ayudado a otra persona, y su familia le dice que debería tomar el medicamento más a menudo.
 		-
 	-
-- Guion Señal X
+- Guion [[Señal X]]
+  collapsed:: true
 	- Guion de video publicitario: #.v-gallery-fit
 		- INT. Talleres de Señal X - Día  
 		    
@@ -1011,3 +1012,8 @@
 		  VOZ EN OFF  
 		  "Identificativo Principal   
 		  El imagotipo identifica a la marca Señal X
+-
+-
+- #.v-gallery-fit
+	- ![image.png](../assets/image_1655131490830_0.png)
+	- ![image.png](../assets/image_1655131512005_0.png)
