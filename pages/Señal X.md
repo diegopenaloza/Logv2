@@ -9,6 +9,7 @@
 	  
 	  Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas.
 	  
+	  Una imagen que describa los párrafos anteriores  
 	  Que clase de empresa se describe en los párrafos anteriores
 		- ?
 		  
