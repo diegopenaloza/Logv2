@@ -619,7 +619,7 @@
 		  (Vemos a un grupo de trabajadores diseñando y pintando una nueva valla publicitaria para un cliente)
 		  
 		  VOZ EN OFF
-		  "Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve."
+		  "[[#yellow]]==Somos parte de tu historia==. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve."
 		  
 		  (Pasamos a ver como trabajan en la imprenta, en donde están imprimiendo carteles y volantes para una nueva campaña de un cliente)
 		  
