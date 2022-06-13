@@ -16,6 +16,7 @@
 	  -Expertisse
 	  
 	  La personalidad de nuestra marca
+	  
 	  Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia.
 	  
 	  Voz y Estilo
