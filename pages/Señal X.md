@@ -219,5 +219,16 @@
 			  Escena 16: 
 			  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
 	-
-	- Ejemplo de un guion publicitario profesional
+	- Ejemplo de un guion publicitario profesional, para un video viral
+	  collapsed:: true
+		- de un medicamento:
+		  
+		  En este video, una mujer joven está enferma y se toma un medicamento. Al tomarlo, se siente mejor y se va aBUSCAdo. 
+		  Mientras caminaba, ve a una persona sin hogar y le da una moneda. Se siente mejor por haber ayudado a alguien. 
+		  Al llegar a su casa, su familia le pregunta cómo se siente y ella les dice que se siente muy bien. 
+		  Ellos le preguntan qué había tomado, y ella responde que había tomado el medicamento. 
+		  Entonces, la familia se ríe y le dice que debería tomarlo más a menudo. 
+		  
+		  La mujer joven en este video está tomando un medicamento que la hace sentir mejor. Se siente mejor porque ha ayudado a otra persona, y su familia le dice que debería tomar el medicamento más a menudo.
+		-
 -
