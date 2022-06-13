@@ -1018,6 +1018,7 @@
 	- ![image.png](../assets/image_1655131490830_0.png)
 		- * Trabajo en Equipo
 		  *dsd
-	- ![image.png](../assets/image_1655131512005_0.png)[[Jun 13th, 2022]]
+	- ![image.png](../assets/image_1655131512005_0.png)
 	- ![image.png](../assets/image_1655131533751_0.png)
--
+	- ![image.png](../assets/image_1655131787439_0.png)
+	- ![image.png](../assets/image_1655131821864_0.png)
