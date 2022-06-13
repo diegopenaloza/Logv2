@@ -681,6 +681,11 @@
 		  VOZ EN OFF
 		  "Identificativo Principal 
 		  El imagotipo identifica a la marca Señal X
+		  
+		  Colocar la duración de cada escena del Guion descrito en los párrafos anteriores
+		-
+		-
+		-
 		- 1. Escena: Imagen de una persona colocando una valla publicitaria (voz en off: "Somos parte de tu historia").
 		  2. Escena: Imagen de una persona pintando una valla publicitaria (voz en off: "Hemos estado presentes en varias etapas del crecimiento de las empresas").
 		  3. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "Siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas").
