@@ -219,4 +219,5 @@
 			  Escena 16: 
 			  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
 	-
+	- Ejemplo de un guion publicitario profesional
 -
