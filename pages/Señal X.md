@@ -53,9 +53,10 @@
 	     -Voz : "Bienvenidos a la Creatividad"
 	     -Música: Música Alegre de tipo electrónica
 	  Escena 2:  
-	     -Cámara: 
-	     -Voz : "Bienvenidos a la Creatividad"
-	     -Música: Música Alegre de tipo electrónica
+	     -Cámara: Se muestra el ingreso a la empresa 
+	     -Voz : " Bienvenidos a tu historia "
+	     -Música: Música Alegre se baja el volumen
+	  Esce
 		-
 		-
 		- Formato de Guión en versión Columnas
