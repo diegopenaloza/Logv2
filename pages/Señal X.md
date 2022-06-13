@@ -49,6 +49,40 @@
 	  Escribir un guion publicitario para la presentación de la empresa llamada "SEÑAL X", según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. Este Guion deberá contar con 20 escenas y definirse el tiempo que durara cada escena hasta cumplirse los 2 minutos:
 		-
 		- Demos
+		  collapsed:: true
+			- En un mundo donde todos tienen algo que decir
+			  y las marcas necesitan comunicar sus cambios…
+			  se hace necesario contar con una empresa que entienda y proponga,
+			  que resuelva problemáticas reales en tiempo récord…
+			  pero sobre todo, una empresa con experiencia.
+			  Una empresa que lleve tu marca a otro nivel.
+			  
+			  En un mundo donde todos tienen algo que decir,
+			  y las marcas necesitan comunicar sus cambios…
+			  se hace necesario contar con una empresa que entienda y proponga,
+			  que resuelva problemáticas reales en tiempo récord…
+			  pero sobre todo, una empresa con experiencia.
+			  Una empresa que lleve tu marca a otro nivel.
+			  
+			  SEÑAL X es esa empresa.
+			  Con más de 20 años de experiencia,
+			  somos expertos en comunicación y marketing.
+			  Creamos historias para nuestros clientes,
+			  construimos relaciones sólidas y duraderas.
+			  Somosflexibles, adaptables y estamos dispuestos a innovar.
+			  
+			  No importa lo que necesites,
+			  te ayudaremos a alcanzar tus objetivos.
+			  Porque para nosotros,
+			  tu éxito es nuestro éxito.
+			  
+			  Así que si estás buscando una empresa de comunicación y marketing
+			  que se preocupe por ti y por tu marca,
+			  SEÑAL X es la indicada.
+			  
+			  Porque para construir una historia,
+			  necesitas un buen equipo.
+			  Y ese equipo, somos nosotros.
 			- Escena 1: Logotipo de la empresa*Factor X* en pantalla 
 			  
 			  Voz en off: La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
@@ -457,39 +491,6 @@
 			     -Voz : " Somos el Factor X "
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
-		- En un mundo donde todos tienen algo que decir
-		  y las marcas necesitan comunicar sus cambios…
-		  se hace necesario contar con una empresa que entienda y proponga,
-		  que resuelva problemáticas reales en tiempo récord…
-		  pero sobre todo, una empresa con experiencia.
-		  Una empresa que lleve tu marca a otro nivel.
-		  
-		  En un mundo donde todos tienen algo que decir,
-		  y las marcas necesitan comunicar sus cambios…
-		  se hace necesario contar con una empresa que entienda y proponga,
-		  que resuelva problemáticas reales en tiempo récord…
-		  pero sobre todo, una empresa con experiencia.
-		  Una empresa que lleve tu marca a otro nivel.
-		  
-		  SEÑAL X es esa empresa.
-		  Con más de 20 años de experiencia,
-		  somos expertos en comunicación y marketing.
-		  Creamos historias para nuestros clientes,
-		  construimos relaciones sólidas y duraderas.
-		  Somosflexibles, adaptables y estamos dispuestos a innovar.
-		  
-		  No importa lo que necesites,
-		  te ayudaremos a alcanzar tus objetivos.
-		  Porque para nosotros,
-		  tu éxito es nuestro éxito.
-		  
-		  Así que si estás buscando una empresa de comunicación y marketing
-		  que se preocupe por ti y por tu marca,
-		  SEÑAL X es la indicada.
-		  
-		  Porque para construir una historia,
-		  necesitas un buen equipo.
-		  Y ese equipo, somos nosotros.
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
