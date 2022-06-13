@@ -12,6 +12,7 @@
 	  Nuestros Valores:
 	  -Creatividad.
 	  -Recursividad.
+	  -Autoconfianza.
 	  
 	  Una imagen que describa los párrafos anteriores  
 	  Que clase de empresa se describe en los párrafos anteriores
