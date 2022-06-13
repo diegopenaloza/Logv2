@@ -34,7 +34,7 @@
 	  
 	  **Identificativos de marca**
 	  El corazón, alma y el centro de nuestra identidad 
-	  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado
+	  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es **una promesa de calidad, consistencia y confiabilidad.** Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado
 	  
 	  Lo que representa nuestro Isologo: Una X
 	  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho.
