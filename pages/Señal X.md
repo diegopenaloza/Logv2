@@ -681,6 +681,26 @@
 		  VOZ EN OFF
 		  "Identificativo Principal 
 		  El imagotipo identifica a la marca Señal X
+		- 1. Escena: Imagen de una persona colocando una valla publicitaria (voz en off: "Somos parte de tu historia").
+		  2. Escena: Imagen de una persona pintando una valla publicitaria (voz en off: "Hemos estado presentes en varias etapas del crecimiento de las empresas").
+		  3. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "Siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas").
+		  4. Escena: Imagen de una persona colocando una valla publicitaria (voz en off: "Que han confiado en nosotros").
+		  5. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Pudiendo así, ser parte de sus historias").
+		  6. Escena: Imagen de una persona mirando una valla publicitaria (voz en off: "Somos el Factor X que nuestros partners necesitan").
+		  7. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "La efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve").
+		  8. Escena: Imagen de una persona pintando una valla publicitaria (voz en off: "Desde 1999").
+		  9. Escena: Imagen de unas personas viendo una valla publicitaria (voz en off: "Una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad").
+		  10. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "Pensamos en nuestro personal y su bienestar diario").
+		  11. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales").
+		  12. Escena: Imagen de una persona limpando una valla publicitaria (voz en off: "Cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles").
+		  13. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres").
+		  14. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "Sabemos cómo hacerlo y entendemos necesidades diferenciadas").
+		  15. Escena: Imagen de unas personas caminando (voz en off: "Nuestros Valores: Creatividad, Recursividad, Autoconfianza, Expertisse").
+		  16. Escena: Imagen de una persona pintando una valla publicitaria (voz en off: "La personalidad de nuestra marca").
+		  17. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "Nos guiamos por la sabiduría y la creatividad").
+		  18. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes").
+		  19. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia").
+		  20. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal").
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
