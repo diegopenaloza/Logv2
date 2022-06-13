@@ -45,7 +45,7 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 escenas.
+	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 escenas y debe durar 1 minuto.
 	  Escena 1: 
 	  -Se muestra una imagen de la parte frontal de el edificio de Señal X
 	  Escena 2:
@@ -183,5 +183,34 @@
 		  -Se muestran unas luces parpadeando
 		  Escena 20:
 		  -Se muestra el logo de la marca
+		- -Se muestra a los trabajadores entrando al edificio
+		  Escena 4:  
+		  -Una voz en off dice: "Somos parte de tu historia" 
+		  -Mientras se muestra a los trabajadores trabajando alegremente en las diferentes areas de la empresa. 
+		  Escena 5: 
+		  -Se muestra el interior del edificio de la empresa
+		  Escena 6: 
+		  -Se muestra a los trabajadores saliendo del edificio
+		  Escena 7: 
+		  -Una voz en off dice: "Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve." 
+		  -Mientras se muestra a los trabajadores trabajando en las diferentes areas de la empresa.
+		  Escena 8: 
+		  -Una voz en off dice: "Desde 1999" 
+		  Escena 9: 
+		  -Se muestra una imagen de la fachada del edificio de la empresa
+		  Escena 10: 
+		  -Una voz en off dice: "Una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad. Pensamos en nuestro personal y su bienestar diario."
+		  Escena 11: 
+		  -Una voz en off dice: "Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles."
+		  Escena 12: 
+		  -Una voz en off dice: "Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas."
+		  Escena 13:
+		  -Un trabajador de la empresa en una entrevista dice: "Nuestros Valores: Creatividad, Recursividad, Autoconfianza y Expertise".
+		  Escena 14: 
+		  -Una voz en off dice: "La personalidad de nuestra marca nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creatividad con conciencia"
+		  Escena 15: 
+		  -Una voz en off dice: "Voz y Estilo. Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz."
+		  Escena 16: 
+		  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
 	-
 -
