@@ -61,7 +61,7 @@
 	  
 	  _(Vínculo a la oferta por medio de un formulario. Aparece el logotipo sobre un fondo celeste)._
 	  
-	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto. Tomando como ejemplo los siguientes párrafos:
+	  Guion de Video Corporativo para Señal X con la Información de los párrafos anteriores. El guion cuenta con 20 escenas y debe durar 1 minuto. Tomando como ejemplo el Guion de Ejemplo
 		-
 		-
 		- Formato de Guión en versión Columnas
@@ -233,6 +233,19 @@
 			  -Una voz en off dice: "Voz y Estilo. Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz."
 			  Escena 16: 
 			  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
+		- , se espera que este video sea didáctico y con una duración de 1 minuto.
+		  
+		  Escena 1: Joseph saluda a la cámara y se presenta.
+		  
+		  Escena 2: Joseph plantea el problema al que el video va a dar solución.
+		  
+		  Escena 3: Joseph enumera los pasos a seguir para solucionar el problema.
+		  
+		  Escena 4: Joseph señala con su mano la secuencia de consejos que enumera en la pantalla.
+		  
+		  Escena 5: Joseph invita al espectador a visitar el sitio web de la marca para obtener más información.
+		  
+		  Escena 6: Joseph cierra el video con una última invitación a visitar el sitio web de la marca.
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
