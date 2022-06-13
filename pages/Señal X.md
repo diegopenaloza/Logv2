@@ -31,7 +31,7 @@
 	  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.
 	  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera.
 	  
-	  Identificativos de marca
+	  **Identificativos de marca**
 	  El corazón, alma y el centro de nuestra identidad 
 	  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado
 	  
