@@ -50,7 +50,6 @@
 	  |--|--|--|--|--|
 	  |1|Fachada de Señal X|Música Suave Alegre|Bienvenidos a tu Historia|Desde 1999|
 	  |2|Puerta Principal|Música Alegre|Nos adentramos a la Creatividad|Señal X|
-	  |3|||||
 		-
 		-
 		- .Ejemplo 2
@@ -215,6 +214,37 @@
 			  -Una voz en off dice: "Voz y Estilo. Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz."
 			  Escena 16: 
 			  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
+		- |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  |||||
+		  ||||
+		  
+		  El video debe anclarse en cada uno de los aspectos de Señal X:
+		  
+		  -Creando piezas inolvidables.
+		  -La efectividad y creatividad nos mueven.
+		  -Estandares de calidad.
+		  -Experiencia.
+		  -Innovacion.
+		  - personalidad de la marca.
+		  -Hablamos con confianza y seguridad.
+		  -Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa.
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
