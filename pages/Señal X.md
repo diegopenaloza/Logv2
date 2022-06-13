@@ -46,10 +46,49 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Escribir un guion publicitario para la presentación de la empresa llamasa "S", según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. Este Guion deberá contar con 20 escenas y definirse el tiempo que durara cada escena hasta cumplirse los 2 minutos:
+	  Escribir un guion publicitario para la presentación de la empresa llamada "SEÑAL X", según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. Este Guion deberá contar con 20 escenas y definirse el tiempo que durara cada escena hasta cumplirse los 2 minutos:
 		-
 		- Demos
 		  collapsed:: true
+			- Escena 1: Logotipo de la empresa*Factor X* en pantalla 
+			  
+			  Voz en off: La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
+			  
+			  Escena 2: Imagen de una persona enfocada en su trabajo en una oficina 
+			  
+			  Voz en off: Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia. 
+			  
+			  Escena 3: Imagen de una persona hablando en una reunión 
+			  
+			  Voz en off: Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
+			  
+			  Escena 4: Imagen de una persona haciendo ejercicio 
+			  
+			  Voz en off: Pensamos en nuestro personal y su bienestar diario. 
+			  
+			  Escena 5: Imagen de un árbol y una persona abrazándolo
+			  
+			  Voz en off: Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles. 
+			  
+			  Escena 6: Imagen de una persona sonriente interactuando con otra persona 
+			  
+			  Voz en off: Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve. 
+			  
+			  Escena 7: Imagen de una persona frente a una computadora
+			  
+			  Voz en off: Desde 1999, somos una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad. 
+			  
+			  Escena 8: Imagen de una persona leyendo un libro
+			  
+			  Voz en off: Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas. 
+			  
+			  Escena 9: Imagen de una persona interactuando con otra persona 
+			  
+			  Voz en off: Nuestros Valores: Creatividad, Recursividad, Autoconfianza, Expertisse. 
+			  
+			  Escena 10: Imagen de una persona pensativa en una oficina 
+			  
+			  Voz en off: La personalidad de nuestra marca. Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a
 			- .
 			  
 			  (Enfatizando la creatividad, el estilo y el lema de la marca)
@@ -419,45 +458,6 @@
 			     -Voz : " Somos el Factor X "
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
-		- Escena 1: Logotipo de la empresa*Factor X* en pantalla 
-		  
-		  Voz en off: La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
-		  
-		  Escena 2: Imagen de una persona enfocada en su trabajo en una oficina 
-		  
-		  Voz en off: Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia. 
-		  
-		  Escena 3: Imagen de una persona hablando en una reunión 
-		  
-		  Voz en off: Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
-		  
-		  Escena 4: Imagen de una persona haciendo ejercicio 
-		  
-		  Voz en off: Pensamos en nuestro personal y su bienestar diario. 
-		  
-		  Escena 5: Imagen de un árbol y una persona abrazándolo
-		  
-		  Voz en off: Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles. 
-		  
-		  Escena 6: Imagen de una persona sonriente interactuando con otra persona 
-		  
-		  Voz en off: Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve. 
-		  
-		  Escena 7: Imagen de una persona frente a una computadora
-		  
-		  Voz en off: Desde 1999, somos una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad. 
-		  
-		  Escena 8: Imagen de una persona leyendo un libro
-		  
-		  Voz en off: Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas. 
-		  
-		  Escena 9: Imagen de una persona interactuando con otra persona 
-		  
-		  Voz en off: Nuestros Valores: Creatividad, Recursividad, Autoconfianza, Expertisse. 
-		  
-		  Escena 10: Imagen de una persona pensativa en una oficina 
-		  
-		  Voz en off: La personalidad de nuestra marca. Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
