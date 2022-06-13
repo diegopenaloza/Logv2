@@ -50,6 +50,8 @@
 	  
 	  Escena 1:  
 	     -Cámara: Muestra la fachada del edificio de la empresa
+	     -Voz : Bienvenidos a la Creatividad
+	     -Música: Musica Alegres
 		-
 		-
 		- Formato de Guión en versión Columnas
