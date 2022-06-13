@@ -9,10 +9,11 @@
 	  
 	  Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas.
 	  
+	  Nuestros Valores:
+	  -Creatividad.
+	  -Recursividad.
+	  
 	  Una imagen que describa los párrafos anteriores  
 	  Que clase de empresa se describe en los párrafos anteriores
-		- ?
-		  
-		  Se trata de una empresa de comunicación y marketing que lleva más de 20 años en el mercado. Su prioridad es el servicio al cliente y la calidad de sus productos. Actualmente, también se enfoca en temas ambientales, como la protección del planeta y el aprovechamiento de los recursos disponibles.
 	-
 -
