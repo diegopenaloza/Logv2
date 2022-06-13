@@ -20,9 +20,10 @@
 	  
 	  Voz y Estilo
 	  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal
+	  Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz
 	  
-	  
-	  Una imagen que describa los párrafos anteriores  
-	  Que clase de empresa se describe en los párrafos anteriores
+	  ¿A quién hablamos?
+	  A personas dentro del proceso de decisión de marca
+	  0. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia.
 	-
 -
