@@ -1014,8 +1014,9 @@
 		  El imagotipo identifica a la marca Señal X
 -
 -
-- #.v-gallery
+- #.v-gallery-fit
 	- ![image.png](../assets/image_1655131490830_0.png)
-		-
+		- * Trabajo en Equipo
+		  *dsd
 	- ![image.png](../assets/image_1655131512005_0.png)
 	- ![image.png](../assets/image_1655131533751_0.png)
