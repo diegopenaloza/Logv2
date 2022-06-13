@@ -47,7 +47,9 @@
 	  
 	  Guion de Video Corporativo con la Información de los párrafos anteriores
 	  Escena 1: 
-	  Se muestra una imagen de la parte f
+	  -Se muestra una imagen de la parte frontal de el edificio de Señal X
+	  Escena 2:
+	  -Se muestra a los trabajadores
 		-
 		-
 		- .Ejemplo 2
