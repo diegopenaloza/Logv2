@@ -570,6 +570,46 @@
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
 		-
+		- 1. Escena 1: 
+		  *"Somos parte de tu historia."*
+		  2. Escena 2: 
+		  *"Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias."* 
+		  3. Escena 3: 
+		  *"Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve."*
+		  4. Escena 4: 
+		  *"Desde 1999, una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad."*
+		  5. Escena 5:
+		  *"Pensamos en nuestro personal y su bienestar diario."* 
+		  6. Escena 6: 
+		  *"Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles."*
+		  7. Escena 7: 
+		  *"Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas."*
+		  8. Escena 8: 
+		  *"Nuestros Valores: Creatividad, Recursividad, Autoconfianza, Expertisse"*
+		  9. Escena 9: 
+		  *"La personalidad de nuestra marca nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia."*
+		  10. Escena 10: 
+		  *"Voz y Estilo: Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal"*
+		  11. Escena 11: 
+		  *"Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz"*
+		  12. Escena 12: 
+		  *"¿A quién hablamos?: A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."*
+		  13. Escena 13: 
+		  *"Construimos historias.* Tu partners de negocio. *Creatividad sin preocupaciones* El Factor X de tu historia"*
+		  14. Escena 14: 
+		  *"Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general."*
+		  15. Escena 15: 
+		  *"El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera."*
+		  16. Escena 16: 
+		  *"Identificativos de marca"*
+		  17. Escena 17: 
+		  *"El corazón, alma y el centro de nuestra identidad"*
+		  18. Escena 18: 
+		  *"Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado"*
+		  19. Escena 19: 
+		  *"Lo que representa nuestro Isologo: Una X"*
+		  20. Escena 20: 
+		  *"Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho"*
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
