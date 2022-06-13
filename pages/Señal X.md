@@ -45,11 +45,13 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto:
-	  |ESCENA|IMAGEN|AUDIO|VOZ|TEXTO EN PANTALLA|
-	  |--|--|--|--|--|
-	  |1|Fachada de Señal X|Música Suave Alegre|Bienvenidos a tu Historia|Desde 1999|
-	  |2|Puerta Principal|Música Alegre|Nos adentramos a la Creatividad|Señal X|
+	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto y debe ser escrito como tabla Markdown
+		-
+		- Formato de Guión
+		- |ESCENA|IMAGEN|AUDIO|VOZ|TEXTO EN PANTALLA|
+		  |--|--|--|--|--|
+		  |1|Fachada de Señal X|Música Suave Alegre|Bienvenidos a tu Historia|Desde 1999|
+		  |2|Puerta Principal|Música Alegre|Nos adentramos a la Creatividad|Señal X|
 		-
 		-
 		- .Ejemplo 2
