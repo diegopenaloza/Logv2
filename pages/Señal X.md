@@ -775,6 +775,90 @@
 		  18. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes").
 		  19. Escena: Imagen de una persona diseñando un logo en un computador (voz en off: "No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia").
 		  20. Escena: Imagen de una persona y una mujer conversando sobre un proyecto (voz en off: "Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal").
+		- 1. Escena 1: 
+		  Imagen: Logotipo "SEÑAL X"
+		  
+		  Voz: (Off) Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. 
+		  
+		  2. Escena 2: 
+		  Imagen: Foto de una empresa que está cambiando o evolucionando.
+		  
+		  Voz: (Off) Nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles.
+		  
+		  3. Escena 3: 
+		  Imagen: Personas trabajando en un taller.
+		  
+		  Voz: (Off) Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. 
+		  
+		  4. Escena 4: 
+		  Imagen: Ejemplos de trabajos realizados por la empresa.
+		  
+		  Voz: (Off) Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
+		  
+		  5. Escena 5: 
+		  Imagen: Diferentes ejemplos de vallas publicitarias.
+		  
+		  Voz: (Off) A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia. 
+		  
+		  6. Escena 6: 
+		  Imagen: Una X
+		  
+		  Voz: (Off) Lo que representa nuestro Isologo: Una X. Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
+		  
+		  7. Escena 7: 
+		  Imagen: Una persona enfocada en una computadora diseñando.
+		  
+		  Voz: (Off) Lo que representa nuestro Slogan: Construimos Historias. Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una. 
+		  
+		  8. Escena 8: 
+		  Imagen: Una persona pintando una valla publicitaria.
+		  
+		  Voz: (Off) Identificativo Principal. El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera. 
+		  
+		  9. Escena 9: 
+		  Imagen: Personas trabajando en una oficina.
+		  
+		  Voz: (Off) Escribir un guion publicitario para la presentación de la empresa llamada "SEÑAL X" que es una empresa que se dedica a la creación de vallas publicitarias, logos, y diseño de marca en general, según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. 
+		  
+		  10. Escena 10: 
+		  Imagen: Objetos con la marca "SEÑAL X"
+		  
+		  Voz: (Off) Este Guion deberá contar con 20 escenas y detallar los segundos de duración de cada escena. El guion debe especificar la imagen que en cada escena y la voz de cada escena: 
+		  
+		  11. Escena 11:
+		  Imagen: Una persona enfrente de una pizarra o tablero con ideas anotadas.
+		  
+		  Voz: (Off) Escena 1: 
+		  Imagen: Logotipo "SEÑAL X"
+		  Voz: (Off) Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. 
+		  
+		  12. Escena 12:
+		  Imagen: Personas caminando o en un lugar público.
+		  
+		  Voz: (Off) Escena 2: 
+		  Imagen: Foto de una empresa que está cambiando o evolucionando.
+		  Voz: (Off) Nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles.
+		  
+		  13. Escena 13:
+		  Imagen: Una persona frente a una computadora trabajando.
+		  
+		  Voz: (Off) Escena 3: 
+		  Imagen: Personas trabajando en un taller.
+		  Voz: (Off) Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. 
+		  
+		  14. Escena 14:
+		  Imagen: Manos trabajando en un taller.
+		  
+		  Voz: (Off) Escena 4: 
+		  Imagen: Ejemplos de trabajos realizados por la empresa.
+		  Voz: (Off) Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
+		  
+		  15. Escena 15:
+		  Imagen: Una persona frente a una computadora trabajando.
+		  
+		  Voz: (Off) Escena 5: 
+		  Imagen: Diferentes ejemplos de vallas publicitarias.
+		  Voz: (Off) A personas dentro del proceso de decisión de marca. Creativos, gerent
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
@@ -790,3 +874,145 @@
 		-
 	-
 - Guion Señal X
+	- Guion de video publicitario:  
+	    
+	  INT. Talleres de Señal X - Día  
+	    
+	  Estamos en los talleres de Señal X, un lugar en donde la creatividad y la ejecución son clave para lograr piezas inolvidables. Sabemos cómo hacerlo y entendemos necesidades diferenciadas.  
+	    
+	  (Vemos a un grupo de trabajadores diseñando y pintando una nueva valla publicitaria para un cliente)  
+	    
+	  VOZ EN OFF  
+	  "Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve."  
+	    
+	  (Pasamos a ver como trabajan en la imprenta, en donde están imprimiendo carteles y volantes para una nueva campaña de un cliente)  
+	    
+	  VOZ EN OFF  
+	  "Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas.  
+	    
+	  (Volvemos a ver a los trabajadores, esta vez colocando la nueva valla publicitaria en una pared exterior)  
+	    
+	  VOZ EN OFF  
+	  "Nuestros Valores:   
+	  -Creatividad.   
+	  -Recursividad.   
+	  -Autoconfianza.   
+	  -Expertise.   
+	    
+	  La personalidad de nuestra marca   
+	  Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la creación con conciencia."  
+	    
+	  (Vemos como los trabajadores terminan de colocar la valla y dan los últimos retoques. Pasamos a ver una reunión en el departamento de marketing, en donde se está discutiendo una nueva campaña para un cliente)  
+	    
+	  VOZ EN OFF  
+	  "Voz y Estilo   
+	  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
+	    
+	  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)  
+	    
+	  VOZ EN OFF  
+	  "A quién hablamos?   
+	  A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
+	    
+	  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)  
+	    
+	  VOZ EN OFF  
+	  "Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. El Factor X de tu historia.   
+	  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.  
+	  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera."  
+	    
+	  (Vemos a los trabajadores finalizando la presentación y a los clientes potenciales impactados por la misma)  
+	    
+	  VOZ EN OFF  
+	  "Identificativos de marca   
+	  El corazón, alma y el centro de nuestra identidad.   
+	  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado."  
+	    
+	  (Vemos como los trabajadores están terminando una nueva valla publicitaria y colocándola en una pared exterior. Pasamos a ver a los clientes potenciales que están siendo impactados por la misma)  
+	    
+	  VOZ EN OFF  
+	  "Lo que representa nuestro Isologo: Una X.   
+	  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho."  
+	    
+	  (Vemos a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)  
+	    
+	  VOZ EN OFF  
+	  "Lo que representa nuestro Slogan: Construimos Historias.   
+	  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una."  
+	    
+	  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)  
+	    
+	  VOZ EN OFF  
+	  "Identificativo Principal   
+	  El imagotipo identifica a la marca Señal X  
+	    
+	  Colocar la duración de cada escena del Guion descrito en los párrafos anteriores
+		- según corresponda.  
+		    
+		  INT. Talleres de Señal X - Día  
+		    
+		  (Vemos a un grupo de trabajadores diseñando y pintando una nueva valla publicitaria para un cliente)  
+		    
+		  VOZ EN OFF  
+		  "Somos parte de tu historia. Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve."  
+		    
+		  (Pasamos a ver como trabajan en la imprenta, en donde están imprimiendo carteles y volantes para una nueva campaña de un cliente)  
+		    
+		  VOZ EN OFF  
+		  "Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas.  
+		    
+		  (Volvemos a ver a los trabajadores, esta vez colocando la nueva valla publicitaria en una pared exterior)  
+		    
+		  VOZ EN OFF  
+		  "Nuestros Valores:   
+		  -Creatividad.   
+		  -Recursividad.   
+		  -Autoconfianza.   
+		  -Expertise.   
+		    
+		  La personalidad de nuestra marca   
+		  Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la creación con conciencia."  
+		    
+		  (Vemos como los trabajadores terminan de colocar la valla y dan los últimos retoques. Pasamos a ver una reunión en el departamento de marketing, en donde se está discutiendo una nueva campaña para un cliente)  
+		    
+		  VOZ EN OFF  
+		  "Voz y Estilo   
+		  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
+		    
+		  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)  
+		    
+		  VOZ EN OFF  
+		  "A quién hablamos?   
+		  A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
+		    
+		  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)  
+		    
+		  VOZ EN OFF  
+		  "Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. El Factor X de tu historia.   
+		  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.  
+		  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera."  
+		    
+		  (Vemos a los trabajadores finalizando la presentación y a los clientes potenciales impactados por la misma)  
+		    
+		  VOZ EN OFF  
+		  "Identificativos de marca   
+		  El corazón, alma y el centro de nuestra identidad.   
+		  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado."  
+		    
+		  (Vemos como los trabajadores están terminando una nueva valla publicitaria y colocándola en una pared exterior. Pasamos a ver a los clientes potenciales que están siendo impactados por la misma)  
+		    
+		  VOZ EN OFF  
+		  "Lo que representa nuestro Isologo: Una X.   
+		  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho."  
+		    
+		  (Vemos a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)  
+		    
+		  VOZ EN OFF  
+		  "Lo que representa nuestro Slogan: Construimos Historias.   
+		  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una."  
+		    
+		  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)  
+		    
+		  VOZ EN OFF  
+		  "Identificativo Principal   
+		  El imagotipo identifica a la marca Señal X
