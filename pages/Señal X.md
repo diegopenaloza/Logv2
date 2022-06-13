@@ -49,7 +49,7 @@
 	  Guion de video Corporativo Publicitario para la empresa Señal X, con base a las características de los párrafos anteriores, con voz de mujer narrando cada una de las 20 escenas del video:
 	  
 	  Escena 1:  
-	     -Cámara: Muestra la fachada del edificio de la empresa
+	     -Cámara: Muestra la fachada del edificio de la empresa, con un movimiento de cámara lento hacia abajo 
 	     -Voz : "Bienvenidos a la Creatividad"
 	     -Música: Música Alegre de tipo electrónica
 	  Escena 2:  
