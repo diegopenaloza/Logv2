@@ -37,11 +37,11 @@
 	  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es **una promesa de calidad, consistencia y confiabilidad.** Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado
 	  
 	  Lo que representa nuestro Isologo: Una X
-	  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho.
+	  **Factor X, creatividad, sabiduría**. La X muestra lo que hemos construido, las relaciones con nuestros partners y es **una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho.**
 	  
-	  Lo que representa nuestro Slogan: Construimos Historias
+	  Lo que representa nuestro **Slogan: Construimos Historias**
 	  
-	  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una.
+	  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, **todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse**, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una.
 	  
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
