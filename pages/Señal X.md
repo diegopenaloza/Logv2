@@ -53,7 +53,7 @@
 	  Escena 3:
 		-
 		-
-		-
+		- | HOla | Como estas |
 		-
 		-
 		- .Ejemplo 2
