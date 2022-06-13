@@ -874,7 +874,7 @@
 		-
 	-
 - Guion Señal X
-	- Guion de video publicitario: #.v-kanban
+	- Guion de video publicitario: #.v-gallery-fit#.v-gallery-fit
 		- INT. Talleres de Señal X - Día  
 		    
 		  Estamos en los talleres de Señal X, un lugar en donde la creatividad y la ejecución son clave para lograr piezas inolvidables. Sabemos cómo hacerlo y entendemos necesidades diferenciadas.  
