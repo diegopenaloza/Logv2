@@ -1016,8 +1016,6 @@
 -
 - #.v-gallery
 	- ![image.png](../assets/image_1655131490830_0.png)
-		- - Paneo de Camra
-		  - 
-		  Central
+		-
 	- ![image.png](../assets/image_1655131512005_0.png)
 	- ![image.png](../assets/image_1655131533751_0.png)
