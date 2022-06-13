@@ -20,8 +20,8 @@
 	  **Nos guiamos por la sabiduría y la creatividad**. Conocemos bien la categoría y los procesos de producción pero **siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes** y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos **creación con conciencia.**
 	  
 	  Voz y Estilo
-	  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal
-	  Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz
+	  Hablamos con confianza y seguridad, **apelando a siempre crear más allá de lo normal**
+	  Nuestro **objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa**, comunicando sus valores, cambios o campañas masivas de manera eficaz
 	  
 	  ¿A quién hablamos?
 	  A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia.
