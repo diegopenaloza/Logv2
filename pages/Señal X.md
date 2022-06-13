@@ -45,7 +45,20 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto y debe ser escrito como tabla Markdown
+	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto. Tomando como ejemplo los siguientes párrafos:
+	   
+	  Saludo y planteamiento: «Hola, soy Joseph. ¿Quieres comprar en línea, pero la mayoría de las transacciones te inspiran desconfianza? Hoy te mostraré cómo verificar tus compras en línea para que no tengas una sola experiencia negativa.»
+	  
+	  _(Habla a la cámara directamente. Luego, aparecen imágenes de sitios web de compras.)_
+	  
+	  • Núcleo de contenido: «Primero, verifica que el sitio donde darás tus datos tiene el código de seguridad habilitado. Encuéntralo en la barra de direcciones. Segundo,...»
+	  
+	  _(Señala la secuencia de consejos con sus manos: 1, 2, 3... Aparecen las imágenes que ejemplifican cada punto.)_
+	  
+	  • Cierre e invitación: «Ahora puedes ir a la tienda en línea donde te encantaron sus productos y verificar que el sitio es seguro para la compra. ¡Ya no más dinero perdido! Entra al vínculo que aparece en la pantalla para que seas un experto en descubrir descuentos online».
+	  
+	  _(Vínculo a la oferta por medio de un formulario. Aparece el logotipo sobre un fondo celeste)._
+		-
 		-
 		- Formato de Guión en versión Columnas
 		- |ESCENA|IMAGEN|AUDIO|VOZ|TEXTO EN PANTALLA|
