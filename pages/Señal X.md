@@ -46,10 +46,88 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Escribir un guion publicitario para la presentación de la empresa llamada "SEÑAL X" que es una empresa que se dedica a la creación de , según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. Este Guion deberá contar con 20 escenas y definirse el tiempo que durara cada escena hasta cumplirse los 2 minutos:
+	  Escribir un guion publicitario para la presentación de la empresa llamada "SEÑAL X" que es una empresa que se dedica a la creación de vallas publicitarias, logos, y diseño de marca en general, según las características detalladas en los párrafos anteriores y que contenga una voz en off que resalte las frases que se encuentran dentro de los asteriscos. Este Guion deberá contar con 20 escenas y definirse el tiempo que durara cada escena hasta cumplirse los 2 minutos:
 		-
 		- Demos
 		  collapsed:: true
+			- [SEÑAL X]
+			  [voz en off]
+			  Estamos presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confían en nosotros, pudiendo así, ser parte de sus historias. 
+			  Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables nos mueve. 
+			  Conocemos bien la categoría y los procesos de producción, pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la creatividad con conciencia. 
+			  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal.
+			  Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
+			  A personas dentro del proceso de decisión de marca: creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia. 
+			  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. 
+			  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera. 
+			  Creamos, diseñamos e imprimimos todos los soportes necesarios para tu marca. 
+			  Realizamos la gestión de todos los procesos necesarios para la correcta aplicación de tu marca. 
+			  Pensamos en nuestro personal y su bienestar diario. 
+			  Cumplimos la legislación ambiental vigente y aprovechamos de forma óptima los recursos disponibles. 
+			  Contamos con soluciones a medida, adaptadas a tus necesidades. 
+			  La creatividad, el servicio y la experiencia nos avalan. 
+			  
+			  **Factor X, creatividad, sabiduría.** La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
+			  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una. 
+			  
+			  [Escena 1] 
+			  Hombre y mujer caminando por la calle, observan una tienda cerrada con un letrero de "SEÑAL X" y el hombre dice "¿Qué tal si probamos ahí?"
+			  [Escena 2] 
+			  Entran a la tienda y la mujer observa los diseños de productos en la vitrina, señalando uno que le gusta.
+			  [Escena 3] 
+			  Le preguntan al vendedor si pueden ver el producto y él les dirige hacia una mesa.
+			  [Escena 4] 
+			  El vendedor les explica los detalles del producto y su utilidad.
+			  [Escena 5] 
+			  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
+			  [Escena 6] 
+			  El vendedor le muestra el producto a la mujer y él ve que le gusta.
+			  [Escena 7] 
+			  El vendedor le pregunta al hombre si quiere ver también el producto.
+			  [Escena 8] 
+			  El hombre observa el producto y ve que le gusta.
+			  [Escena 9] 
+			  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
+			  [Escena 10] 
+			  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
+			  [Escena 11] 
+			  El vendedor le muestra el producto a la mujer y él ve que le gusta.
+			  [Escena 12] 
+			  El vendedor le pregunta al hombre si quiere ver también el producto.
+			  [Escena 13] 
+			  El hombre observa el producto y ve que le gusta.
+			  [Escena 14] 
+			  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
+			  [Escena 15] 
+			  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
+			  [Escena 16] 
+			  El vendedor le muestra el producto a la mujer y él ve que le gusta.
+			  [Escena 17] 
+			  El vendedor le pregunta al hombre si quiere ver también el producto.
+			  [Escena 18] 
+			  El hombre observa el producto y ve que le gusta.
+			  [Escena 19] 
+			  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
+			  [Escena 20] 
+			  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
+			  [Escena 21] 
+			  El vendedor le muestra el producto a la mujer y él ve que le gusta.
+			  [Escena 22] 
+			  El vendedor le pregunta al hombre si quiere ver también el producto.
+			  [Escena 23] 
+			  El hombre observa el producto y ve que le gusta.
+			  [Escena 24] 
+			  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
+			  [Escena 25] 
+			  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
+			  [Escena 26] 
+			  El vendedor le muestra el producto a la mujer y él ve que le gusta.
+			  [Escena 27] 
+			  El vendedor le pregunta al hombre si quiere ver también el producto.
+			  [Escena 28] 
+			  El hombre observa el producto y ve que le gusta.
+			  [Escena 29] 
+			  El
 			- En un mundo donde todos tienen algo que decir
 			  y las marcas necesitan comunicar sus cambios…
 			  se hace necesario contar con una empresa que entienda y proponga,
@@ -492,84 +570,6 @@
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
 		-
-		- [SEÑAL X]
-		  [voz en off]
-		  Estamos presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que confían en nosotros, pudiendo así, ser parte de sus historias. 
-		  Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables nos mueve. 
-		  Conocemos bien la categoría y los procesos de producción, pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la creatividad con conciencia. 
-		  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal.
-		  Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz. 
-		  A personas dentro del proceso de decisión de marca: creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia. 
-		  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. 
-		  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera. 
-		  Creamos, diseñamos e imprimimos todos los soportes necesarios para tu marca. 
-		  Realizamos la gestión de todos los procesos necesarios para la correcta aplicación de tu marca. 
-		  Pensamos en nuestro personal y su bienestar diario. 
-		  Cumplimos la legislación ambiental vigente y aprovechamos de forma óptima los recursos disponibles. 
-		  Contamos con soluciones a medida, adaptadas a tus necesidades. 
-		  La creatividad, el servicio y la experiencia nos avalan. 
-		  
-		  **Factor X, creatividad, sabiduría.** La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho. 
-		  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una. 
-		  
-		  [Escena 1] 
-		  Hombre y mujer caminando por la calle, observan una tienda cerrada con un letrero de "SEÑAL X" y el hombre dice "¿Qué tal si probamos ahí?"
-		  [Escena 2] 
-		  Entran a la tienda y la mujer observa los diseños de productos en la vitrina, señalando uno que le gusta.
-		  [Escena 3] 
-		  Le preguntan al vendedor si pueden ver el producto y él les dirige hacia una mesa.
-		  [Escena 4] 
-		  El vendedor les explica los detalles del producto y su utilidad.
-		  [Escena 5] 
-		  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
-		  [Escena 6] 
-		  El vendedor le muestra el producto a la mujer y él ve que le gusta.
-		  [Escena 7] 
-		  El vendedor le pregunta al hombre si quiere ver también el producto.
-		  [Escena 8] 
-		  El hombre observa el producto y ve que le gusta.
-		  [Escena 9] 
-		  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
-		  [Escena 10] 
-		  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
-		  [Escena 11] 
-		  El vendedor le muestra el producto a la mujer y él ve que le gusta.
-		  [Escena 12] 
-		  El vendedor le pregunta al hombre si quiere ver también el producto.
-		  [Escena 13] 
-		  El hombre observa el producto y ve que le gusta.
-		  [Escena 14] 
-		  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
-		  [Escena 15] 
-		  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
-		  [Escena 16] 
-		  El vendedor le muestra el producto a la mujer y él ve que le gusta.
-		  [Escena 17] 
-		  El vendedor le pregunta al hombre si quiere ver también el producto.
-		  [Escena 18] 
-		  El hombre observa el producto y ve que le gusta.
-		  [Escena 19] 
-		  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
-		  [Escena 20] 
-		  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
-		  [Escena 21] 
-		  El vendedor le muestra el producto a la mujer y él ve que le gusta.
-		  [Escena 22] 
-		  El vendedor le pregunta al hombre si quiere ver también el producto.
-		  [Escena 23] 
-		  El hombre observa el producto y ve que le gusta.
-		  [Escena 24] 
-		  El vendedor les dice que si compran el producto, les dará un descuento en otro producto.
-		  [Escena 25] 
-		  La mujer señala otro producto y el vendedor le dice que ese producto es nuevo y que aún no está en la vitrina.
-		  [Escena 26] 
-		  El vendedor le muestra el producto a la mujer y él ve que le gusta.
-		  [Escena 27] 
-		  El vendedor le pregunta al hombre si quiere ver también el producto.
-		  [Escena 28] 
-		  El hombre observa el producto y ve que le gusta.
-		  [Escena 29] 
-		  El
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
