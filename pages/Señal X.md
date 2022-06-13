@@ -148,5 +148,40 @@
 		  
 		  Música: 
 		  Una melodía pegajosa y alegre
+		- -Se muestra a los trabajadores en los pasillos de la empresa
+		  Escena 4:
+		  -Se muestran a los trabajadores en sus respectivas areas de trabajo
+		  Escena 5: 
+		  -Mientras suena una melodía relajante, se van mostrando las palabras "ser parte de la historia de cada cliente"
+		  Escena 6: 
+		  -Se muestra la imagen de una persona pensando
+		  Escena 7: 
+		  -Se muestra la imagen de un grupo de personas en una junta de negocios
+		  Escena 8:
+		  -Se muestra la imagen de una persona usando una computadora
+		  Escena 9:
+		  -Se muestra la imagen de una persona trabajando en una maquina
+		  Escena 10:
+		  -Se muestra la imagen de una persona tomando un cafe
+		  Escena 11:
+		  -Se muestra la imagen de una persona charlando con otra
+		  Escena 12:
+		  -Se muestra la imagen de una persona mirando a la camara
+		  Escena 13:
+		  -Se muestra la imagen de una persona posando para una foto
+		  Escena 14:
+		  -Se muestra la imagen de una persona firmando un papel
+		  Escena 15:
+		  -Se muestra la imagen de unos productos de la marca
+		  Escena 16:
+		  -Se muestra la imagen de una persona usando un producto de la marca
+		  Escena 17:
+		  -Se muestran unos carteles con la marca
+		  Escena 18:
+		  -Se muestra una persona mirando a un cartel
+		  Escena 19:
+		  -Se muestran unas luces parpadeando
+		  Escena 20:
+		  -Se muestra el logo de la marca
 	-
 -
