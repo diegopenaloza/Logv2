@@ -47,7 +47,7 @@
 	  
 	  Guion de Video Corporativo con la Información de los párrafos anteriores. El guion cuenta con 20 ESCENAS y debe durar 1 minuto y debe ser escrito como tabla Markdown
 		-
-		- Formato de Guión
+		- Formato de Guión en versión Columnas
 		- |ESCENA|IMAGEN|AUDIO|VOZ|TEXTO EN PANTALLA|
 		  |--|--|--|--|--|
 		  |1|Fachada de Señal X|Música Suave Alegre|Bienvenidos a tu Historia|Desde 1999|
@@ -216,48 +216,6 @@
 			  -Una voz en off dice: "Voz y Estilo. Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz."
 			  Escena 16: 
 			  -Una voz en off dice: "¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problem
-		- |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  |||||
-		  ||||
-		  
-		  El video debe anclarse en cada uno de los aspectos de Señal X:
-		  
-		  -Creando piezas inolvidables.
-		  -La efectividad y creatividad nos mueven.
-		  -Estandares de calidad.
-		  -Experiencia.
-		  -Innovacion.
-		  - personalidad de la marca.
-		  -Hablamos con confianza y seguridad.
-		  -Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa.
-		- |3|Pasillo Interior|Música Alegre|Un espacio para la creatividad|Somos parte de tu historia.|
-		  |4|Zona de trabajo|Música Alegre|Un lugar para innovar|Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias.|
-		  |5|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve.|
-		  |6|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Desde 1999|
-		  |7|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad. Pensamos en nuestro personal y su bienestar diario.|
-		  |8|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles.|
-		  |9|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Nuestra experiencia se basa en ser parte de la historia de cada cliente que haya pasado por nuestros talleres, sabemos cómo hacerlo y entendemos necesidades diferenciadas.|
-		  |10|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Nuestros Valores: Creatividad, Recursividad, Autoconfianza, Expertisse|
-		  |11|Zona de trabajo|Música Alegre|Un lugar para la creatividad|La personalidad de nuestra marca Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la Creativos creación con conciencia.|
-		  |12|Zona de trabajo|Música Alegre|Un lugar para la creatividad|Voz y Estilo Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o campañas masivas de manera eficaz|
-		  |13|Zona de trabajo|Música Alegre|Un lugar para la creatividad|¿A quién hablamos? A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia.
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
