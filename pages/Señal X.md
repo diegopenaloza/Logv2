@@ -24,10 +24,10 @@
 	  Nuestro **objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa**, comunicando sus valores, cambios o campañas masivas de manera eficaz
 	  
 	  ¿A quién hablamos?
-	  A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia.
+	  A personas dentro del proceso de decisión de marca. **Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca.** En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia.
 	  
 	  
-	  Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. El Factor X de tu historia
+	  **Construimos historias**. Tus partners de negocio. **Creatividad sin preocupaciones**. El Factor X de tu historia
 	  
 	  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.
 	  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera.
