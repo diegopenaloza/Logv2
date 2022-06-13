@@ -687,8 +687,6 @@
 			  
 			  INT. Talleres de Señal X - Día
 			  
-			  [00:30]
-			  
 			  (Vemos a un grupo de trabajadores diseñando y pintando una nueva valla publicitaria para un cliente)
 			  
 			  VOZ EN OFF
