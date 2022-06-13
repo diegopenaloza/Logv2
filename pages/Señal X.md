@@ -343,7 +343,6 @@
 		  Escena 17:
 		     -Cámara: Se ve a una persona en una oficina
 		     -Voz : " Y aprovechando de forma óptima los recursos disponibles "
-		     -
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
