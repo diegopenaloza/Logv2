@@ -3,4 +3,7 @@
 	- Sobre la Marca
 	  Somos parte de tu historia.
 	  Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve.
+	- Que dice el párrafo anterior
+		- The author is talking about how the Internet has allowed people to connect with each other in ways that were not possible before.
+	-
 -
