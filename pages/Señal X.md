@@ -612,9 +612,9 @@
 		-
 		- Guion de video publicitario:
 		  
-		  INT. Talleres de Señal X - Día
+		  INT. Talleres de [[Señal X]] - Día
 		  
-		  Estamos en los talleres de Señal X, un lugar en donde la creatividad y la ejecución son clave para lograr piezas inolvidables. Sabemos cómo hacerlo y entendemos necesidades diferenciadas.
+		  Estamos en los talleres de [[Señal X]], un lugar en donde la creatividad y la ejecución son clave para lograr piezas inolvidables. Sabemos cómo hacerlo y entendemos necesidades diferenciadas.
 		  
 		  (Vemos a un grupo de trabajadores diseñando y pintando una nueva valla publicitaria para un cliente)
 		  
@@ -642,7 +642,7 @@
 		  
 		  VOZ EN OFF
 		  "Voz y Estilo 
-		  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."
+		  Hablamos con confianza y seguridad, apelando a siempre crear má[[S]] allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."
 		  
 		  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)
 		  
@@ -655,7 +655,7 @@
 		  VOZ EN OFF
 		  "Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. El Factor X de tu historia. 
 		  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.
-		  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema (s) de cualquier manera."
+		  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema ([[S]]) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema ([[S]]) de cualquier manera."
 		  
 		  (Vemos a los trabajadores finalizando la presentación y a los clientes potenciales impactados por la misma)
 		  
@@ -680,7 +680,7 @@
 		  
 		  VOZ EN OFF
 		  "Identificativo Principal 
-		  El imagotipo identifica a la marca Señal X
+		  El imagotipo identifica a la marca [[Señal X]]
 		  
 		  Colocar la duración de cada escena del Guion descrito en los párrafos anteriores
 			- según corresponda.
