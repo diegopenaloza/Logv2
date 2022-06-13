@@ -55,8 +55,9 @@
 	  Escena 2:  
 	     -Cámara: Se muestra el ingreso a la empresa , con un movimiento de cámara lento y después acelerando respecto a la música
 	     -Voz : " Bienvenidos a tu historia "
-	     -Música: Música Alegre se baja el volumen
+	     -Música: Música Alegre pero mas pausada y  se baja el volumen
 	  Escena 3:
+		-
 		-
 		-
 		- Formato de Guión en versión Columnas
@@ -285,64 +286,110 @@
 			  
 			  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.
 			  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicla fa
-		- -Cámara: Se muestra un pasillo con fotos 
-		     -Voz : " Hemos estado presentes en varias etapas del crecimiento "
-		     -Música: Música Alegre va aumentando el volumen 
-		  Escena 4: 
-		     -Cámara: Se ven las fotos de las personas que están trabajando en la empresa
-		     -Voz : " Y siendo parte de la comunicación de nuevos cambios "
-		     -Música: Música Alegre 
-		  Escena 5:
-		     -Cámara: Se ve a un grupo de personas en una reunion
-		     -Voz : " Objetivos y nuevas estrategias de cada una de las marcas "
-		     -Música: Música Alegre 
-		  Escena 6:
-		     -Cámara: Se ven las personas trabajando en los computadores
-		     -Voz : " Pudiendo así, ser parte de sus historias "
-		     -Música: Música Alegre 
-		  Escena 7:
-		     -Cámara: Se ve a una persona trabajando en una computadora
-		     -Voz : " Somos el Factor X que nuestros partners necesitan "
-		     -Música: Música Alegre se va aumentando el volumen
-		  Escena 8:
-		     -Cámara: Se ve a todos los empleados de la empresa caminando
-		     -Voz : " La efectividad y creatividad para lograr piezas inolvidables "
-		     -Música: Música Alegre se va aumentando el volumen
-		  Escena 9:
-		     -Cámara: Se ve a unas personas en una mesa de reunión
-		     -Voz : " Es lo que nos mueve "
-		     -Música: Música Alegre
-		  Escena 10:
-		     -Cámara: Se ve el interior de la empresa
-		     -Voz : " Desde 1999 "
-		     -Música: Música Alegre
-		  Escena 11:
-		     -Cámara: Se muestra a la gente trabajando
-		     -Voz : " Una empresa donde la innovación, los altísimos estándares de calidad "
-		     -Música: Música Alegre
-		  Escena 12:
-		     -Cámara: Se muestra a la gente disfrutando de su trabajo
-		     -Voz : " Y el servicio al cliente son prioridad "
-		     -Música: Música Alegre 
-		  Escena 13:
-		     -Cámara: Se muestra a un grupo de personas trabajando en equipo
-		     -Voz : " Pensamos en nuestro personal y su bienestar diario "
-		     -Música: Música Alegre 
+		- Ejemplo 8
+		  collapsed:: true
+			- -Cámara: Se muestra un pasillo con fotos 
+			     -Voz : " Hemos estado presentes en varias etapas del crecimiento "
+			     -Música: Música Alegre va aumentando el volumen 
+			  Escena 4: 
+			     -Cámara: Se ven las fotos de las personas que están trabajando en la empresa
+			     -Voz : " Y siendo parte de la comunicación de nuevos cambios "
+			     -Música: Música Alegre 
+			  Escena 5:
+			     -Cámara: Se ve a un grupo de personas en una reunion
+			     -Voz : " Objetivos y nuevas estrategias de cada una de las marcas "
+			     -Música: Música Alegre 
+			  Escena 6:
+			     -Cámara: Se ven las personas trabajando en los computadores
+			     -Voz : " Pudiendo así, ser parte de sus historias "
+			     -Música: Música Alegre 
+			  Escena 7:
+			     -Cámara: Se ve a una persona trabajando en una computadora
+			     -Voz : " Somos el Factor X que nuestros partners necesitan "
+			     -Música: Música Alegre se va aumentando el volumen
+			  Escena 8:
+			     -Cámara: Se ve a todos los empleados de la empresa caminando
+			     -Voz : " La efectividad y creatividad para lograr piezas inolvidables "
+			     -Música: Música Alegre se va aumentando el volumen
+			  Escena 9:
+			     -Cámara: Se ve a unas personas en una mesa de reunión
+			     -Voz : " Es lo que nos mueve "
+			     -Música: Música Alegre
+			  Escena 10:
+			     -Cámara: Se ve el interior de la empresa
+			     -Voz : " Desde 1999 "
+			     -Música: Música Alegre
+			  Escena 11:
+			     -Cámara: Se muestra a la gente trabajando
+			     -Voz : " Una empresa donde la innovación, los altísimos estándares de calidad "
+			     -Música: Música Alegre
+			  Escena 12:
+			     -Cámara: Se muestra a la gente disfrutando de su trabajo
+			     -Voz : " Y el servicio al cliente son prioridad "
+			     -Música: Música Alegre 
+			  Escena 13:
+			     -Cámara: Se muestra a un grupo de personas trabajando en equipo
+			     -Voz : " Pensamos en nuestro personal y su bienestar diario "
+			     -Música: Música Alegre 
+			  Escena 14:
+			     -Cámara: Se ve el equipo de la empresa en un evento
+			     -Voz : " Actualmente nos enfocamos en apoyar al planeta "
+			     -Música: Música Alegre 
+			  Escena 15:
+			     -Cámara: Se ve a la gente trabajando
+			     -Voz : " A través de la prevención de los aspectos e impactos ambientales "
+			     -Música: Música Alegre 
+			  Escena 16:
+			     -Cámara: Se ve a una persona trabajando en un computador
+			     -Voz : " Cumpliendo la legislación ambiental vigente "
+			     -Música: Música Alegre 
+			  Escena 17:
+			     -Cámara: Se ve a una persona en una oficina
+			     -Voz : " Y aprovechando de forma óptima los recursos disponibles "
+		- -Cámara: Se ve a un grupo de personas dentro de la oficina trabajando con ordenadores, con una mesa de reuniones en el fondo.
+		     -Voz : " Hemos estado presentes "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 4:  
+		     -Cámara: Se ve a un grupo de personas dentro de la oficina trabajando en una mesa, con una impresora en el fondo.
+		     -Voz : " En varias etapas del crecimiento de las empresas "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 5:  
+		     -Cámara: Se ve a un grupo de personas dentro de la oficina trabajando, con una ventana al fondo.
+		     -Voz : " Siendo parte de la comunicación "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 6:  
+		     -Cámara: Se ve a una persona en su ordenador, con un papel impreso en la mesa.
+		     -Voz : " De nuevos cambios "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 7:  
+		     -Cámara: Se ve a una persona en su ordenador, con un papel impreso en la mesa.
+		     -Voz : " Objetivos "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 8:  
+		     -Cámara: Se ve a una persona lendo un papel impreso.
+		     -Voz : " Y nuevas estrategias "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 9:  
+		     -Cámara: Se ve a una persona en su ordenador, con un papel impreso en la mesa.
+		     -Voz : " De cada una de las marcas "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 10:  
+		     -Cámara: Se ve a un grupo de personas en una reunión, con una mesa llena de papeles.
+		     -Voz : " Que han confiado en nosotros "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 11:  
+		     -Cámara: Se ve a una persona tecleando en su ordenador.
+		     -Voz : " Pudiendo así, ser parte "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 12:  
+		     -Cámara: Se ve a un grupo de personas caminando por un pasillo.
+		     -Voz : " De sus historias "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
+		  Escena 13:  
+		     -Cámara: Se ve a un grupo de personas en una reunión, con una mesa llena de papeles.
+		     -Voz : " Somos el Factor X "
+		     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 		  Escena 14:
-		     -Cámara: Se ve el equipo de la empresa en un evento
-		     -Voz : " Actualmente nos enfocamos en apoyar al planeta "
-		     -Música: Música Alegre 
-		  Escena 15:
-		     -Cámara: Se ve a la gente trabajando
-		     -Voz : " A través de la prevención de los aspectos e impactos ambientales "
-		     -Música: Música Alegre 
-		  Escena 16:
-		     -Cámara: Se ve a una persona trabajando en un computador
-		     -Voz : " Cumpliendo la legislación ambiental vigente "
-		     -Música: Música Alegre 
-		  Escena 17:
-		     -Cámara: Se ve a una persona en una oficina
-		     -Voz : " Y aprovechando de forma óptima los recursos disponibles "
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
