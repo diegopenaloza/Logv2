@@ -52,8 +52,9 @@
 	  -Se muestra a los trabajadores llegando contentos a la empresa
 	  Escena 3:
 		-
-		-
-		- | HOla | Como estas |
+		- |ESCENA|IMAGEN|AUDIO|VOZ|TEXTO EN PANTALLA|
+		  |--|--|--|--|--|
+		  |1|Fachada de Señal X|Música Suave Alegre|Bienvenidos a tu Historia|Desde 1999|
 		-
 		-
 		- .Ejemplo 2
