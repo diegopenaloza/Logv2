@@ -231,4 +231,5 @@
 		  
 		  La mujer joven en este video está tomando un medicamento que la hace sentir mejor. Se siente mejor porque ha ayudado a otra persona, y su familia le dice que debería tomar el medicamento más a menudo.
 		-
+	-
 -
