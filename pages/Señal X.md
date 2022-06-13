@@ -49,7 +49,8 @@
 	  Escena 1: 
 	  -Se muestra una imagen de la parte frontal de el edificio de Señal X
 	  Escena 2:
-	  -Se muestra a los trabajadores
+	  -Se muestra a los trabajadores llegando contentos a la empresa
+	  Escena 3:
 		-
 		-
 		- .Ejemplo 2
@@ -126,5 +127,23 @@
 			  "Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general."
 			  
 			  "El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema (s) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independient
+		- -Personas trabajando en oficina
+		  Escena 4: 
+		  - Personas en reuniones
+		  Escena 5: 
+		  - Haciendo ejercicio en la sala de descanso
+		  Escena 6: 
+		  - Trabajadores en planta
+		  Escena 7: 
+		  - Trabajadores en contacto con clientes
+		  Escena 8: 
+		  - Trabajadores saliendo de la oficina
+		  Escena 9: 
+		  - Logotipo de Señal X en pantalla 
+		  Escena 10: 
+		  - Chica y chico saliendo de la oficina y montando en bicicletas respectivamente.
+		  
+		  Música: 
+		  Una melodía pegajosa y alegre
 	-
 -
