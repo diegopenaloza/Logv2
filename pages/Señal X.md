@@ -610,7 +610,7 @@
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
 		-
-		- **
+		- Guion de video publicitario:
 		  
 		  INT. Talleres de Señal X - Día
 		  
