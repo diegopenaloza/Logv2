@@ -45,8 +45,9 @@
 	  Identificativo Principal
 	  El imagotipo identifica a la marca Señal X en su totalidad. Utilice este isologo para representar ubicaciones, productos, mercancías y operaciones mayoristas individuales. Este isologo es un elemento cuidadosamente creado que no debe modificarse de ninguna manera.
 	  
-	  Escena 1
-	  -
+	  Guion de Video Corporativo con la Información de los párrafos anteriores
+	  Escena 1: 
+	  Se muestra una imagen de la parte f
 		-
 		-
 		- .Ejemplo 2
