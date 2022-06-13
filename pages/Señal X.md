@@ -2,7 +2,7 @@
 	- Guía de Estilo
 	- TODO Sobre la Marca
 	  Somos parte de tu historia.
-	  Hemos estado presentes en varias etapas del crecimiento de las empresas, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, ser parte de sus historias. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve.
+	  Hemos estado presentes en varias etapas del **crecimiento de las empresas**, siendo parte de la comunicación de nuevos cambios, objetivos y nuevas estrategias de cada una de las marcas que han confiado en nosotros, pudiendo así, **ser parte de sus historias**. Somos el Factor X que nuestros partners necesitan, la efectividad y creatividad para lograr piezas inolvidables es lo que nos mueve.
 	  Desde 1999
 	  Una empresa donde la innovación, los altísimos estándares de calidad y el servicio al cliente son prioridad. Pensamos en nuestro personal y su bienestar diario.
 	  Actualmente nos enfocamos en apoyar al planeta a través de la prevención de los aspectos e impactos ambientales, cumpliendo la legislación ambiental vigente y aprovechando de forma óptima los recursos disponibles.
@@ -47,16 +47,25 @@
 	  
 	  
 	  Guion de video Corporativo Publicitario para la empresa Señal X, con base a las características de los párrafos anteriores, con voz de mujer narrando cada una de las 20 escenas del video:
-	  
-	  Escena 1:  
-	     -Cámara: Muestra la fachada del edificio de la empresa, con un movimiento de cámara lento hacia abajo 
-	     -Voz : "Bienvenidos a la Creatividad"
-	     -Música: Música Alegre de tipo electrónica
-	  Escena 2:  
-	     -Cámara: Se muestra el ingreso a la empresa , con un movimiento de cámara lento y después acelerando respecto a la música
-	     -Voz : " Bienvenidos a tu historia "
-	     -Música: Música Alegre pero mas pausada y  se baja el volumen
-	  Escena 3:
+		-
+		-
+		-
+		-
+		-
+		-
+		-
+		-
+		-
+		- ---
+		- Escena 1:  
+		     -Cámara: Muestra la fachada del edificio de la empresa, con un movimiento de cámara lento hacia abajo 
+		     -Voz : "Bienvenidos a la Creatividad"
+		     -Música: Música Alegre de tipo electrónica
+		  Escena 2:  
+		     -Cámara: Se muestra el ingreso a la empresa , con un movimiento de cámara lento y después acelerando respecto a la música
+		     -Voz : " Bienvenidos a tu historia "
+		     -Música: Música Alegre pero mas pausada y  se baja el volumen
+		  Escena 3:
 		-
 		-
 		-
