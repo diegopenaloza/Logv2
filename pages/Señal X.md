@@ -53,7 +53,7 @@
 	     -Voz : "Bienvenidos a la Creatividad"
 	     -Música: Música Alegre de tipo electrónica
 	  Escena 2:  
-	     -Cámara: Se muestra el ingreso a la empresa 
+	     -Cámara: Se muestra el ingreso a la empresa , con un movimiento de cámara lento y después acelerando respecto a la música
 	     -Voz : " Bienvenidos a tu historia "
 	     -Música: Música Alegre se baja el volumen
 	  Escena 3:
