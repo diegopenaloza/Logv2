@@ -491,6 +491,7 @@
 			     -Voz : " Somos el Factor X "
 			     -Música: Música Alegre de tipo electrónica con un toque de énfasis en la voz 
 			  Escena 14:
+		-
 	-
 	- Ejemplo de un guion publicitario profesional, para un video viral
 	  collapsed:: true
