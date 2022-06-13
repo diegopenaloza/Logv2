@@ -899,15 +899,13 @@
 		  La personalidad de nuestra marca   
 		  Nos guiamos por la sabiduría y la creatividad. Conocemos bien la categoría y los procesos de producción pero siempre estamos dispuestos a innovar y arriesgarnos por lograr cosas diferentes y llamativas. No tenemos miedo a cambiar ni experimentar, apoyando siempre a la creación con conciencia."  
 		    
-		  (Vemos como los trabajadores terminan de colocar la valla y dan los últimos retoques. Pasamos a ver una reunión en el departamento de marketing, en donde se está discutiendo una nueva campaña para un cliente)  
-		    
-		  VOZ EN OFF  
+		  (Vemos como los trabajadores terminan de colocar la valla y dan los últimos retoques. Pasamos a ver una reunión en el departamento de marketing, en donde se está discutiendo una nueva campaña para un cliente)
+		- VOZ EN OFF  
 		  "Voz y Estilo   
 		  Hablamos con confianza y seguridad, apelando a siempre crear más allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
 		    
-		  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)  
-		    
-		  VOZ EN OFF  
+		  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)
+		- VOZ EN OFF  
 		  "A quién hablamos?   
 		  A personas dentro del proceso de decisión de marca. Creativos, gerentes y dirigentes de empresas, encargados de comunicar objetivos, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."  
 		    
