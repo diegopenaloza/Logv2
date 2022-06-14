@@ -662,7 +662,7 @@
 		  VOZ EN OFF
 		  "Identificativos de marca 
 		  El corazón, alma y el centro de nuestra identidad. 
-		  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es una promesa de calidad, consistencia y confiabilidad. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado."
+		  Nuestro logotipo es la forma en que nuestros clientes nos distinguen de una industria abarrotada. Es [[#yellow]]==una promesa de calidad, consistencia y confiabilidad==. Como tal, es vital que nuestro logo se presente correctamente en cada ejecución. Esta sección cubre estas pautas en detalle. Cualquier uso del logotipo de nuestra marca fuera del contenido de esta sección se considerará no autorizado."
 		  
 		  (Vemos como los trabajadores están terminando una nueva valla publicitaria y colocándola en una pared exterior. Pasamos a ver a los clientes potenciales que están siendo impactados por la misma)
 		  
