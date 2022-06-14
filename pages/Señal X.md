@@ -653,7 +653,7 @@
 		  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)
 		  
 		  VOZ EN OFF
-		  "Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. El Factor X de tu historia. 
+		  "Construimos historias. Tus partners de negocio. Creatividad sin preocupaciones. [[#yellow]]==El Factor X de tu historia==. 
 		  Nuestros taglines, que están escritos profesionalmente, son una representación del valor de nuestra marca y nuestra misión general.
 		  El propósito de los lemas de nuestra marca es capturar y resumir nuestra promesa de marca, valores de marca y experiencia con el producto. El (los) lema ([[S]]) se pueden usar en cualquier material de marketing, publicidad o ejecución de marca donde veamos para comunicar nuestra personalidad, misión o valores de marca. Cada lema se puede utilizar en combinación con el logotipo de la marca y las imágenes de la marca como una campaña de marketing de marca independiente. Los lemas de la marca no deben combinarse con lemas o frases específicos de la campaña. Evita reescribir, reformular o editar el (los) lema ([[S]]) de cualquier manera."
 		  
