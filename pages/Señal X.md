@@ -668,7 +668,7 @@
 		  
 		  VOZ EN OFF
 		  "Lo que representa nuestro Isologo: Una X. 
-		  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho."
+		  Factor X, creatividad, sabiduría. La X muestra lo que hemos construido, las relaciones con nuestros partners y es una manera de [[#yellow]]==marcar lo que hemos hecho, un trabajo marcado con nuestro isologo es un trabajo bien hecho."==
 		  
 		  (Vemos a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)
 		  
