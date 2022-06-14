@@ -642,7 +642,7 @@
 		  
 		  VOZ EN OFF
 		  "Voz y Estilo 
-		  Hablamos con confianza y seguridad, apelando a siempre crear má[[S]] allá de lo normal. Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."
+		  [[#yellow]]==Hablamos con confianza y seguridad, apelando a siempre crear má[[S]] allá de lo normal.== Nuestro objetivo principal es contar cómo fuimos, o somos, parte de la historia de cada empresa, comunicando sus valores, cambios o introducir una nueva marca. En búsqueda de una empresa que entienda y proponga, que resuelva problemáticas reales en tiempo récord, pero sobre todo, una empresa que demuestre experiencia frente a su competencia."
 		  
 		  (Pasamos a ver a los trabajadores en una reunión en la oficina, en donde están discutiendo un nuevo proyecto con un cliente)
 		  
