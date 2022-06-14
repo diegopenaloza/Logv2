@@ -674,7 +674,7 @@
 		  
 		  VOZ EN OFF
 		  "Lo que representa nuestro Slogan: Construimos Historias. 
-		  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta,[[#yellow]]== todos requieren creatividad==, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una."
+		  Todos tenemos algo que decir, cuando una marca cambia, cuando una empresa crece; cuando las decisiones están tomadas y la ejecución entra por la puerta, todos requieren creatividad, todos requieren efectividad y todos requieren un factor X para diferenciarse, decir es comunicar y todos quieren hacerlo de manera correcta; todos tienen historias y nos alegra decir que somos parte de cada una."
 		  
 		  (Pasamos a ver como los trabajadores están preparando una nueva presentación para un cliente potencial)
 		  
