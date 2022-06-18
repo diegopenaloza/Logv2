@@ -56,8 +56,8 @@
   :block/created-at 1654957967171,
   :block/updated-at 1654957967171}
  {:block/name "ecuador",
-  :block/created-at 1654864265115,
-  :block/updated-at 1654864265115}
+  :block/created-at 1655391788774,
+  :block/updated-at 1655391788774}
  {:block/name "favorites",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -98,7 +98,10 @@
   :block/updated-at 1655350921174}
  {:block/name "jun 16th, 2022",
   :block/created-at 1655378920683,
-  :block/updated-at 1655378920683}
+  :block/updated-at 1655392083780}
+ {:block/name "jun 17th, 2022",
+  :block/created-at 1655464955370,
+  :block/updated-at 1655464955370}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
