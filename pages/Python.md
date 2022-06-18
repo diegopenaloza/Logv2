@@ -1,5 +1,7 @@
 - Archivos Locales
+  collapsed:: true
 	- RAR
+	  collapsed:: true
 		- Extraer Archivos, en la carpeta donde se encuentre el archivo principal,  de un archivo comprimido RAR:
 		  collapsed:: true
 			- Primero instalamos la librería `patool`
@@ -31,4 +33,9 @@
 			- Ref
 			  collapsed:: true
 				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
--
+- Pandas
+	- Convertir archivos
+		- De Stata(.dta) a Python
+		- ``` 
+		  
+		  ```
