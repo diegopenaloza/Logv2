@@ -40,5 +40,7 @@
   
   "C:\Users\Diego\Desktop\Universidad\Regulación\Untitled.ipynb"
   
+  <html> <embed type="text/html" src="C:/Users/Diego/Desktop/Universidad/Regulación\Untitled.ipynb" width="500" height="200"></html>
+  
   ```
-- <html> <embed type="text/html" src="snippet.html" width="500" height="200"></html>
+- <html> <embed type="text/html" src="C:/Users/Diego/Desktop/Universidad/Regulación\Untitled.ipynb" width="500" height="200"></html>
