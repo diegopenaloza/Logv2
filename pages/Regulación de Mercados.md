@@ -1,4 +1,4 @@
 alias:: Regulación
 
-- #Trabajo [[Tarifación]]
+- #Trabajo [[Tarifación/Bloques Crecientes]]
 -
