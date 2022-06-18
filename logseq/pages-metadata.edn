@@ -110,7 +110,7 @@
   :block/updated-at 1655464955370}
  {:block/name "jun 18th, 2022",
   :block/created-at 1655565070663,
-  :block/updated-at 1655579510275}
+  :block/updated-at 1655588500337}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
@@ -123,18 +123,24 @@
  {:block/name "logseq",
   :block/created-at 1654745858056,
   :block/updated-at 1654745858056}
+ {:block/name "me_distraje",
+  :block/created-at 1655585453731,
+  :block/updated-at 1655585453731}
  {:block/name "now",
   :block/created-at 1654745543997,
   :block/updated-at 1654745543997}
  {:block/name "planificación económica",
   :block/created-at 1654864427359,
   :block/updated-at 1654864427359}
+ {:block/name "python",
+  :block/created-at 1655587919582,
+  :block/updated-at 1655589587231}
  {:block/name "regulación",
   :block/created-at 1655574662652,
   :block/updated-at 1655574662652}
  {:block/name "regulación de mercados",
   :block/created-at 1655574654963,
-  :block/updated-at 1655583980753}
+  :block/updated-at 1655585243726}
  {:block/name "revisar",
   :block/created-at 1654746480296,
   :block/updated-at 1654746480296}
