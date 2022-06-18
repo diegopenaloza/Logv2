@@ -1,6 +1,7 @@
 - Archivos Locales
 	- RAR
 		- Extraer Archivos, en la carpeta donde se encuentre el archivo principal,  de un archivo comprimido RAR:
+		  collapsed:: true
 			- Primero instalamos la librería `patool`
 			- ``` Python
 			  pip install patool
@@ -11,6 +12,9 @@
 			  # poner los archvos descomprimidos
 			  patoolib.extract_archive("Test.rar", outdir="/some/dir")
 			  ```
+			- ref
+			  collapsed:: true
+				- https://stackoverflow.com/questions/43527641/extract-single-file-from-rar-archive-with-rarfile-in-python
 	- Carpetas
 	  collapsed:: true
 		- Como mostrar archivos dentro de una carpeta
