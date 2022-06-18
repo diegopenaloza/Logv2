@@ -1,6 +1,10 @@
 - Archivos Locales
 	- RAR
-		- Extraer Archivos RAR
+		- Extraer Archivos RAR:
+			- Primero instalamos la librería
+			- ``` 
+			  
+			  ```
 		- ``` Python
 		  ```
 	- Carpetas
