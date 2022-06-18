@@ -36,6 +36,9 @@
 - Pandas
 	- Convertir archivos
 		- De Stata(.dta) a Python
-		- ``` 
-		  
+		- ``` Python
+		  df = pd.read_stata('animals.dta')
 		  ```
+		- ref
+		  collapsed:: true
+			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
