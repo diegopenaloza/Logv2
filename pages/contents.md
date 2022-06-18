@@ -20,6 +20,7 @@
 		- https://www.forbes.com.ec/millonarios/cuales-son-cinco-libros-bill-gates-recomienda-leer-invierno-n16942
 - ---
 - 🧠 [[Ideas]]
+  collapsed:: true
 	- TODO Servicio de Facturación Para N5 Studio
 	-
 - ---
