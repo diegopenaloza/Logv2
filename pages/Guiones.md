@@ -24,6 +24,7 @@
 	  Ana era una pingüina que nació en Perú. Cuando era joven, ella también tuvo la esperanza de que un día la guerra terminaría. Así que, cuando Pedro le dijo que quería huir juntos, Ana no lo dudó ni un segundo. Los dos jóvenes amantes huyeron de sus respectivos países y se encontraron en la frontera.
 	  
 	  Pero, aunque no querían luchar, Pedro y Ana sabían que no podían quedarse juntos. Cada uno tenía su país y su gente. Así que, aunque no podían estar juntos, sabían que siempre serían amigos.
+	-
 	- Desde los tiempos de la guerra entre Ecuador y Perú, los pingüinos y los delfines han estado enemistados. Nunca se mezclaban y siempre se peleaban cuando se cruzaban en el camino.
 	  
 	  Pero un día, un delfín y un pingüino se encontraron en la playa. Era un día hermoso y soleado y los dos animales se quedaron mirándose fijamente a los ojos. De repente, se dieron cuenta de que no eran enemigos, sino amigos.
