@@ -1,4 +1,5 @@
 - Escribe un guion publicitario de 600 palabras sobre dos espejos que se quieren, pero es un amor imposible
+  collapsed:: true
 	- */
 	  
 	  
@@ -15,3 +16,4 @@
 	  Ambos espejos me miran, y yo los miro a ellos. Soñamos juntos, y nos amamos. Pero es un amor imposible, porque nunca podremos estar juntos.
 	  
 	  Estoy destinada a amar a los espejos para siempre.
+- Escribe una historia sobre un delfín y un pingüino, que tiene un amor amor imposible debido a la guerra entre Ecuador y Peru.
