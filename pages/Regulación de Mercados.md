@@ -12,5 +12,6 @@ alias:: Regulación
 		- {{renderer :media-timestamp, 160.946003}} Que es xcesta
 		- {{renderer :media-timestamp, 274.386561}} Definición de las Variables ☣️ `xcesta ` `gcesta`
 		- {{renderer :media-timestamp, 302.095831}} Función de Costos  Total $CT=1000000+1.5Q$
-		- {{renderer :media-timestamp, 389.980206}} Q
+		- {{renderer :media-timestamp, 389.980206}} Lo que debemos dividir en Bloques, mas de 4 Bloques de Consumo
+		- {{renderer :media-timestamp, 446.231137}} Función de Demanda a Estimar
 		-
