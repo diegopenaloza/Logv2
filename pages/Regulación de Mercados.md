@@ -18,4 +18,5 @@ alias:: Regulación
 		- {{renderer :media-timestamp, 520.801166}} Por que se diferencia entre Gasto y Consumo  de agua y por que existen tantos datos perdidos
 		- {{renderer :media-timestamp, 588.301216}} Cuando usar el Factor de Expansión
 		- {{renderer :media-timestamp, 727.451824}}Como encontrar el Q
-		- {{renderer :media-timestamp, 755.85525}} Elasticida
+		- {{renderer :media-timestamp, 755.85525}} Elasticidades y Cuantos bloques generar
+		-
