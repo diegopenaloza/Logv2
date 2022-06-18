@@ -17,3 +17,17 @@
 	  
 	  Estoy destinada a amar a los espejos para siempre.
 - Escribe una historia sobre un delfín y un pingüino, que tiene un amor amor imposible debido a la guerra entre Ecuador y Perú:
+	- Desde hace muchos años, existe una guerra entre Ecuador y Perú. Los delfines pelean por la posesión de las costas ecuatorianas, mientras que los pingüinos intentan tomar el control de las costas peruanas. Aunque las dos especies son naturalmente enemigas, hay un delfín y un pingüino que son especialmente reacios a luchar.
+	  
+	  El delfín, llamado Pedro, nació en Ecuador. A medida que creció, Pedro se dio cuenta de que no quería luchar contra los pingüinos. Él creía que todo lo que querían era vivir en paz. A pesar de que sus padres y amigos le dijeron que era un tonto, Pedro se enamoró de una pingüina llamada Ana.
+	  
+	  Ana era una pingüina que nació en Perú. Cuando era joven, ella también tuvo la esperanza de que un día la guerra terminaría. Así que, cuando Pedro le dijo que quería huir juntos, Ana no lo dudó ni un segundo. Los dos jóvenes amantes huyeron de sus respectivos países y se encontraron en la frontera.
+	  
+	  Pero, aunque no querían luchar, Pedro y Ana sabían que no podían quedarse juntos. Cada uno tenía su país y su gente. Así que, aunque no podían estar juntos, sabían que siempre serían amigos.
+	- Desde los tiempos de la guerra entre Ecuador y Perú, los pingüinos y los delfines han estado enemistados. Nunca se mezclaban y siempre se peleaban cuando se cruzaban en el camino.
+	  
+	  Pero un día, un delfín y un pingüino se encontraron en la playa. Era un día hermoso y soleado y los dos animales se quedaron mirándose fijamente a los ojos. De repente, se dieron cuenta de que no eran enemigos, sino amigos.
+	  
+	  A partir de ese momento, los dos animales se volvieron inseparables. Comenzaron a nadar juntos, a jugar juntos y a cuidarse uno del otro.
+	  
+	  El delfín y el pingüino sabían que su amor era imposible debido a la guerra, pero eso no los detuvo. Seguían siendo amigos y seguían siendo felices juntos, a pesar de todo.
