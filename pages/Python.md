@@ -34,6 +34,7 @@
 			  collapsed:: true
 				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 - Pandas
+  collapsed:: true
 	- Convertir archivos
 		- De Stata(.dta) a Python
 		- ``` Python
