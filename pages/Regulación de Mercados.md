@@ -8,4 +8,5 @@ alias:: Regulación
 	- {{renderer :media-timestamp, 62.690294}} Es por Hogar son 640 mil Hogares
 	- {{renderer :media-timestamp, 81.380545}}  Problema de Declaración, entre valor pagado y valor consumudio
 	- {{renderer :media-timestamp, 108.748161}} Lo que necesitamos para calcular el total
-	- **
+	- {{renderer :media-timestamp, 160.946003}} Que es xcesta
+	-
