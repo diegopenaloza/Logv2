@@ -4,10 +4,6 @@ alias:: Regulación
   SCHEDULED: <2022-06-25 Sat 10:00>
 	- ![image.png](../assets/image_1655581632704_0.png){:height 512, :width 580}
 	- [:video {:controls true :src "C:/Users/Diego/Documents/Apowersoft/Apowersoft Online Screen Recorder/20220614_111037.mp4"}]
-		- {{renderer :media-timestamp, 0}} : Inicio
-		- {{renderer :media-timestamp, 49.984956}} Observaciones
-		-
-		-
 	-
 	-
 	-
