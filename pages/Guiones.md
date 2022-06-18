@@ -41,7 +41,7 @@
 	  Pero el idílico romance se ve truncado cuando el delfín es capturado por soldados peruanos. El pingüino, desesperado, embarca en una peligrosa misión para rescatar a su amada.
 	  
 	  A través de una épica journey, el pingüino y el delfín se reencontrarán y descubrirán que el amor es más poderoso que la guerra.
-- A continuación se detalla un guion cinematográfico donde se escriben los diálogos de dos personajes, una medusa llamada Paula y una tortuga llama Lufi, el guion debe contar la historia de como se convirtieron en reyes del océano:
+- A continuación se detalla un guion cinematográfico donde se escriben los diálogos de dos personajes, una medusa llamada Paula y una tortuga llama Lufi, el guion debe contar la historia de como se convirtieron en reyes del océano y la narración de un pez payaso, se debe detallar la musica de cada escena :
 	- PAULA:
 	  
 	  Hey there, Lufi! Long time no see!
