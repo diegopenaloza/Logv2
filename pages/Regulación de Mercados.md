@@ -17,4 +17,4 @@ alias:: Regulación
 		- {{renderer :media-timestamp, 489.074607}} Calcular Excedente del Consumidor
 		- {{renderer :media-timestamp, 520.801166}} Por que se diferencia entre Gasto y Consumo  de agua y por que existen tantos datos perdidos
 		- {{renderer :media-timestamp, 588.301216}} Cuando usar el Factor de Expansión
-		-
+		- {{renderer :media-timestamp, 730.451824}}Como encontrar el Q
