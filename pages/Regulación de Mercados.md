@@ -5,4 +5,6 @@ alias:: Regulación
 	- ![image.png](../assets/image_1655581632704_0.png){:height 512, :width 580}
 	- [:video {:controls true :src "C:/Users/Diego/Documents/Apowersoft/Apowersoft Online Screen Recorder/20220614_111037.mp4"}]
 	  {{renderer :media_controls}}
-	- {{renderer :media-timestamp, 0}} Inicio
+	- {{renderer :media-timestamp, 62.690294}} Es por Hogar son 640 mil Hogares
+	- {{renderer :media-timestamp, 81.380545}}  Problema de Declaración, entre valor pagado y valor consumudio
+	-
