@@ -6,7 +6,3 @@ alias:: Regulación
 	- [:video {:controls true :src "C:/Users/Diego/Documents/Apowersoft/Apowersoft Online Screen Recorder/20220614_111037.mp4"}]
 	  {{renderer :media_controls}}
 	- {{renderer :media-timestamp, 0}} Inicio
-	-
-	-
-	-
-	- mmm MmM
