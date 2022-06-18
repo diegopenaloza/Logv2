@@ -17,6 +17,7 @@
 	  
 	  Estoy destinada a amar a los espejos para siempre.
 - Escribe una historia sobre un delfín y un pingüino, que tiene un amor amor imposible debido a la guerra entre Ecuador y Perú:
+  collapsed:: true
 	- Desde hace muchos años, existe una guerra entre Ecuador y Perú. Los delfines pelean por la posesión de las costas ecuatorianas, mientras que los pingüinos intentan tomar el control de las costas peruanas. Aunque las dos especies son naturalmente enemigas, hay un delfín y un pingüino que son especialmente reacios a luchar.
 	  
 	  El delfín, llamado Pedro, nació en Ecuador. A medida que creció, Pedro se dio cuenta de que no quería luchar contra los pingüinos. Él creía que todo lo que querían era vivir en paz. A pesar de que sus padres y amigos le dijeron que era un tonto, Pedro se enamoró de una pingüina llamada Ana.
@@ -32,3 +33,4 @@
 	  A partir de ese momento, los dos animales se volvieron inseparables. Comenzaron a nadar juntos, a jugar juntos y a cuidarse uno del otro.
 	  
 	  El delfín y el pingüino sabían que su amor era imposible debido a la guerra, pero eso no los detuvo. Seguían siendo amigos y seguían siendo felices juntos, a pesar de todo.
+- Escribe un guion para cine  sobre un delfín y un pingüino, que tiene un amor amor imposible debido a la guerra entre Ecuador y Perú:
