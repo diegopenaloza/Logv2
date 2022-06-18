@@ -9,4 +9,5 @@ alias:: Regulación
 	- {{renderer :media-timestamp, 81.380545}}  Problema de Declaración, entre valor pagado y valor consumudio
 	- {{renderer :media-timestamp, 108.748161}} Lo que necesitamos para calcular el total
 	- {{renderer :media-timestamp, 160.946003}} Que es xcesta
-	- {{renderer :media-timestamp, 274.386561}} Definición de las Variables ☣️
+	- {{renderer :media-timestamp, 274.386561}} Definición de las Variables ☣️ 'xcesta'
+	- {{renderer :media-timestamp, 302.095831}} Función de Costos
