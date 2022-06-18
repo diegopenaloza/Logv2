@@ -11,4 +11,6 @@ alias:: Regulación
 		- {{renderer :media-timestamp, 108.748161}} Lo que necesitamos para calcular el total
 		- {{renderer :media-timestamp, 160.946003}} Que es xcesta
 		- {{renderer :media-timestamp, 274.386561}} Definición de las Variables ☣️ 'xcesta'
-		- {{renderer :media-timestamp, 302.095831}} Función de Costos
+		- {{renderer :media-timestamp, 302.095831}} Función de Costos  Total $CT=1000000+1.5Q$
+		-
+		-
