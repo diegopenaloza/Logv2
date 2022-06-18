@@ -34,3 +34,11 @@
 	  
 	  El delfín y el pingüino sabían que su amor era imposible debido a la guerra, pero eso no los detuvo. Seguían siendo amigos y seguían siendo felices juntos, a pesar de todo.
 - Escribe un guion para cine  sobre un delfín y un pingüino, que tiene un amor amor imposible debido a la guerra entre Ecuador y Perú:
+	- Año 20xx. La guerra entre Ecuador y Perú está en pleno apogeo. Los dos países se disputan el control de las costas del Pacífico Sur. En medio de este conflicto, surge un improbable amor entre un delfín y un pingüino.
+	  
+	  El delfín, una orgullosa representante de Ecuador, y el pingüino, un símbolo de Perú, no pueden estar juntos debido a la enemistad entre sus países. Sin embargo, el amor es más fuerte que todo y los dos se unen en secreto, a espaldas de sus familias y de sus ejércitos.
+	  
+	  Pero el idílico romance se ve truncado cuando el delfín es capturado por soldados peruanos. El pingüino, desesperado, embarca en una peligrosa misión para rescatar a su amada.
+	  
+	  A través de una épica journey, el pingüino y el delfín se reencontrarán y descubrirán que el amor es más poderoso que la guerra.
+- Acontinuación se detalla un guión cinematogrfico donde se
