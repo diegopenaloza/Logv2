@@ -7,9 +7,12 @@
 			  ```
 			- ``` Python
 			  import patoolib
+			  # Con `outdir` podemos especificar la dirección de la carpeta en la cual queremos 
+			  # poner los archvos descomprimidos
 			  patoolib.extract_archive("Test.rar", outdir="/some/dir")
 			  ```
 	- Carpetas
+	  collapsed:: true
 		- Como mostrar archivos dentro de una carpeta
 			- Esto muestra los archivos existentes dentro de la misma carpeta en la cual se encuentra el proyecto
 			- ``` Python
