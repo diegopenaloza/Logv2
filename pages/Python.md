@@ -36,5 +36,9 @@
   
   [Try it Yourself »](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_embed_html)
 - ``` 
+  <embed type="text/html" src="snippet.html" width="500" height="200">
+  
+  "C:\Users\Diego\Desktop\Universidad\Regulación\Untitled.ipynb"
   
   ```
+- <html> <embed type="text/html" src="snippet.html" width="500" height="200"></html>
