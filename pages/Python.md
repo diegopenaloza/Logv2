@@ -12,3 +12,7 @@
 			  import os
 			  arr = os.listdir('c:\\files')
 			  ```
+			- Ref
+			  collapsed:: true
+				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+-
