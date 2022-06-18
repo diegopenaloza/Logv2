@@ -41,4 +41,175 @@
 	  Pero el idílico romance se ve truncado cuando el delfín es capturado por soldados peruanos. El pingüino, desesperado, embarca en una peligrosa misión para rescatar a su amada.
 	  
 	  A través de una épica journey, el pingüino y el delfín se reencontrarán y descubrirán que el amor es más poderoso que la guerra.
-- Acontinuación se detalla un guión cinematogrfico donde se
+- A continuación se detalla un guion cinematográfico donde se escriben los diálogos de dos personajes, una medusa llamada Paula y una tortuga llama Lufi, el guion debe contar la historia de como se convirtieron en reyes del océano:
+	- PAULA:
+	  
+	  Hey there, Lufi! Long time no see!
+	  
+	  LUFY:
+	  
+	  Yeah, I know! I’ve been busy lately.
+	  
+	  PAULA:
+	  
+	  So, what’s new with you?
+	  
+	  LUFY:
+	  
+	  Oh, not much. Just the usual, you know.
+	  
+	  PAULA:
+	  
+	  Right. So, how’ve you been?
+	  
+	  LUFY:
+	  
+	  Good, I guess. I mean, I’ve been better, but I’ve been worse.
+	  
+	  PAULA:
+	  
+	  That’s good to hear.
+	  
+	  LUFY:
+	  
+	  So, what about you? What’s new with you?
+	  
+	  PAULA:
+	  
+	  Oh, you know, the usual. Just swimming around, minding my own business.
+	  
+	  LUFY:
+	  
+	  Yeah, I know how that is.
+	  
+	  PAULA:
+	  
+	  So, have you been busy lately?
+	  
+	  LUFY:
+	  
+	  Oh, yeah. I’ve been really busy.
+	  
+	  PAULA:
+	  
+	  What have you been up to?
+	  
+	  LUFY:
+	  
+	  I’ve been swimming around, exploring the ocean, and just having a lot of fun.
+	  
+	  PAULA:
+	  
+	  That sounds like a lot of fun.
+	  
+	  LUFY:
+	  
+	  Yeah, it has been. I’ve seen some amazing things and met some great friends.
+	  
+	  PAULA:
+	  
+	  That’s great. I’m happy for you.
+	  
+	  LUFY:
+	  
+	  Thanks, Paula. I’m happy for you, too.
+	  
+	  PAULA:
+	  
+	  So, have you seen any good movies lately?
+	  
+	  LUFY:
+	  
+	  No, not lately. I’ve been too busy swimming around to watch movies.
+	  
+	  PAULA:
+	  
+	  That’s too bad. I’ve seen a few good ones lately.
+	  
+	  LUFY:
+	  
+	  Really? What are they?
+	  
+	  PAULA:
+	  
+	  Well, there’s this one movie about a group of fish who live in the ocean. They’re all different colors and they have different personalities.
+	  
+	  LUFY:
+	  
+	  That sounds like a great movie. I’d love to see it.
+	  
+	  PAULA:
+	  
+	  I’ll bet you would. It’s a lot of fun.
+	  
+	  LUFY:
+	  
+	  I’m sure it is. I’ll have to check it out when I have some time.
+	  
+	  PAULA:
+	  
+	  I’m sure you will.
+	  
+	  LUFY:
+	  
+	  So, how’s your family?
+	  
+	  PAULA:
+	  
+	  Oh, they’re good. My mom and dad are doing well.
+	  
+	  LUFY:
+	  
+	  That’s great. I’m glad to hear it.
+	  
+	  PAULA:
+	  
+	  What about your family?
+	  
+	  LUFY:
+	  
+	  They’re good, too. My mom and dad are doing well.
+	  
+	  PAULA:
+	  
+	  That’s great. I’m glad to hear it.
+	  
+	  LUFY:
+	  
+	  So, have you been doing anything else besides swimming around?
+	  
+	  PAULA:
+	  
+	  No, not really. I’ve just been swimming around and enjoying the ocean.
+	  
+	  LUFY:
+	  
+	  That’s great. I’m glad you’re enjoying it.
+	  
+	  PAULA:
+	  
+	  I am. I love it here.
+	  
+	  LUFY:
+	  
+	  I know you do. I love it here, too.
+	  
+	  PAULA:
+	  
+	  So, what do you think the future holds for us?
+	  
+	  LUFY:
+	  
+	  I don’t know. I guess we’ll just have to wait and see.
+	  
+	  PAULA:
+	  
+	  I guess so.
+	  
+	  LUFY:
+	  
+	  I’m sure it will be great, whatever it is.
+	  
+	  PAULA:
+	  
+	  I’m sure it will be.
