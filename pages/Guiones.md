@@ -1,1 +1,1 @@
-- Escribeme un guion sobre
+- Escríbeme un guion publicitario de 600 palabras sobre dos espejos que se quieren, pero es un amor imposible
