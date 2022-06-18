@@ -69,7 +69,7 @@
   :block/updated-at 1655342033948}
  {:block/name "guiones",
   :block/created-at 1655579509856,
-  :block/updated-at 1655579632109}
+  :block/updated-at 1655580437098}
  {:block/name
   "hls__instructivo-de-titulacin-fcea--20-diciembre-2021_1654823450541_0",
   :block/created-at 1654864265011,
@@ -134,7 +134,7 @@
   :block/updated-at 1655574662652}
  {:block/name "regulación de mercados",
   :block/created-at 1655574654963,
-  :block/updated-at 1655575747991}
+  :block/updated-at 1655583529475}
  {:block/name "revisar",
   :block/created-at 1654746480296,
   :block/updated-at 1654746480296}
