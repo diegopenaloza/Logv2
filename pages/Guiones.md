@@ -213,3 +213,32 @@
 	  PAULA:
 	  
 	  I’m sure it will be.
+	- Paula: Lufi, ¿quieres ser rey del océano?
+	  
+	  Lufi: Claro que sí, Paula. ¡Me encantaría!
+	  
+	  Paula: Bien, entonces vamos a tener que luchar por ello.
+	  
+	  Lufi: ¿Luchar? ¿Contra quién?
+	  
+	  Paula: Contra todos los demás, Lufi. Tenemos que ser los mejores.
+	  
+	  Lufi: Entiendo. Vamos a luchar, entonces.
+	  
+	  (Música épica)
+	  
+	  Narrador: Y así, Paula y Lufi se convirtieron en reyes del océano, luchando contra todos los que se interponían en su camino. Vivieron felices para siempre... hasta que un día, un nuevo desafío se presentó ante ellos.
+	  
+	  (Música suspenseful)
+	  
+	  Paula: Lufi, ¿ves ese pez payaso? Quiero ser como él.
+	  
+	  Lufi: Paula, ese pez payaso es sólo una leyenda. Nadie sabe si realmente existe.
+	  
+	  Paula: Pero yo sé que existe, Lufi. Lo siento en mi corazón.
+	  
+	  Lufi: Bueno, entonces vamos a buscarlo.
+	  
+	  (Música alegre)
+	  
+	  Narrador: Y así, Paula y Lufi se embarcaron en una nueva aventura para encontrar al pez payaso. Vivieron muchas más aventuras juntos, y se convirtieron en los mejores amigos para siempre.
