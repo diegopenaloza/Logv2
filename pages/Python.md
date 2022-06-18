@@ -2,8 +2,6 @@
 	- RAR
 		- Extraer Archivos RAR
 		- ``` Python
-		  
-		  
 		  ```
 	- Carpetas
 		- Como mostrar archivos dentro de una carpeta
