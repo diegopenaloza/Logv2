@@ -9,4 +9,6 @@
 			  ```
 			- Especificamos la dirección de la carpeta
 			- ``` python
+			  import os
+			  arr = os.listdir('c:\\files')
 			  ```
