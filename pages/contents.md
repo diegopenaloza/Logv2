@@ -9,6 +9,7 @@
 	  </html>
 - ---
 - 📩 [[Inbox]]
+  collapsed:: true
 	- TODO Estrategia del Océano Azul
 - ---
 - 🔎 [[Revisar]]
