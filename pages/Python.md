@@ -54,4 +54,7 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
+  collapsed:: true
+	-
+- Factor de Expansión en Python
 	-
