@@ -96,6 +96,7 @@
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
 		- https://datagy.io/pandas-weighted-average/
 - IDES
+  collapsed:: true
 	- [[Jupyter Notebook]]
 		- {{embed ((62af393f-3e18-4210-ab57-6f60968563b7))}}
 	- [[Jupyter Lab]]
@@ -107,3 +108,8 @@
 		  ```
 		- ref
 			- https://www.codegrepper.com/code-examples/python/expand+jupyter+notebook+width
+- Bases de Datos
+	- Importar base de Datos [[Stata]] (.dta) a Python
+		- ``` 
+		  
+		  ```
