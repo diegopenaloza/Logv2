@@ -21,4 +21,4 @@ alias:: Regulación
 			- {{renderer :media-timestamp, 588.301216}} Cuando usar el Factor de Expansión
 			- {{renderer :media-timestamp, 727.451824}}Como encontrar el Q
 			- {{renderer :media-timestamp, 755.85525}} Elasticidades y Cuantos bloques generar
-			-
+			- Columna de factor de Expansión Fexp_cen2010
