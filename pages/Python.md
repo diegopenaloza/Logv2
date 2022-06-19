@@ -75,3 +75,6 @@
 	  # weighted mean 2.0 =(3*1+2*2+1*3+1*4)/(3+2+1+1)
 	  df.val.weight(df.weights).mean()
 	  ```
+	- ref
+	  collapsed:: true
+		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
