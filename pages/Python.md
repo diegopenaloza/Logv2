@@ -97,9 +97,13 @@
 		- https://datagy.io/pandas-weighted-average/
 - IDES
 	- [[Jupyter Notebook]]
+		- {{embed ((62af393f-3e18-4210-ab57-6f60968563b7))}}
 	- [[Jupyter Lab]]
 		- Cambiar Ancho de celdas o bloques de codigo
-		- ``` python
+		- id:: 62af393f-3e18-4210-ab57-6f60968563b7
+		  ``` python
 		  from IPython.core.display import display, HTML
 		  display(HTML("<style>.container { width:100% !important; }</style>"))
 		  ```
+		- ref
+			- https://www.codegrepper.com/code-examples/python/expand+jupyter+notebook+width
