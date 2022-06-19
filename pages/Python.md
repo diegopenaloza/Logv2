@@ -45,4 +45,8 @@
 			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
 - Listas (arrays)
 	- Selecionar
-		-
+		- Desde el Segundo Valor y sin Incluir el Ultimo
+		- ``` python
+		  my_list = my_list[1:-1]
+		  ```
+-
