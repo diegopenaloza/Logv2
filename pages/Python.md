@@ -54,6 +54,7 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
+  collapsed:: true
 	- [[Plotly]]
 		- Histograma Simple con Una variable - Grafico de Barras simple con una Variable
 			- ``` python
@@ -94,4 +95,5 @@
 	- ref
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
 		- https://datagy.io/pandas-weighted-average/
--
+- IDES
+	-
