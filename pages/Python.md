@@ -43,3 +43,6 @@
 		- ref
 		  collapsed:: true
 			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
+- Listas (arrays)
+	- Selecionar
+		-
