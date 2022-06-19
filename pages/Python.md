@@ -44,6 +44,7 @@
 		  collapsed:: true
 			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
 - Listas (arrays)
+  collapsed:: true
 	- Selecionar
 		- Desde el Segundo Valor y sin Incluir el Ultimo
 		- ``` python
@@ -52,3 +53,5 @@
 		- ref
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
+- Gráficos
+	-
