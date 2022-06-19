@@ -96,4 +96,10 @@
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
 		- https://datagy.io/pandas-weighted-average/
 - IDES
-	-
+	- [[Jupyter Notebook]]
+	- [[Jupyter Lab]]
+		- Cambiar Ancho de celdas o bloques de codigo
+		- ``` python
+		  from IPython.core.display import display, HTML
+		  display(HTML("<style>.container { width:100% !important; }</style>"))
+		  ```
