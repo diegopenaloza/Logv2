@@ -57,4 +57,21 @@
   collapsed:: true
 	-
 - Factor de Expansión en Python
-	-
+	- ``` python
+	  import pandas as pd
+	  from pandas_weighting import weight
+	  
+	  pd.Series.weight = weight
+	  pd.DataFrame.weight = weight
+	  
+	  df = pd.DataFrame({
+	      'val': [1, 2, 3, 4, 5, 6],
+	      'weights': [3, 2, 1, 1, 0, None],
+	  })
+	  
+	  # mean 3.5 =(1+2+3+4+5+6)/6
+	  df.val.mean()
+	  
+	  # weighted mean 2.0 =(3*1+2*2+1*3+1*4)/(3+2+1+1)
+	  df.val.weight(df.weights).mean()
+	  ```
