@@ -109,7 +109,10 @@
 		- ref
 			- https://www.codegrepper.com/code-examples/python/expand+jupyter+notebook+width
 - Bases de Datos
-	- Importar base de Datos [[Stata]] (.dta) a Python
-		- ``` 
-		  
-		  ```
+	- Pandas
+		- Importar base de Datos [[Stata]] (.dta) a Pandas
+			- ``` python
+			  df = pd.read_stata('animals.dta')  
+			  ```
+			- ref
+				- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
