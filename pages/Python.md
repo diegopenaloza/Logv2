@@ -67,8 +67,10 @@
 			  fig = go.Figure(data=[go.Histogram(x=x)])
 			  fig.show()
 			  ```
+			- ![image.png](../assets/image_1655650481523_0.png)
 			- ref
-				-
+			  collapsed:: true
+				- https://plotly.com/python/histograms/
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
@@ -92,3 +94,4 @@
 	- ref
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
 		- https://datagy.io/pandas-weighted-average/
+-
