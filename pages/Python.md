@@ -76,5 +76,5 @@
 	  df.val.weight(df.weights).mean()
 	  ```
 	- ref
-	  collapsed:: true
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
+		- https://datagy.io/pandas-weighted-average/
