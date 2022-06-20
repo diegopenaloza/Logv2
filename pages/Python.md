@@ -34,8 +34,8 @@
 			  collapsed:: true
 				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 - Pandas
-  collapsed:: true
 	- Convertir archivos
+	  collapsed:: true
 		- De Stata(.dta) a Python
 		- ``` Python
 		  df = pd.read_stata('animals.dta')
@@ -43,6 +43,11 @@
 		- ref
 		  collapsed:: true
 			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
+	- Filtrar Base de Datos
+		- Usando Condicionales
+			- ``` python
+			  
+			  ```
 - Listas (arrays)
   collapsed:: true
 	- Selecionar
@@ -74,7 +79,11 @@
 				- https://plotly.com/python/histograms/
 		- Ajustes
 			- Ajustar Axix. Ajustar Ejex
-				-
+				- ``` python
+				  
+				  ```
+				- Ref
+					- https://plotly.com/python/axes/
 			- Rellenar area cp color -Fill Area
 			  collapsed:: true
 				- ``` python
