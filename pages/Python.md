@@ -46,7 +46,7 @@
 	- Filtrar Base de Datos
 		- Usando Condicionales
 			- ``` python
-			  
+			  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
 			  ```
 - Listas (arrays)
   collapsed:: true
