@@ -73,10 +73,14 @@
 			  collapsed:: true
 				- https://plotly.com/python/histograms/
 		- Ajustes
+			- Rellenar area cp
 			- Cambiar Color y Transparencia de Area de Color - Fill Area
-				- ``` 
-				  
+			  collapsed:: true
+				- ``` python
+				  fillcolor='rgba(255, 0, 0, 0.1)',
 				  ```
+				- ref
+					- https://community.plotly.com/t/plotly-python-fill-control-opacity-of-filled-area/18445
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
