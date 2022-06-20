@@ -73,7 +73,15 @@
 			  collapsed:: true
 				- https://plotly.com/python/histograms/
 		- Ajustes
-			- Rellenar area cp
+			- Ajustar Axix. Ajustar Ejex
+				-
+			- Rellenar area cp color -Fill Area
+			  collapsed:: true
+				- ``` python
+				  
+				  ```
+				- ref
+					- https://plotly.com/python/filled-area-plots/
 			- Cambiar Color y Transparencia de Area de Color - Fill Area
 			  collapsed:: true
 				- ``` python
