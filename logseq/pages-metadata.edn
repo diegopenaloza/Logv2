@@ -19,6 +19,9 @@
  {:block/name "3",
   :block/created-at 1654870629398,
   :block/updated-at 1654870629398}
+ {:block/name "62af393f-3e18-4210-ab57-6f60968563b7",
+  :block/created-at 1655650674097,
+  :block/updated-at 1655650674097}
  {:block/name "a",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -98,7 +101,7 @@
   :block/updated-at 1655082774432}
  {:block/name "jun 13th, 2022",
   :block/created-at 1655125206334,
-  :block/updated-at 1655125206334}
+  :block/updated-at 1655733250564}
  {:block/name "jun 15th, 2022",
   :block/created-at 1655342033868,
   :block/updated-at 1655350921174}
@@ -110,13 +113,25 @@
   :block/updated-at 1655464955370}
  {:block/name "jun 18th, 2022",
   :block/created-at 1655565070663,
-  :block/updated-at 1655588500337}
+  :block/updated-at 1655733259423}
+ {:block/name "jun 19th, 2022",
+  :block/created-at 1655614844048,
+  :block/updated-at 1655614844048}
+ {:block/name "jun 20th, 2022",
+  :block/created-at 1655730994594,
+  :block/updated-at 1655733242385}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
  {:block/name "jun 9th, 2022",
   :block/created-at 1654750828506,
   :block/updated-at 1654750828506}
+ {:block/name "jupyter lab",
+  :block/created-at 1655650608577,
+  :block/updated-at 1655650608577}
+ {:block/name "jupyter notebook",
+  :block/created-at 1655650600212,
+  :block/updated-at 1655650600212}
  {:block/name "later",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -132,15 +147,18 @@
  {:block/name "planificación económica",
   :block/created-at 1654864427359,
   :block/updated-at 1654864427359}
+ {:block/name "plotly",
+  :block/created-at 1655650436965,
+  :block/updated-at 1655650436965}
  {:block/name "python",
   :block/created-at 1655587919582,
-  :block/updated-at 1655589587231}
+  :block/updated-at 1655731291777}
  {:block/name "regulación",
   :block/created-at 1655574662652,
   :block/updated-at 1655574662652}
  {:block/name "regulación de mercados",
   :block/created-at 1655574654963,
-  :block/updated-at 1655585243726}
+  :block/updated-at 1655666300526}
  {:block/name "revisar",
   :block/created-at 1654746480296,
   :block/updated-at 1654746480296}
@@ -168,6 +186,9 @@
  {:block/name "señal x",
   :block/created-at 1655082774431,
   :block/updated-at 1655131041138}
+ {:block/name "stata",
+  :block/created-at 1655650746967,
+  :block/updated-at 1655650746967}
  {:block/name "sueños",
   :block/created-at 1655033295645,
   :block/updated-at 1655033295645}
