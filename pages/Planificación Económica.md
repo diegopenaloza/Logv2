@@ -150,4 +150,33 @@
 			  1982- Se reinicia el trámite de cantonización.
 			  
 			  1987- Nabón fue cantonizado y proclamado como el octavo cantón del Azuay.
-	- Parroquias
+	- Parroquias Rurales de Nabon
+		- **Cochapata**
+		  
+		  Está ubicada a 10 kilómetros de la cabecera cantonal, entre [[2]].300 y [[2]].700 metros sobre el nivel del mar y una temperatura promedio de 17 grados.
+		  
+		  Fue creada como parroquia civil el 26 de mayo de 1897. Según los registros históricos, tomó el nombre de Cochapata porque en el lugar había una laguna en forma de pie.
+		  
+		  Este pequeño territorio también concentra la mayor riqueza arqueológica de Nabón que de acuerdo con investigaciones, son parte del legado inca-cañari. Acá están las cuevas de Dumapara, el Pozo de los Remedios, la laguna de Cado, el Cañón de Uduzhapa, las ruinas de Raric.
+		  
+		  Sus [[3]].500 habitantes – risueños y optimistas por vocación– son los protagonistas de la vida sobre la tierra. La agricultura, ganadería y las remesas de los migrantes son las principales fuentes de ingreso
+		  
+		  **Las Nieves**
+		  
+		  Ubicada al Nor-oeste del Cantón Nabón. Limita al Norte con las periferias de los centros cantonales de Girón y Nabón; al este la periferia del Cantón Oña; y al oeste con la parroquia Asunción del cantón Girón y El Progreso.
+		  
+		  Conocido también como “Chaya” que en la antigüedad significaba llegada. Por disposición de Monseñor Manuel María Polit, el 22 de Julio de 1915 pasó a constituirse en dependencia eclesiástica de Cochapata. Luego de permanecer muchos años como caserío de Nabón, se constituyó en parroquia Civil el 26 de marzo de 1987 forma parte del cantón Nabón.
+		  
+		  Dependiendo desde entonces al cantón Girón. Posteriormente a partir del 7 de julio de 1987 forma parte del cantón Nabón. Actualmente tiene 1280 habitantes
+		  
+		  **El Progreso**
+		  
+		  La parroquia El Progreso se encuentra situada al Oeste del Cantón Nabón, a 74 Km de la ciudad de Cuenca y ocupa una superficie de 142.9 km2 .
+		  
+		  Sus límites son: por el norte, las parroquias Abdón Calderón y Las Nieves; por el este, la parroquia Las Nieves y la periferia del cantón Oña; por el sur, con la parroquia Urdaneta (Lluzhapa) del cantón Saraguro y por el oeste, con la parroquia Manú del cantón Saraguro provincia de Loja y la periferia del centro cantonal de Santa Isabel.
+		  
+		  La Parroquia El Progreso, antiguamente se conocía con el nombre de “Santa Rosa de Zhota” que significa Loma y Quebrada. Santa Rosa de Zhota formó parte de una hacienda grande de Susudel que fue propiedad de la familia Valdivieso. La Señorita Florencia Astudillo Valdivieso en el año de 1926 procede a la venta de la hacienda, dividiendo en 10 lotes mayores.
+		  
+		  En el año de 1960 se organizó un comité empezó la gestión para erigirla en parroquia y presentó su primera solicitud ante el Concejo Cantonal de Girón, petición tiene sus primeros resultados designando como cabecera parroquial al centro de Zhota. Se consigue la Parroquialización de Santa Rosa de Zhota con Acuerdo Ministerial No. 59 del 28 de Julio de 1961.
+		  
+		  Resumen de las parroquias Rurales de Nabon
