@@ -464,7 +464,10 @@
 	  
 	  1907 :
 -
-- A continuación se construye la línea temporal de las obras que ha realizado el GAD del cantón Nabón ubicado  en Azuay Ecuador
+- Construir  la línea temporal de las obras que ha realizado el GAD del cantón Nabón ubicado  en Azuay Ecuador:
+	-
+	-
+	-
 	- , basados en la clasificación de ayuda
 	  
 	  A. Pre-Inca
@@ -478,3 +481,11 @@
 	  C. Modern
 	  
 	  El cantón Nabón ha experimentado un rápido crecimiento económico y urbano en las últimas décadas. Se han construido una serie de nuevos edificios y infraestructuras, y la ciudad de Nabón se ha convertido en un importante centro comercial y de transporte.alizado
+	- 2008 - Presentación del Plan Integral de Desarrollo Cantonal 2008-2015
+	  2009 - Inauguración del Centro de Convenciones de Nabón
+	  2010 - Aprobación del presupuesto cantonal para el año 2011
+	  2011 - Lanzamiento de la campaña "Nabón, mi cantón"
+	  2012 - Inauguración de la Casa de la Cultura de Nabón
+	  2013 - Aprobación del presupuesto cantonal para el año 2014
+	  2014 - Inauguración de la Escuela Técnica Superior Politécnica del Cantón Nabón
+	  2015 - Aprobación del presupuesto cantonal para el año 2016
