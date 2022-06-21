@@ -36,17 +36,16 @@
 	- El presente [[Trabajo]] tiene como objetivo realizar un análisis del GAD provincial de Nabón con el fin de conocer el sistema de planificación que se maneja y que se ejecuta en este cantón, a partir de la información se procederá a realizar un diagnóstico de la capacidad de gestión en los distintos ámbitos analizando las falencias de los procesos en la ejecución de obras y la restructuración de las etapas a seguir y en los que corresponde intervenir. Iniciamos obteniendo la información a travé[[S]] de la secretaría del GAD solicitando los documentos e informes actualizados, entre los cuales están el Plan de operaciones anual POA, el plan de lineamiento con los objetivos de desarrollo sostenible ODS, plan de financiamiento (asignación nacional y autofinanciamiento), designación de proveedores, plan de selección de personal y de contingencia laboral, la arquitecta Alexandra Aguirre del departamento de planificación del GAD municipal de Nabón tuvo la disposición de brindar dicha información a travé[[S]] de fuentes primarias y secundarias como los informes concedidos del actual período y que se encuentran vigentes en la presente administración, la descripción de las principales características permite identificar las problemáticas del GAD municipal en su planificación, el plan estratégico con el que se trabaja recoge las principales líneas de acción, es decir, la estrategia que sigue el GAD en el corto y medio plazo, con el fin de lograr eficiencia y eficacia en el desarrollo de sus funciones, es por ello que al desarrollar la propuesta del plan estratégico se busca crear las directrices a seguir para alcanzar los objetivos, y lograr una gestión efectiva que ayude al buen desempeño y mejoramiento del desarrollo de la institución, la finalidad es de dar una propuesta que permita cubrir las necesidades que tiene el cantón en función a los programas y proyectos que se plantearon, a travé[[S]] de obras en función de las necesidades de la población. 
 	  
 	  Se requiere
-- Descripción y Características  del Canton Nabon
-  **Ubicación:** Se encuentra ubicado a 69 Km. de la ciudad de Cuenca, conectado por la vía Panamericana que va desde Cuenca a Loja.  
-  **Altitud:** 3.000 m.s.n.m.  
-  **Extensión:** El área del cantón es de 668.2 km2, lo cual representa el 7,56%.  
-  **Grupos Sociales:** Nabón abarca a su vez el territorio indígena integrado por cuatro comunas jurídicas: Shiña, Chunazana, Morasloma y Puca.  
-  **Clima:** Predominante esl frío.  
-  **Límites:** al norte con Sigsig y Girón al Sur con Oña y la provincia de Loja, al este con las provincias de Morona Santiago y Zamora Chinchipe; al oeste con Santa Isabel y al suroeste con la provincia de Loja.
+- Descripción y Características  del Cantón Nabon:
+  Ubicación: Se encuentra ubicado a 69 Km. de la ciudad de Cuenca, conectado por la vía Panamericana que va desde Cuenca a Loja.  
+  Altitud:3.000 m.s.n.m.  
+  Extensión: El área del cantón es de 668.2 km2, lo cual representa el 7,56%.  
+  Grupos Sociales: Nabón abarca a su vez el territorio indígena integrado por cuatro comunas jurídicas: Shiña, Chunazana, Morasloma y Puca.  
+  Clima: Predominante esl frío.  
+  Límites: al norte con Sigsig y Girón al Sur con Oña y la provincia de Loja, al este con las provincias de Morona Santiago y Zamora Chinchipe; al oeste con Santa Isabel y al suroeste con la provincia de Loja.
   
-  ![](https://touchcellec.com/wp-content/uploads/2018/03/NabonPanoramica-300x168.jpg)
   
-  **Nabón** es un cantón de la provincia del Azuay (Ecuador) de 668,2 km², ubicado al sudeste, una de sus características geográficas es la dispersión de su territorio, lo que impide un fácil acceso a las diferentes comunidades y dificulta la comunicación entre ellas.
+  Nabón es un cantón de la provincia del Azuay (Ecuador) de 668,2 km², ubicado al sudeste, una de sus características geográficas es la dispersión de su territorio, lo que impide un fácil acceso a las diferentes comunidades y dificulta la comunicación entre ellas.
   
   Nabón tiene una población de 15.121 habitantes (según el VI Censo de Población y V de vivienda) distribuidos de la siguiente manera: el 6,9% en la zona urbana y el 93,1% en la zona rural; 6.926 son hombres y 8.195 son mujeres. Alrededor del 23% de la población es analfabeta y la escolaridad media en el área rural es apenas de 3,6 años.
   
@@ -55,3 +54,5 @@
   Una de las características relevantes de la población del cantón Nabón es la como indígena, según el último censo poblacional). En este cantón coexiste la población indígena y la mestiza lo que le ha merecido el título de “Patrimonio Cultural del Ecuador”. Sin embargo estas poblaciones mantienen una relación que valora menos lo indígena, paralelo a ello la pobreza del cantón ha obligado a que sus pobladores/as migren hacia las ciudades de la costa ecuatoriana y hacia Cuenca o a España, Italia y Estados Unidos; creando vínculos que lejos de fortalecer un intercambio cultural entre iguales y de ver la diversidad en el cantón como un elemento singular, en la práctica se ha tornado en un factor para el mayor desconocimiento, desvalorización y discriminación de la cultura indígena local.
   
   Esta situación no es ajena ni al gobierno local, ni a los líderes de las comunidades indígenas quienes ven esta situación con preocupación y aun planteándose hacer algo, por la falta de recursos existente buscan apoyo para promover el reconocimiento, autodeterminación y empoderamiento cultural.
+  
+  Resumen
