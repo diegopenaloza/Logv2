@@ -34,7 +34,6 @@
 			  collapsed:: true
 				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
 - Pandas
-  collapsed:: true
 	- Convertir archivos
 	  collapsed:: true
 		- De Stata(.dta) a Python
@@ -45,6 +44,7 @@
 		  collapsed:: true
 			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
 	- Filtrar Base de Datos
+	  collapsed:: true
 		- Usando Condicionales
 			- ``` python
 			  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
@@ -60,7 +60,9 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
+  collapsed:: true
 	- [[Plotly]]
+	  collapsed:: true
 		- Histograma Simple con Una variable - Grafico de Barras simple con una Variable
 		  collapsed:: true
 			- ``` python
@@ -79,6 +81,7 @@
 			  collapsed:: true
 				- https://plotly.com/python/histograms/
 		- Múltiples Graficas en una Sola
+		  collapsed:: true
 			- ``` python
 			  from plotly.subplots import make_subplots
 			  import plotly.graph_objects as go
@@ -98,6 +101,10 @@
 			  fig.update_layout(height=600, width=800, title_text="Side By Side Subplots")
 			  fig.show()
 			  ```
+			- ![image.png](../assets/image_1655855032657_0.png)
+			- ref
+			  collapsed:: true
+				- https://plotly.com/python/subplots/
 		- Ajustes
 		  collapsed:: true
 			- Ajustar Axix. Ajustar Ejex
@@ -159,8 +166,10 @@
 - Bases de Datos
 	- Pandas
 		- Importar base de Datos [[Stata]] (.dta) a Pandas
+		  collapsed:: true
 			- ``` python
 			  df = pd.read_stata('animals.dta')  
 			  ```
 			- ref
+			  collapsed:: true
 				- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
