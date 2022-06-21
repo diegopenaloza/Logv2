@@ -138,4 +138,4 @@
 		  
 		  Cabe destacar a ciudadanos, como el padre Nicanor Cobos, Remigio Ochoa, Francisco Carrasco, Rafael Carrión, Francisco San Martin y Amelia Erráez, presidenta del Comité de Cantonización, y otros ciudadanos patriotas, que merecen permanecer en la memoria de la historia de Nabón.
 		  
-		  Crear una Linea
+		  Crear una lineal temporal con la información de la historia de Nabón, descrita en los párrafos anteriores :
