@@ -151,7 +151,7 @@
 			  
 			  1987- Nabón fue cantonizado y proclamado como el octavo cantón del Azuay.
 	- Parroquias Rurales de Nabon
-		- PArroquias 
+		- Parroquias Rurales de Nabon
 		  **Cochapata**
 		  
 		  Está ubicada a 10 kilómetros de la cabecera cantonal, entre [[2]].300 y [[2]].700 metros sobre el nivel del mar y una temperatura promedio de 17 grados.
@@ -180,5 +180,5 @@
 		  
 		  En el año de 1960 se organizó un comité empezó la gestión para erigirla en parroquia y presentó su primera solicitud ante el Concejo Cantonal de Girón, petición tiene sus primeros resultados designando como cabecera parroquial al centro de Zhota. Se consigue la Parroquialización de Santa Rosa de Zhota con Acuerdo Ministerial No. 59 del 28 de Julio de 1961.
 		  
-		  Resumen de las parroquias Rurales de Nabon y sus características según la información de los párrafos anteriores
+		  Con solo la información de los párrafos anteriores, resume las características de las parroquias rurales de Nabón
 			-
