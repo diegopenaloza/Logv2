@@ -185,7 +185,7 @@
 			- : Cochapata, Las Nieves y El Progreso, respectivamente.
 -
 -
-- DOING Entre las funciones de la Municipalidad está el regular ordenanzas y resoluciones; que ayuden a establecer e impulsar la política a seguir, de acuerdo a las metas de la Administración Municipal. El objetivo es, satisfacer las necesidades colectivas de la toda la ciudadanía, según lo establecido por la ley para su desarrollo y fines del Estado.
+- Entre las funciones de la Municipalidad está el regular ordenanzas y resoluciones; que ayuden a establecer e impulsar la política a seguir, de acuerdo a las metas de la Administración Municipal. El objetivo es, satisfacer las necesidades colectivas de la toda la ciudadanía, según lo establecido por la ley para su desarrollo y fines del Estado.
   :LOGBOOK:
   CLOCK: [2022-06-20 Mon 22:28:27]
   :END:
@@ -217,6 +217,6 @@
   
   El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
   
-  Describe la
+  Describe el
 	-
 	-
