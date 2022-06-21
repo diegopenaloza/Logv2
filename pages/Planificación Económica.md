@@ -259,9 +259,15 @@
 	  
 	  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
 	  
-	  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+	  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a travé[[S]] de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
 	  
-	  i.- Los demás establecidos en la Constitución y la ley.
+	  i.- Los demá[[S]] establecidos en la Constitución y la ley.
 	  
 	  
-	  Describe las bases legales del Canton Nabon en base a la infromación de los parrafos anteriores
+	  Describe continuación en tres párrafos las bases legales del cantón Nabón en base a la información de los párrafos anteriores:
+		-
+		- 1. En virtud de la autonomía que le otorga la Constitución Política de la República y el Código Orgánico de Organización Territorial, la M.I. Municipalidad de Nabón cuenta con la facultad de desarrollar un planificación y desarrollo equitativo y solidario de la circunscripción territorial que le corresponde.
+		  
+		  2. Asimismo, debe velar por la garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
+		  
+		  3. Por último, la Municipalidad de Nabón debe impulsar el desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
