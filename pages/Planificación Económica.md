@@ -182,4 +182,4 @@
 		  
 		  Con solo la información de los párrafos anteriores, describe  las características de cada una  de las parroquias rurales de Nabón
 			-
-			- , entre ellas: utliza el nombre original del lugar, están ubicadas en los alrededores del cantón, la agricultura es una de las principales fuentes de ingreso y las remesas de los migrantes.
+			- : Cochapata, Las Nieves y El Progreso, respectivamente.
