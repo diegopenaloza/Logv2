@@ -464,4 +464,17 @@
 	  
 	  1907 :
 -
-- A continuación se muLínea temporal de las obras realizadas en el cantón Nabón en Azuay Ecuador
+- A continuación se construye la línea temporal de las obras que ha realizado el GAD del cantón Nabón ubicado  en Azuay Ecuador
+	- , basados en la clasificación de ayuda
+	  
+	  A. Pre-Inca
+	  
+	  El cantón Nabón cuenta con una larga historia pre-inca. La cultura más antigua de la zona es la Huancavilca, que se cree que era un grupo aislado y no estudiado. Esta cultura es responsable de algunos de los increase pre-incas más notablemente la construcción de túneles en la zona. La cultura más estudiada del Nabón es la Inca, debido a la proximidad de este cantón con la ciudad de Cuenca. Se cree que los incas se establecieron en la zona en el siglo 15 dC y construyeron una serie de fortalezas y centros ceremoniales. La evidencia de la civilización inca se puede ver en la ciudad de Nabón, en las ruinas de Ingapirca.
+	  
+	  B. Colonial
+	  
+	  El cantón Nabón fue colonizado por los españoles en el siglo 16. Se construyeron una serie de iglesias y conventos en la zona, y la ciudad de Nabón se convirtió en un importante centro religioso y comercial. La zona también se utilizó como una base militar para la conquista de las tierras incas. En el siglo 19, el Cantón de Nabón se convirtió en un lugar de exilio para muchos opositores al régimen colonial. La ciudad de Nabón también fue escenario de una batalla durante la Guerra Civil del Ecuador.
+	  
+	  C. Modern
+	  
+	  El cantón Nabón ha experimentado un rápido crecimiento económico y urbano en las últimas décadas. Se han construido una serie de nuevos edificios y infraestructuras, y la ciudad de Nabón se ha convertido en un importante centro comercial y de transporte.alizado
