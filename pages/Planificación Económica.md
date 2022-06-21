@@ -414,3 +414,5 @@
 		  7 : El Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) también establece en su artículo 4 que uno de los fines de los gobiernos autónomos descentralizados es el fortalecimiento de la unidad nacional en la diversidad.
 		  
 		  8 : Por último, el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece en su artículo 4 que otro de los fines de los gobiernos autónomos descentralizados es la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable.
+	-
+	- Crear linea de tiempo del Canton Nabon ubicado en la Provincia de
