@@ -460,4 +460,4 @@
 	  
 	  Para dar más realce, importancia y comprensión de todo el proceso histórico de la comunicación en el cantón Nabón, consideramos pertinente aplicar la teoría organizacional de la comunicación que consiste en determinar la secuencia a través de la cual se logra formar una estructura. En este caso se ha logrado definir los diferentes canales de comunicación que van desde el más antiguo hasta las actuales herramientas tecnológicas que esta tiene.
 	  
-	  Crear una linea temporal de la historia del cantón Nabón usando la información anteriorCrear línea de tiempo del cantón Nabón con la información de los párrafos anteriores :
+	  Crear una linea temporal de la historia del cantón Nabón usando la información anterior
