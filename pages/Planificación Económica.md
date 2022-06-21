@@ -215,7 +215,7 @@
   
   **OBJETIVOS**
   
-  El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
+  El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Además, sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
   
   Según la información anterior detalla ¿ cual seria el objetivo del cantón Nabón ?
 	-
@@ -226,4 +226,6 @@
 	- El objetivo del cantón Nabón es el desarrollo social, económico, ambiental y cultural de la zona.
 	- El objetivo del cantón Nabón es lograr que Nabón sea un municipio modelo de desarrollo social, económico y ambiental.
 -
-- El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
+- El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad. 
+  Resume el parrafo anterior
+	- la importancia de la colaboracion en la protección del medio ambiente, la produccion agropecuaria y el desarrollo del turismo en Nabon.
