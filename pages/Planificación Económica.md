@@ -266,10 +266,85 @@
 	  
 	  Describe continuación en ocho párrafos las bases legales del cantón Nabón, en base a la información de los párrafos anteriores:
 	  
-	  [[1]].
+	  [[1]] :
 		-
 		- Ejemplos
 		  collapsed:: true
+			- La M. I. Municipalidad de Nabón se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+			  
+			  [[2]]. Entre las competencias está:
+			  
+			  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+			  
+			  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+			  
+			  c.- El fortalecimiento de la unidad nacional en la diversidad;
+			  
+			  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+			  
+			  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+			  
+			  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
+			  
+			  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+			  
+			  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a travé[[S]] de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+			  
+			  i.- Los demá[[S]] establecidos en la Constitución y la ley.
+			  
+			  [[3]]. Los fines de los gobiernos Autónomos Descentralizados según el artículo 4 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) son:
+			  
+			  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+			  
+			  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+			  
+			  c.- El fortalecimiento de la unidad nacional en la diversidad;
+			  
+			  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+			  
+			  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+			  
+			  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
+			  
+			  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+			  
+			  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a travé[[S]] de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+			  
+			  i.- Los demá[[S]] establecidos en la Constitución y la ley.
+			  
+			  4. En el apartado 56 del Código Orgánico de Organización Territorial, se establece la autonomía administrativa, funcional, y económica de los gobiernos Autónomos Descentralizados.
+			  
+			  5. Según el Artículo 55 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), los gobiernos Autónomos Descentralizados tienen como fines:
+			  
+			  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+			  
+			  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+			  
+			  c.- El fortalecimiento de la unidad nacional en la diversidad;
+			  
+			  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+			  
+			  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+			  
+			  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
+			  
+			  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+			  
+			  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a travé[[S]] de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+			  
+			  i.- Los demá[[S]] establecidos en la Constitución y la ley.
+			  
+			  6. El Artículo 4 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) describe los fines de los gobiernos Autónomos Descentralizados como:
+			  
+			  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+			  
+			  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+			  
+			  c.- El fortalecimiento de la unidad nacional en la diversidad;
+			  
+			  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+			  
+			  e.- La protección y promoción de la diversidad cultural y el respeto a sus esp
 			- Los gobiernos Autónomos Descentralizados tienen como finalidad el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización.
 			  
 			  [[2]]. Tienen como también como finalidad garantizar, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
@@ -324,78 +399,18 @@
 				  i.- Los demá[[S]] establecidos en la Constitución y la ley.
 		-
 		-
-		- La M. I. Municipalidad de Nabón se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+		- La autonomía de la M. I. Municipalidad de Nabón se basa en los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56.
 		  
-		  2. Entre las competencias está:
+		  2 : Los fines de la M. I. Municipalidad de Nabón son el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización; la garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales; el fortalecimiento de la unidad nacional en la diversidad; la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable, entre otros.
 		  
-		  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+		  3 : Dentro de sus competencias, la M. I. Municipalidad de Nabón tiene la obligación de impulsar el desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
 		  
-		  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+		  4 : La M. I. Municipalidad de Nabón también tiene la competencia de generar condiciones de asegurar los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes.
 		  
-		  c.- El fortalecimiento de la unidad nacional en la diversidad;
+		  5 : El Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece en su artículo 4 los fines de los gobiernos autónomos descentralizados, entre los que se encuentran el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización.
 		  
-		  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+		  6 : El artículo 55 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece las competencias de los gobiernos autónomos descentralizados, entre las que se encuentra el desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
 		  
-		  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+		  7 : El Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) también establece en su artículo 4 que uno de los fines de los gobiernos autónomos descentralizados es el fortalecimiento de la unidad nacional en la diversidad.
 		  
-		  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
-		  
-		  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
-		  
-		  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
-		  
-		  i.- Los demás establecidos en la Constitución y la ley.
-		  
-		  3. Los fines de los gobiernos Autónomos Descentralizados según el artículo 4 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) son:
-		  
-		  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
-		  
-		  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
-		  
-		  c.- El fortalecimiento de la unidad nacional en la diversidad;
-		  
-		  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
-		  
-		  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
-		  
-		  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
-		  
-		  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
-		  
-		  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
-		  
-		  i.- Los demás establecidos en la Constitución y la ley.
-		  
-		  4. En el apartado 56 del Código Orgánico de Organización Territorial, se establece la autonomía administrativa, funcional, y económica de los gobiernos Autónomos Descentralizados.
-		  
-		  5. Según el Artículo 55 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD), los gobiernos Autónomos Descentralizados tienen como fines:
-		  
-		  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
-		  
-		  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
-		  
-		  c.- El fortalecimiento de la unidad nacional en la diversidad;
-		  
-		  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
-		  
-		  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
-		  
-		  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
-		  
-		  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
-		  
-		  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
-		  
-		  i.- Los demás establecidos en la Constitución y la ley.
-		  
-		  6. El Artículo 4 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) describe los fines de los gobiernos Autónomos Descentralizados como:
-		  
-		  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
-		  
-		  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
-		  
-		  c.- El fortalecimiento de la unidad nacional en la diversidad;
-		  
-		  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
-		  
-		  e.- La protección y promoción de la diversidad cultural y el respeto a sus esp
+		  8 : Por último, el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece en su artículo 4 que otro de los fines de los gobiernos autónomos descentralizados es la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable.
