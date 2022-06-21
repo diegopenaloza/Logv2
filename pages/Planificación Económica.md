@@ -416,4 +416,25 @@
 		  8 : Por último, el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece en su artículo 4 que otro de los fines de los gobiernos autónomos descentralizados es la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable.
 	-
 	- Crear línea de tiempo del cantón Nabón ubicado en la provincia de Azuay en Ecuador:
+		- Prehistoria: Se han encontrado restos arqueológicos en el cantón Nabón que datan de hace unos 10.000 años. Estos restos pertenecen a la cultura Valdivia, y consisten en cerámicas ySCobijas textiles tejidas a mano.
+		  
+		  2500 a.C.: Comienza a surgir la cultura Chorrera en el cantón Nabón. Esta cultura es conocida por sus elaboradas cerámicas polychromadas, así como por sus enterramientos monumentales.
+		  
+		  200 a.C. - 800 d.C.: El cantón Nabón es ocupado por la cultura Inca. Se han encontrado restos de esta ocupación en la forma de ruinas de edificios Incas, así como objetos de cerámica y textiles.
+		  
+		  1600 d.C. - 1800 d.C.: El cantón Nabón es ocupado por la cultura Puruhá. Se han encontrado restos de esta ocupación en la forma de ruinas de edificios, objetos de cerámica y textiles.
+		  
+		  1822: El cantón Nabón se incorpora a la República del Ecuador.
+		  
+		  1900: Comienza a construirse el ferrocarril Quito-Guayaquil en el cantón Nabón.
+		  
+		  1940: Se construye el puente sobre el río Jubones en el cantón Nabón.
+		  
+		  1955: Se funda la ciudad de Nabón.
+		  
+		  1973: Se construye la Presa de Agoyán en el cantón Nabón.
+		  
+		  1981: Se funda la Universidad de Azuay en la ciudad de Nabón.
+		  
+		  2004: Se declara a Nabón como Ciudad Histórica del Ecuador.
 	-
