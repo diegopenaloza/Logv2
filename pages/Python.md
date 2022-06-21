@@ -33,22 +33,6 @@
 			- Ref
 			  collapsed:: true
 				- https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
-- Pandas
-	- Convertir archivos
-	  collapsed:: true
-		- De Stata(.dta) a Python
-		- ``` Python
-		  df = pd.read_stata('animals.dta')
-		  ```
-		- ref
-		  collapsed:: true
-			- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
-	- Filtrar Base de Datos
-	  collapsed:: true
-		- Usando Condicionales
-			- ``` python
-			  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
-			  ```
 - Listas (arrays)
   collapsed:: true
 	- Selecionar
@@ -164,7 +148,18 @@
 		- ref
 			- https://www.codegrepper.com/code-examples/python/expand+jupyter+notebook+width
 - Bases de Datos
+  collapsed:: true
 	- Pandas
+	  collapsed:: true
+		- Convertir archivos
+		  collapsed:: true
+			- De Stata(.dta) a Python
+			- ``` Python
+			  df = pd.read_stata('animals.dta')
+			  ```
+			- ref
+			  collapsed:: true
+				- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
 		- Importar base de Datos [[Stata]] (.dta) a Pandas
 		  collapsed:: true
 			- ``` python
@@ -173,3 +168,9 @@
 			- ref
 			  collapsed:: true
 				- https://pandas.pydata.org/docs/reference/api/pandas.read_stata.html
+		- Filtrar Base de Datos
+		  collapsed:: true
+			- Usando Condicionales
+				- ``` python
+				  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
+				  ```
