@@ -463,3 +463,306 @@
 	  Para dar más realce, importancia y comprensión de todo el proceso histórico de la comunicación en el cantón Nabón, consideramos pertinente aplicar la teoría organizacional de la comunicación que consiste en determinar la secuencia a través de la cual se logra formar una estructura. En este caso se ha logrado definir los diferentes canales de comunicación que van desde el más antiguo hasta las actuales herramientas tecnológicas que esta tiene.
 	  
 	  Crear línea de tiempo del cantón Nabón con la información de los párrafos anteriores :
+		- Canton : Nabón.
+		  
+		  Antíguo nombre: Yacuríes.
+		  
+		  Población: 18939 habitantes ( 8552 mujeres y 10387 hombres)
+		  
+		  Parroquias: Las Nieves, Cochapata y El Progreso.
+		  
+		  Escudo: Símbolo (la rama de caña de azúcar y los frutales de café).
+		  
+		  El cantón Nabón al estar ubicado al sureste de la provincia del Azuay y en la cordillera Real de las Cordilleras video obligado a lidiar con problemas de infraestructura debido al estado de los caminos en las salidas de las parcelas.
+		  
+		  La iglesia Matriz del cantón fue construida en el año de 1907.
+		  
+		  La cantonización de Nabón se llevo a cabo el día 26 de mayo de 1987.
+		  
+		  La comunicación en el cantón Nabón en la actualidad cuenta con medios de televisión, vigilancia ciudadana, rádio comunitaria, etc.
+		  
+		  1.44.Marque los medios de comunicación que usted conoce din el siguiente cuadro.
+		  
+		  Entorno:
+		  
+		  MEDIOS DE COMUNICACIÓN ORGANIZACIONALES
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación interpersona
+		  
+		  Comunicación entre Iguales
+		  
+		  Comunicación Asimétrica
+		  
+		  Comunicación Simétrica
+		  
+		  Comunicación Vertical
+		  
+		  Comunicación Horizontal
+		  
+		  Comunicación descendente
+		  
+		  Comunicación Ascendente
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación interna
+		  
+		  Comunicación externa
+		  
+		  Comunicación oral
+		  
+		  Comunicación Escrita
+		  
+		  Comunicación Paralela
+		  
+		  Comunicación Lateral
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación interna
+		  
+		  Comunicación externa
+		  
+		  Comunicación oral
+		  
+		  Comunicación Escrita
+		  
+		  Comunicación Paralela
+		  
+		  Comunicación Lateral
+		  
+		  Comunicación Formal
+		  
+		  Comunicación
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comunicación personal
+		  
+		  Comunicación grupal
+		  
+		  Comunicación de información formal
+		  
+		  Comunicación de información informal
+		  
+		  Comunicación
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comunicación Interpersona
+		  
+		  Comunicación Formal
+		  
+		  Comunicación Informal
+		  
+		  Comuníquese
+		  
+		  Comunicación Por Internet
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  Comuníquese
+		  
+		  1.5.¿en cuál de los siguientes se refleja mejor el proceso de comunicación que usted realiza diariamente?
+		  
+		  a) Comunicación Interactiva
+		  
+		  b) Comunicación unilateral
+		  
+		  c) Comunicación descentralizada
+		  
+		  d) Comunicación Jerárquica
+		  
+		  e) Comunicación Espontánea
+		  
+		  1.6.La comunicación interactiva se refiere a los modelos de la comunicación social que consideran a los emisores y los receptores como partes de un proceso bidimensional que ocurre entre un emisor y una persona u objeto. ¿Está de acuerdo con este concepto?
+		  
+		  Si: _____________ No: ___________
+		  
+		  1.7.Theodor Adorno y Max Horkheimer en Dialéctica de la razón (1944) expresaron su critica contra la modernidad y la civilización tecnológica. ¿Concuerda usted con unsa de estas teorías? Use lineas al lado del nombre del autor que considere para justificar.
+		  
+		  Adorno Horkheimer
+		  
+		  Si __ __
+		  
+		  No __ __
+		  
+		  1.8. Estudios que han realizado académicos e investigadores destacan que los niños pequeños (3 a 6 años) tienen difficulidad para comprender la emisión de los comentarios emitidos en la televisión o la radio o tienen dificultad para entender los Spot. Al respecto, obtenga información en casa con respecto a la interacción de su niño(a) con respecto al entretenimiento tv o radio en caso de que esto ocurra. Usted habrá de llenar la siguiente tabla.
+		  
+		  Edad Comentario Spot
+		  
+		  Edad: 1 2 3 4 5 6 7 8 9 10 años 11 años 12 años 13 años
+		  
+		  Comentario:
+		  
+		  Spot:
+		  
+		  2. ENTREVISTA PARA COMPRENSIÓN DE INFORMACIÓN
+		  
+		  DispENSADORA 1
+		  
+		  Pablo Lozano
+		  
+		  Comunicación e Implementación de Productos Informáticos
+		  
+		  Universidad de Guayaquil
+		  
+		  LIbro
+		  
+		  Dispensadora
+		  
+		  Dispensadora
+		  
+		  Dispensadora
+		  
+		  Dispensadora
+		  
+		  Parte superior del formulario
+		  
+		  00 % 00
+		  
+		  Parte superior del formulario
+		  
+		  00
+		  
+		  00
