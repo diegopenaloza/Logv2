@@ -7,9 +7,7 @@
 	  
 	  -Riquezas naturales: el Cantón Nabón cuenta con numerosos recursos naturales, lo que lo convierte en un lugar atractivo para invertir y desarrollar actividades económicas.
 	  
-	  -Clima cálido y húmedo: el clima cálido y húmedo es propicio para el cultivo de una amplia variedad de frutas y hortalizas.
-	  
-	  -importante centro agrícola: Nabón es un importante centro agrícola, lo que le permite producir alimentos de calidad para el consumo local y exportar a otros países.
+	  -Importante centro agrícola: Nabón es un importante centro agrícola, lo que le permite producir alimentos de calidad para el consumo local y exportar a otros países.
 	  
 	  Debilidades:
 	  
