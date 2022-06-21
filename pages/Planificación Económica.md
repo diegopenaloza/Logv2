@@ -57,11 +57,20 @@
 	  Una de las características relevantes de la población del cantón Nabón es la como indígena, según el último censo poblacional). En este cantón coexiste la población indígena y la mestiza lo que le ha merecido el título de “Patrimonio Cultural del [[Ecuador]]”. Sin embargo estas poblaciones mantienen una relación que valora menos lo indígena, paralelo a ello la pobreza del cantón ha obligado a que sus pobladores/as migren hacia las ciudades de la costa ecuatoriana y hacia Cuenca o a España, Italia y Estados Unidos; creando vínculos que lejos de fortalecer un intercambio cultural entre iguales y de ver la diversidad en el cantón como un elemento singular, en la práctica se ha tornado en un factor para el mayor desconocimiento, desvalorización y discriminación de la cultura indígena local.
 	  
 	  Esta situación no es ajena ni al gobierno local, ni a los líderes de las comunidades indígenas quienes ven esta situación con preocupación y aun planteándose hacer algo, por la falta de recursos existente buscan apoyo para promover el reconocimiento, autodeterminación y empoderamiento cultural.
+	  
+	  Con la Información anterior, crea una lista de todas las características de Nabón
+		- .
+		  
+		  
+		  -Nabón está ubicado en el sudeste del Ecuador, en la provincia del Azuay.
+		  -Nabón tiene una población de 15.121 habitantes.
+		  -La actividad principal de los habitantes de Nabón es la agricultura.
+		  -Una de las características relevantes de la población del cantón Nabón es que la mayoría es indígena.
+		  -La pobreza es muy alta en Nabón, con un 87,9% de población considerada como pobre y un 55,7% de indigencia.
 	- Pruebas de Características de Nabon
-	  collapsed:: true
 	  Resumen de las características de Nabón, según  los párrafos anteriores
-		- -Nabón es un cantón de la provincia del Azuay, en [[Ecuador]], de 668,[[2]] km².
-		  -Tiene una población de 15.121 habitantes,  distribuidos de la siguiente manera: el 6,9% en la zona urbana y el 93,[[1]]% en la zona rural; 6.926 son hombres y 8.195 son mujeres.
+		- -Nabón es un cantón de la provincia del Azuay, en [[Ecuador, de 668,2km².
+		  -Tiene una población de 15.121 habitantes,  distribuidos de la siguiente manera: el 6,9% en la zona urbana y el 93,1% en la zona rural; 6.926 son hombres y 8.195 son mujeres.
 		  -La actividad principal de sus habitantes es la agricultura.
 		  -Una de las características relevantes de la población del cantón Nabón es la como indígena, según el último censo poblacional). 
 		  -En este cantón coexiste la población indígena y la mestiza lo que le ha merecido el título de “Patrimonio Cultural del [[Ecuador]]”. 
