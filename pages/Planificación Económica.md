@@ -264,10 +264,39 @@
 	  i.- Los demá[[S]] establecidos en la Constitución y la ley.
 	  
 	  
-	  Describe continuación en tres párrafos las bases legales del cantón Nabón en base a la información de los párrafos anteriores:
+	  Describe continuación en cinco párrafos las bases legales del cantón Nabón en base a la información de los párrafos anteriores:
 		-
 		- 1. En virtud de la autonomía que le otorga la Constitución Política de la República y el Código Orgánico de Organización Territorial, la M.I. Municipalidad de Nabón cuenta con la facultad de desarrollar un planificación y desarrollo equitativo y solidario de la circunscripción territorial que le corresponde.
 		  
 		  2. Asimismo, debe velar por la garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
 		  
 		  3. Por último, la Municipalidad de Nabón debe impulsar el desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+		- La Municipalidad de Nabón se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+		  
+		  Entre las competencias está:
+		  
+		  Art. 55 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) 2010.
+		  
+		  Título I
+		  
+		  Principios Generales.
+		  
+		  Art. 4.- Fines de los gobiernos autónomos descentralizados.- Dentro de sus respectivas circunscripciones territoriales son fines de los gobiernos autónomos descentralizados .- Dentro de sus respectivas circunscripciones territoriales son fines de los gobiernos Autónomos Descentralizados:
+		  
+		  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+		  
+		  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+		  
+		  c.- El fortalecimiento de la unidad nacional en la diversidad;
+		  
+		  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+		  
+		  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+		  
+		  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
+		  
+		  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+		  
+		  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a travé[[S]] de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+		  
+		  i.- Los demá[[S]] establecidos en la Constitución y la ley.
