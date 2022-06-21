@@ -138,15 +138,18 @@
 		  
 		  Cabe destacar a ciudadanos, como el padre Nicanor Cobos, Remigio Ochoa, Francisco Carrasco, Rafael Carrión, Francisco San Martin y Amelia Erráez, presidenta del Comité de Cantonización, y otros ciudadanos patriotas, que merecen permanecer en la memoria de la historia de Nabón.
 	-
-- Una síntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
-- De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.
-- **Primer Sistema Agrario: Los Tuncahuanes**
-- Se maneja la hipótesis de que los primeros habitantes del cantón fueron los Tuncahuanes provenientes de la sierra centro. Desarrollaron el primer sistema agrario con el cultivo de maíz, la recolección de frutos silvestres y la caza de animales. Esta producción sólo permitió la sobrevivencia de éste pueblo, sin generar excedentes.
-- La recolección y la caza se explican por la gran variedad de especies en flora y fauna. “La recolección incluía, seguramente, frutas diversas como la uvilla, el taxo, la mora, el nogal o tocte, la nigua, el capulí, la joyapa o hualicón, granos de amarantáceas como el ataco, de quenopodiáceas como la ashpa, chocho; en fin, de hojas de bledo y berro y tal vez, tubérculos silvestres como sacha papa, Ayala Mora.
-- **El Asentamiento de los Cañaris**
-  Siendo los Cañaris, una cultura social y técnicamente más desarrollada, dominó a los Tuncahuanes y establecieron su acervo cultural desarrollando una tecnología que incrementó la productividad del trabajo y permitió generar excedentes para mantener a su clase política y guerrera. El cultivo de maíz en asociación con tubérculos andinos fue base de la producción.**
+- Una [[S]]íntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
+  De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.**
+  Primer Sistema Agrario: Los Tuncahuanes**
+  Se maneja la hipótesis de que los primeros habitantes del cantón fueron los Tuncahuanes provenientes de la sierra centro. Desarrollaron el primer sistema agrario con el cultivo de maíz, la recolección de frutos silvestres y la caza de animales. Esta producción [[S]]ólo permitió la sobrevivencia de éste pueblo, sin generar excedentes.
+  La recolección y la caza se explican por la gran variedad de especies en flora y fauna. “La recolección incluía, seguramente, frutas diversas como la uvilla, el taxo, la mora, el nogal o tocte, la nigua, el capulí, la joyapa o hualicón, granos de amarantáceas como el ataco, de quenopodiáceas como la ashpa, chocho; en fin, de hojas de bledo y berro y tal vez, tubérculos silvestres como sacha papa, Ayala Mora.**
+  El Asentamiento de los Cañaris**
+  Siendo los Cañaris, una cultura social y técnicamente má[[S]] desarrollada, dominó a los Tuncahuanes y establecieron su acervo cultural desarrollando una tecnología que incrementó la productividad del [[Trabajo]] y permitió generar excedentes para mantener a su clase política y guerrera. El cultivo de maíz en asociación con tubérculos andinos fue base de la producción.**
   Ocupación Incaica**
   El avance de la conquista incásica, en principio, fue resistido por los Cañaris, al mando del Cacique Duma. “Se avanzó, pues a resistir al inca hasta un punto que hoy parte linderos con las parroquias de Nabón y Cochapata, en un sitio que del nombre del generalísimo Cañari se conoce hasta ahora con el nombre de Dumapara, donde aún actualmente se ven muchas ruinas.
   Posteriormente, el ejército inca se demostró como muy superior y el cacique Duma, frente a esta realidad entendió que los cañaris ganarían mucho al entrar a formar parte del imperio incásico y aceptó los requerimientos de paz que le ofrecía el inca Yupanqui, acuerdo que se selló con el recibimiento que a éste hicieron en Tumipamba, donde le prepararon magníficos alojamientos, en espléndida meseta de Pumapungo. (Octavio Cordero Palacios). La dominación inca fue muy breve y aunque en Nabón se encuentran vestigios de construcciones incaicas en combinación con ruinas cañaris, no hay indicadores para afirmar que el sistema agrario de los Cañaris haya sido modificado fuertemente por la presencia del Incario.
   
   En la época incásica, Nabón se convierte en un importante Tambo debido a que es un paso obligado de chasquis y punto estratégico del Camino Real o del Inca, para comunicar el Collasuyo con el Intisuyo.
+  
+  Detallas una linea témporal de Nabón con la información anterior
+	- , así como los hitos más importantes de su historia.
