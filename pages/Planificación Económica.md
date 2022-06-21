@@ -485,7 +485,7 @@
 	  2009 - Inauguración del Centro de Convenciones de Nabón
 	  2010 - Aprobación del presupuesto cantonal para el año 2011
 	  2011 - Lanzamiento de la campaña "Nabón, mi cantón"
-	  2012 - Inauguración de la Casa de la Cultura de Nabón
+	  2016 - Inauguración de la Casa de la Cultura de Nabón
 	  2013 - Aprobación del presupuesto cantonal para el año 2014
 	  2014 - Inauguración de la Escuela Técnica Superior Politécnica del Cantón Nabón
 	  2015 - Aprobación del presupuesto cantonal para el año 2016
