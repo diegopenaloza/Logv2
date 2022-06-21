@@ -88,7 +88,7 @@
 			  
 			  Sin embargo, la pobreza es un problema generalizado en el cantón y ha obligado a que muchos de sus habitantes migren a otras zonas del paí[[S]] o al extranjero. Esta situación no es ajena ni al gobierno local, ni a los líderes de las comunidades indígenas quienes ven esta situación con preocupación y aun planteándose hacer algo, por la falta de recursos existente buscan apoyo para promover el reconocimiento, autodeterminación y empoderamiento cultural.
 	- Historia de Nabon
-		- La Historia
+		- TODO La Historia
 		  
 		  Una [[S]]íntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
 		  
@@ -135,8 +135,9 @@
 		  Durante la presidencia del Ing. León Febres Cordero, diputados, autoridades provinciales y partidos políticos apoyaron decididamente la propuesta que pasó a la Comisión de Municipalidades y fue aprobado por el Congreso Nacional el 7 de julio de 1987, proclamando a Nabón como el octavo cantón del Azuay, resolución que fue publicada en el Registro Oficial del 7 de agosto del mismo año.
 		  
 		  Muchos ciudadanos de Nabón sacrificaron tiempo y sufrieron incomprensiones es este proceso, pero en base a su esfuerzo y perseverancia lograron un objetivo histórico para los pueblos que agrupados en las parroquias de Nabón (centro, sus alrededores y comunas indígenas), Cochapata, El Progreso, Las Nieves y Oña (esta última cantonizada en 1991) comenzaban un nueva fase de su historia.
-		  
 		  Cabe destacar a ciudadanos, como el padre Nicanor Cobos, Remigio Ochoa, Francisco Carrasco, Rafael Carrión, Francisco San Martin y Amelia Erráez, presidenta del Comité de Cantonización, y otros ciudadanos patriotas, que merecen permanecer en la memoria de la historia de Nabón.
+		  
+		  Crear una linea temporal de la historia del cantón Nabón usando la información anterior
 	-
 - Una [[S]]íntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
   De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.**
