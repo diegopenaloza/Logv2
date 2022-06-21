@@ -180,3 +180,98 @@
 		  En el año de 1960 se organizó un comité empezó la gestión para erigirla en parroquia y presentó su primera solicitud ante el Concejo Cantonal de Girón, petición tiene sus primeros resultados designando como cabecera parroquial al centro de Zhota. Se consigue la Parroquialización de Santa Rosa de Zhota con Acuerdo Ministerial No. 59 del 28 de Julio de 1961.
 		  
 		  Resumen de las parroquias Rurales de Nabon y sus características
+			- <table align="center">
+			    <tr>
+			      <th colspan="7" align="center" bgcolor="#8B4800">PARROQUIAS DE NABÓN</th>
+			    </tr>
+			    <tr>
+			      <td rowspan="3" bgcolor="#F0D056">PARROQUIA</td>
+			      <td bgcolor="#F0D056" colspan="2">LIMITES</td>
+			      <td bgcolor="#F0D056" colspan="2">ALTITUD</td>
+			      <td bgcolor="#F0D056" colspan="2">ÁREA</td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">NORTE</td>
+			      <td bgcolor="#F0D056">SUR</td>
+			      <td bgcolor="#F0D056">MINIMA (m.s.n.m)</td>
+			      <td bgcolor="#F0D056">MAXIMA (m.s.n.m)</td>
+			      <td bgcolor="#F0D056">Total (ha)</td>
+			      <td bgcolor="#F0D056">Ganadera (ha)</td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">ABDÓN CALDERÓN</td>
+			      <td bgcolor="#F0D056">Centro cantonal Nabón </td>
+			      <td bgcolor="#F0D056">Parroquia Asunción, Nabón </td>
+			      <td bgcolor="#F0D056">2.690 </td>
+			      <td bgcolor="#F0D056">2.980 </td>
+			      <td bgcolor="#F0D056">1.350 </td>
+			      <td bgcolor="#F0D056">500 </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">CHAYAL </td>
+			      <td bgcolor="#F0D056">Centro cantonal Nabón </td>
+			      <td bgcolor="#F0D056">Parroquia San Luis del Cantón Girón</td>
+			      <td bgcolor="#F0D056">2.700 </td>
+			      <td bgcolor="#F0D056">3.200 </td>
+			      <td bgcolor="#F0D056">1.700 </td>
+			      <td bgcolor="#F0D056">600 </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">CHUQUIPATA </td>
+			      <td bgcolor="#F0D056">Parroquia Chayal, Nabón </td>
+			      <td bgcolor="#F0D056">Parroquia San Luis del Cantón Girón</td>
+			      <td bgcolor="#F0D056">2.600 </td>
+			      <td bgcolor="#F0D056">2.950 </td>
+			      <td bgcolor="#F0D056">1.850 </td>
+			      <td bgcolor="#F0D056">500 </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">COCHAPATA </td>
+			      <td bgcolor="#F0D056">Parroquia Las Nieves y Chayal </td>
+			      <td bgcolor="#F0D056">Parroquia Chayal </td>
+			      <td bgcolor="#F0D056">300 </td>
+			      <td bgcolor="#F0D056">3.300 </td>
+			      <td bgcolor="#F0D056">2.000 </td>
+			      <td bgcolor="#F0D056">500 </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">LAS NIEVES </td>
+			      <td bgcolor="#F0D056">Parroquia San Luis  </td>
+			      <td bgcolor="#F0D056">Parroquia Chayál Silvestre </td>
+			      <td bgcolor="#F0D056">2.750 </td>
+			      <td bgcolor="#F0D056">2.880 </td>
+			      <td bgcolor="#F0D056">1.100 </td>
+			      <td bgcolor="#F0D056">400 </td>
+			    </tr>
+			    <tr bgcolor="#F0D056">
+			      <td align="center" colspan="7">EL PROGRESO </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">SECTOR DENTRO REVISTA SAGARPA </td>
+			      <td colspan="2" bgcolor="#F0D056">Parroquia Cochapata, Nabón </td>
+			      <td colspan="2" bgcolor="#F0D056">2.760 </td>
+			      <td colspan="2" bgcolor="#F0D056">14.146 </td>
+			    </tr>
+			    <tr>
+			      <td bgcolor="#F0D056">SECTOR FUERA REVISTA SAGARPA </td>
+			      <td colspan="2" bgcolor="#F0D056">Parroquia Cochapata, Nabón </td>
+			      <td colspan="2" bgcolor="#F0D056">2.760 </td>
+			      <td colspan="2" bgcolor="#F0D056">11.385 </td>
+			    </tr>
+			  </table>
+			  
+			   
+			  	
+			  	
+			  	
+			  	
+			  	 <div class="botonSuperior" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Federal_polytechnic_school_of_Barbate_shield.svg/800px-Federal_polytechnic_school_of_Barbate_shield.svg.png" alt="Logo_Institución"/></div><br>
+			  	 
+			  <div class="parrafos">
+			  Desde la antigüedad, el Cantón Nabón ha sido foco de grandes actividades culturales: desde los tiempos precolombinos en donde se establecieron numerosas civilizaciones hasta vinculándolo a la cultura inca junto al Cantón al Río cuyo eje principal está relevado en la comunidad de La Abel.
+			  
+			  Considerando que en la actualidad el cabildo nacional expresa que el cantón debe aprovechar las potencialidades que posee en el área de artesanía, produciendo únicos objetos de interés cultural del país, el concejo cantonal, en el año 2000 cumple lo solicitado,conformando el equipo visionario, el cual le permitió dar el primer paso en el carácter creativo de sus habitantes, convocando un concurso de disertación de la concepción de un centro de desarrollo económico cultural y promoción del turismo, concepto que fue galardonado por la Comunidad Andina.
+			  
+			  En la actualidad cuenta con una Oficina de Turismo, mantenido mediante el trabajo de la comunidad económicamente y coordinado por la council sin ningún fin de lucro. 
+			  
+			  El centro de desarrollo económico, cuenta con caballerizas, departamentos de cerámica, platería, joyería, madera, artesanía, pintura, cestería, cajas, caleñita, camisetería, sastrería mochilería, mantelería, miniaturas, guayabera, calzadores, bordados, bolillos y bordados, tejido de bambú yvariedades de materiales. En estos espacios instructivos reciben y gradú
