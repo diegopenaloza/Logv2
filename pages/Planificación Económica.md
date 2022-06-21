@@ -41,6 +41,7 @@
   CLOCK: [2022-06-20 Mon 21:48:06]
   :END:
 	- Ubicación: Se encuentra ubicado a 69 Km. de la ciudad de Cuenca, conectado por la vía Panamericana que va desde Cuenca a Loja.  
+	  collapsed:: true
 	  Altitud:[[3]].000 m.[[S]].n.m.  
 	  Extensión: El área del cantón es de 668.[[2]] km2, lo cual representa el 7,56%.  
 	  Grupos Sociales: Nabón abarca a su vez el territorio indígena integrado por cuatro comunas jurídicas: Shiña, Chunazana, Morasloma y Puca.  
@@ -68,12 +69,13 @@
 		  -Una de las características relevantes de la población del cantón Nabón es que la mayoría es indígena.
 		  -La pobreza es muy alta en Nabón, con un 87,9% de población considerada como pobre y un 55,7% de indigencia.
 	- Pruebas de Características de Nabon
+	  collapsed:: true
 	  Resumen de las características de Nabón, según  los párrafos anteriores
-		- -Nabón es un cantón de la provincia del Azuay, en Ecuador, de 668,2km².
-		  -Tiene una población de 15.121 habitantes,  distribuidos de la siguiente manera: el 6,9% en la zona urbana y el 93,1% en la zona rural; 6.926 son hombres y 8.195 son mujeres.
+		- -Nabón es un cantón de la provincia del Azuay, en [[Ecuador]], de 668,2km².
+		  -Tiene una población de 15.121 habitantes,  distribuidos de la siguiente manera: el 6,9% en la zona urbana y el 93,[[1]]% en la zona rural; 6.926 son hombres y 8.195 son mujeres.
 		  -La actividad principal de sus habitantes es la agricultura.
 		  -Una de las características relevantes de la población del cantón Nabón es la como indígena, según el último censo poblacional). 
-		  -En este cantón coexiste la población indígena y la mestiza lo que le ha merecido el título de “Patrimonio Cultural del Ecuador”. 
+		  -En este cantón coexiste la población indígena y la mestiza lo que le ha merecido el título de “Patrimonio Cultural del [[Ecuador]]”. 
 		  -Sin embargo estas poblaciones mantienen una relación que valora menos lo indígena, paralelo a ello la pobreza del cantón ha obligado a que sus pobladores/as migren hacia las ciudades de la costa ecuatoriana y hacia Cuenca o a España, Italia y Estados Unidos; creando vínculos que lejos de fortalecer un intercambio cultural entre iguales y de ver la diversidad en el cantón como un elemento singular, en la práctica se ha tornado en un factor para el mayor desconocimiento, desvalorización y discriminación de la cultura indígena local.
 	- Introducción a Nabon ✅
 	  collapsed:: true
@@ -85,3 +87,55 @@
 			- Nabón es un cantón de la provincia del Azuay, de 668.[[2]] km², ubicado al sudeste. Tiene una población de 15.121 habitantes (según el VI Censo de Población y V de vivienda), distribuidos en zonas urbanas y rurales. La actividad principal de sus habitantes es la agricultura. Una de las características relevantes de la población del cantón Nabón es que un porcentaje significativo de sus habitantes son indígenas. 
 			  
 			  Sin embargo, la pobreza es un problema generalizado en el cantón y ha obligado a que muchos de sus habitantes migren a otras zonas del paí[[S]] o al extranjero. Esta situación no es ajena ni al gobierno local, ni a los líderes de las comunidades indígenas quienes ven esta situación con preocupación y aun planteándose hacer algo, por la falta de recursos existente buscan apoyo para promover el reconocimiento, autodeterminación y empoderamiento cultural.
+	- Historia de Nabon
+		- La Historia
+		  
+		  Una síntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
+		  
+		  De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.
+		  
+		  **Primer Sistema Agrario: Los Tuncahuanes**
+		  
+		  Se maneja la hipótesis de que los primeros habitantes del cantón fueron los Tuncahuanes provenientes de la sierra centro. Desarrollaron el primer sistema agrario con el cultivo de maíz, la recolección de frutos silvestres y la caza de animales. Esta producción sólo permitió la sobrevivencia de éste pueblo, sin generar excedentes.
+		  
+		  La recolección y la caza se explican por la gran variedad de especies en flora y fauna. “La recolección incluía, seguramente, frutas diversas como la uvilla, el taxo, la mora, el nogal o tocte, la nigua, el capulí, la joyapa o hualicón, granos de amarantáceas como el ataco, de quenopodiáceas como la ashpa, chocho; en fin, de hojas de bledo y berro y tal vez, tubérculos silvestres como sacha papa, Ayala Mora.
+		  
+		  **El Asentamiento de los Cañaris**
+		  
+		  Siendo los Cañaris, una cultura social y técnicamente más desarrollada, dominó a los Tuncahuanes y establecieron su acervo cultural desarrollando una tecnología que incrementó la productividad del trabajo y permitió generar excedentes para mantener a su clase política y guerrera. El cultivo de maíz en asociación con tubérculos andinos fue base de la producción.
+		  
+		  **Ocupación Incaica**
+		  
+		  El avance de la conquista incásica, en principio, fue resistido por los Cañaris, al mando del Cacique Duma. “Se avanzó, pues a resistir al inca hasta un punto que hoy parte linderos con las parroquias de Nabón y Cochapata, en un sitio que del nombre del generalísimo Cañari se conoce hasta ahora con el nombre de Dumapara, donde aún actualmente se ven muchas ruinas.
+		  
+		  Posteriormente, el ejército inca se demostró como muy superior y el cacique Duma, frente a esta realidad entendió que los cañaris ganarían mucho al entrar a formar parte del imperio incásico y aceptó los requerimientos de paz que le ofrecía el inca Yupanqui, acuerdo que se selló con el recibimiento que a éste hicieron en Tumipamba, donde le prepararon magníficos alojamientos, en espléndida meseta de Pumapungo. (Octavio Cordero Palacios). La dominación inca fue muy breve y aunque en Nabón se encuentran vestigios de construcciones incaicas en combinación con ruinas cañaris, no hay indicadores para afirmar que el sistema agrario de los Cañaris haya sido modificado fuertemente por la presencia del Incario.
+		  
+		  En la época incásica, Nabón se convierte en un importante Tambo debido a que es un paso obligado de chasquis y punto estratégico del Camino Real o del Inca, para comunicar el Collasuyo con el Intisuyo.
+		  
+		  **El Período Colonial**
+		  
+		  La presencia española en el territorio de Nabón se da a finales del siglo XVI con la llegada de españoles. Al respecto, Wolf relata: “La codicia de autoridades españolas de aquellas comarcas, principalmente la del Gobernador de Macas, residente en Sevilla de Oro, fue la causa de la repentina ruina de esos florecientes países. El año de 1599 los Jíbaros acaudillados por Quiruba, concentraron un plan de insurrección, tan secreto y hábilmente conducido, que destruyeron hasta los cimientos de las ciudades de Logroño y Sevilla de Oro, pasando a cuchillo a sus moradores y dando muerte al codicioso gobernador”
+		  
+		  El encuentro de estas culturas son el germen de las nuevas generaciones de Nabón, que con orgullo y dignidad continuarán impulsando el desarrollo de su cantón.
+		  
+		  **Independencia y República**
+		  
+		  En 1822 el Mariscal Sucre y sus tropas acampan en Nabón por considerarla una zona estratégica, antes de avanzar a la Batalla de Pichicha que derrota definitivamente al yugo español.
+		  
+		  Ya en 1824 después de la Batalla de Pichincha, Nabón alcanzó la categoría de cantón, sin embargo la nueva ley de división territorial expedido por el congreso de Colombia modifica la organización política del Azuay dejándole con cuatro cantones: Cuenca, Cañar, Gualaceo y Girón.
+		  
+		  En este proceso, en 1852 Nabón se constituye en parroquia como parte de Girón. En 1869 Nabón pasa a pertenecer al cantón Cuenca; para 1884 volver a ser parroquia del cantón Girón.
+		  
+		  **El Proceso de Cantonización**
+		  
+		  Fue un camino largo y lleno de esfuerzos por más de 50 años, desde 1934, en la primera presidencia de Velasco Ibarra, bajo la consigna de retomar la categoría de cantón que fuera otorgada por Simón Bolívar, a poco de alcanzar la independencia de la dominación española. En efecto, para 1976 se retomó la idea de la cantonización por un grupo de ciudadanos liderados por el Profesor José Mayancela, aspiración que no pudo concretarse debido a que no se reunieron los requisitos indispensables que exige la ley de régimen municipal, razón por la cual quedó suspenso el trámite en la Comisión de Límites Internos del Congreso Nacional.
+		  
+		  Presionados por la falta de servicios básicos y la desatención gubernamental, nuevamente un grupo organizado de hombres y mujeres conforman un “Comité Cívico” que reinició el trámite por la cantonización en el año 1982, apoyado por las colonias nabonenses residentes en Quito, Cuenca, Santo Domingo, El Oro.
+		  
+		  Durante la presidencia del Ing. León Febres Cordero, diputados, autoridades provinciales y partidos políticos apoyaron decididamente la propuesta que pasó a la Comisión de Municipalidades y fue aprobado por el Congreso Nacional el 7 de julio de 1987, proclamando a Nabón como el octavo cantón del Azuay, resolución que fue publicada en el Registro Oficial del 7 de agosto del mismo año.
+		  
+		  Muchos ciudadanos de Nabón sacrificaron tiempo y sufrieron incomprensiones es este proceso, pero en base a su esfuerzo y perseverancia lograron un objetivo histórico para los pueblos que agrupados en las parroquias de Nabón (centro, sus alrededores y comunas indígenas), Cochapata, El Progreso, Las Nieves y Oña (esta última cantonizada en 1991) comenzaban un nueva fase de su historia.
+		  
+		  Cabe destacar a ciudadanos, como el padre Nicanor Cobos, Remigio Ochoa, Francisco Carrasco, Rafael Carrión, Francisco San Martin y Amelia Erráez, presidenta del Comité de Cantonización, y otros ciudadanos patriotas, que merecen permanecer en la memoria de la historia de Nabón.
+		  
+		  Crear una Linea
