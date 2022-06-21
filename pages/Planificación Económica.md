@@ -217,7 +217,9 @@
   
   El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
   
-  Describe la misión y la Visión del cantón Nabón  según la Información de los párrafos Anteriores
+  Según la información anterior  cual seria el objetivo del cantón Nabón ?
+	-
+	- Describe la misión y la Visión del cantón Nabón  según la Información de los párrafos Anteriores
 	-
 	-
 	- .
