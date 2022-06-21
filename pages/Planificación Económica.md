@@ -179,4 +179,4 @@
 		  
 		  En el año de 1960 se organizó un comité empezó la gestión para erigirla en parroquia y presentó su primera solicitud ante el Concejo Cantonal de Girón, petición tiene sus primeros resultados designando como cabecera parroquial al centro de Zhota. Se consigue la Parroquialización de Santa Rosa de Zhota con Acuerdo Ministerial No. 59 del 28 de Julio de 1961.
 		  
-		  Resumen de las parroquias Rurales de Nabon
+		  Resumen de las parroquias Rurales de Nabon y sus características
