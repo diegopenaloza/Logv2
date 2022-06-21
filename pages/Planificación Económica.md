@@ -415,4 +415,5 @@
 		  
 		  8 : Por último, el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) establece en su artículo 4 que otro de los fines de los gobiernos autónomos descentralizados es la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable.
 	-
-	- Crear linea de tiempo del Canton Nabon ubicado en la Provincia de
+	- Crear línea de tiempo del cantón Nabón ubicado en la provincia de Azuay en Ecuador:
+	-
