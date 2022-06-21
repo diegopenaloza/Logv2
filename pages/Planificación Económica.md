@@ -217,14 +217,13 @@
   
   El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
   
-  Según la información anterior  cual seria el objetivo del cantón Nabón ?
+  Según la información anterior detalla ¿ cual seria el objetivo del cantón Nabón ?
 	-
 	- Describe la misión y la Visión del cantón Nabón  según la Información de los párrafos Anteriores
-	-
-	-
-	- .
-	  
-	  
-	  La misión del cantón Nabón es fomentar el desarrollo social, económico, ambiental y cultural del cantón, fundamentado en el suministro de servicios básicos de agua potable, alcantarillado, infraestructura adecuada y suficiente de salud y educación, en el cuidado de fuentes hídricas, en programas de desarrollo económico y protección social, y en la participación ciudadana para la definición y control del Plan de Ordenamiento Territorial como eje central que asegure mejoras sostenibles y sustentables y consolide el buen vivir. 
-	  
-	  La visión del cantón Nabón es lograr que Nabón sea un municipio modelo de desarrollo social, económico y ambiental, como resultado de claros propósitos de la gestión administrativa, de la decidida e infatigable participación ciudadana y del esfuerzo y apoyo de todos los actores públicos y privados comprometidos con las condiciones óptimas del buen vivir.
+		- La misión del cantón Nabón es fomentar el desarrollo social, económico, ambiental y cultural del cantón, fundamentado en el suministro de servicios básicos de agua potable, alcantarillado, infraestructura adecuada y suficiente de salud y educación, en el cuidado de fuentes hídricas, en programas de desarrollo económico y protección social, y en la participación ciudadana para la definición y control del Plan de Ordenamiento Territorial como eje central que asegure mejoras sostenibles y sustentables y consolide el buen vivir. 
+		  
+		  La visión del cantón Nabón es lograr que Nabón sea un municipio modelo de desarrollo social, económico y ambiental, como resultado de claros propósitos de la gestión administrativa, de la decidida e infatigable participación ciudadana y del esfuerzo y apoyo de todos los actores públicos y privados comprometidos con las condiciones óptimas del buen vivir.
+	- El objetivo del cantón Nabón es el desarrollo social, económico, ambiental y cultural de la zona.
+	- El objetivo del cantón Nabón es lograr que Nabón sea un municipio modelo de desarrollo social, económico y ambiental.
+-
+- El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
