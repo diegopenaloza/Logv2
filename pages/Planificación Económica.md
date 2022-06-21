@@ -215,7 +215,7 @@
   
   **OBJETIVOS**
   
-  El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Además, sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
+  El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad.
   
   Según la información anterior detalla ¿ cual seria el objetivo del cantón Nabón ?
 	-
@@ -229,3 +229,39 @@
 - El Cantón Nabón ha fortalecido su integración al desarrollo provincial y regional en alianza con sus vecindades en la protección integral del medio ambiente de la cuenca del Jubones; en la producción agropecuaria limpia que satisfaga las necesidades de la familia y los mercados locales, especialmente de Cuenca; en el desarrollo de la industria del turismo en aprovechamiento de los valores tangibles e intangibles de la población y el territorio, en especial en el ejes Cuenca-Nabón-Oña-Loja. Ademá[[S]], sus asentamientos crecen de forma armónica y equilibrada con una infraestructura básica de servicios de calidad. 
   Resume el parrafo anterior
 	- la importancia de la colaboracion en la protección del medio ambiente, la produccion agropecuaria y el desarrollo del turismo en Nabon.
+-
+- Base Legal
+	- **BASE LEGAL**
+	  
+	  La M. I. Municipalidad de Nabón, se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+	  
+	  Entre las competencias está:
+	  
+	  Art. 55 del Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD) 2010.
+	  
+	  Título I
+	  
+	  Principios Generales.
+	  
+	  Art. 4.- Fines de los gobiernos autónomos descentralizados.- Dentro de sus respectivas circunscripciones territoriales son fines de los gobiernos autónomos descentralizados .- Dentro de sus respectivas circunscripciones territoriales son fines de los gobiernos Autónomos Descentralizados:
+	  
+	  a.- El Desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización;
+	  
+	  b.- La garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales;
+	  
+	  c.- El fortalecimiento de la unidad nacional en la diversidad;
+	  
+	  d.- La recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable;
+	  
+	  e.- La protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural;
+	  
+	  f.- La obtención de un hábitat seguro y saludable para los ciudadanos y la garantía de su derecho a la vivienda en el ámbito de sus respectivas competencia;
+	  
+	  g.- El desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+	  
+	  h.- La generación de condiciones de aseguren los derechos y principios reconocidos en la constitución a través de la creación y funcionamiento de sistemas de protección integral de sus habitantes;
+	  
+	  i.- Los demás establecidos en la Constitución y la ley.
+	  
+	  
+	  Describe las bases legales del Canton Nabon en base a la infromación de los parrafos anteriores
