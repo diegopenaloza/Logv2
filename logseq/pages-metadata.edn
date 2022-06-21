@@ -141,6 +141,9 @@
  {:block/name "jun 20th, 2022",
   :block/created-at 1655730994594,
   :block/updated-at 1655733242385}
+ {:block/name "jun 21st, 2022",
+  :block/created-at 1655812934662,
+  :block/updated-at 1655812934662}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
@@ -167,7 +170,7 @@
   :block/updated-at 1654745543997}
  {:block/name "planificación económica",
   :block/created-at 1654864427359,
-  :block/updated-at 1655783862336}
+  :block/updated-at 1655831760543}
  {:block/name "plotly",
   :block/created-at 1655650436965,
   :block/updated-at 1655650436965}
