@@ -180,3 +180,70 @@
 		  En el año de 1960 se organizó un comité empezó la gestión para erigirla en parroquia y presentó su primera solicitud ante el Concejo Cantonal de Girón, petición tiene sus primeros resultados designando como cabecera parroquial al centro de Zhota. Se consigue la Parroquialización de Santa Rosa de Zhota con Acuerdo Ministerial No. 59 del 28 de Julio de 1961.
 		  
 		  Resumen de las parroquias Rurales de Nabon y sus características según la información de los párrafos anteriores
+			- .
+			  
+			  |			 |Ubicación |Superficie |	Límites	 |		Habitantes	 |
+			  |			 
+			  |--
+			  |			 |Cochapata		 |11,760 km²	 |--		 |		3,500			 |
+			  |			 |Las Nieves		 |12,001,3 km² |--		 |		1,280			 |
+			  |			 |Manú				 |13,825 km²	 |--		 |		1,003			 |
+			  |			 |Sta. Isabel			 |3,075 km²	 |--		 |		2,57 himself			 |
+			  |			 |Raric				 |23,030 km²	 |--		 |		3,775			 |
+			  |			 |El procer			 |<!-- ? (los mapas muestran 142.9 km²) -->
+			  |--		 |		1,500			 |
+			  
+			  
+			  4.4. Parroquias urbanas:
+			  
+			  En cuanto a las parroquias urbanas en Nabón se destaca su cabecera cantonal Río Verde perteneciente al cantón Nabón, cuyo tradicionalidades son variadas. entre estas se pueden mencionar algunas como la fiesta de Carnival o fiesta de carneval, fiesta de patrono Guillermo Lasso Figeroa y la fiesta tradicional de muerte y resurrección. Las celebraciones tradicionales de Río Verde de Nabón son muchas, en la concepción se celebra la fiesta llamada “agustinos”, nacida con el proceso mesoamericano del sacrificio natural para honors dioses guerreros.
+			  
+			  Este proceso se llevaba a cabo en la montaña de Sacatarísimo de cuya cumbre se divisaban las llanuras circundantes privadas de habitantes. Las fiestas al aire libre de los habitantes de Río Verde de Nabón se caracterizan por los bailes que se llevan a cabo durante el desfile donde se exhiben los tradicionales trajes típicos del cantón Nabón.
+			  
+			  El procer guillermo Lasso Figueroa, gobernó cuatro provinciales y otros dos cantones, dentro de las provincias. Le llueven los premios, pero las cabinas de confesión suelen quedar vacías, sin embargo, Víctor posee recuerdos impagables con su papá, a quien le dedica este libro y que en sus años finales, fiel a su vocación de giñense, dejaban de hacer ledos enfadados. Algo de estos vivencios lo relataré al final de este libro
+			  
+			  En cuanto a las provincias en Nabón se tiene las provincias de:
+			  
+			  •	El antiguo cantón las nieves
+			  
+			  •	Canton Río verde
+			  
+			  •	Canton Raric
+			  
+			  •	Canton Manu
+			  
+			  •	Canton sta. Isabel
+			  
+			  •	Canton źñapud
+			  
+			  |			 |Ubicación |Superficie |
+			  
+			  4.5. Riobamba fiesta del caramelo
+			  
+			  Como todo departamento de la República, Riobamba tiene un abanico de fiestas religiosas por las diferentes parroquias y religiousismos que posee. Presenta diversas actividades religiosas, entre las cuales se destaca la Fiesta del Caramelo, cuyo origen es de los aborígenes priest. Dentro de la tradición popular, los vecinos oyeron por primera vez el nombre de los priest allá por el año 1830 y, desde entonces, existe la costumbre de elaborar una marca con forma de sobre quien arranca el caramelo.
+			  
+			  Para los nacimientos, las tradicionales damas, son quienes después de lavados y perfumados lentamente los  nacimientos, para que estén en perfectas condiciones y todos los niños puedan ser recibidos de la mejor manera. Se toma en cuenta los aspectos religiosos de la fiesta.
+			  
+			  Hoy en día, la fiesta cuenta con ritos religiosos y civiles, en los cuales se hacen las ofrendas a los diferentes santos por parte de los vecinos como agradecimiento para que el año venidero se sea próspero.
+			  
+			  En cuanto al entretenimiento, se podemos destacar al maestro músico Roger Casas cuyo lenguaje musical marca su propio territorio y es el virtuoso del bombo, del rondador y del cuatro ecuatoriano, en una fusión de Orquesta.
+			  
+			  La fiesta musical más grande de la ciudad es y se ha convertido en un buen atractivo turístico. Las celebraciones de los Caramelos de Riobamba no iniciarían sin la marca su símbolo.
+			  
+			  La marca esta formada por una figura rectangular, unida por un círculo en el medio. En ella están representados todos los personajes de esta tradición, como la venadita, la chivatita, el caminero, el pastorero.
+			  
+			  En ocasiones se adorna con frutas silvestres; en otras, la figura de la Virgen María o el niño Jesús, con ramas secas u hojas. También aparece la ciudad de Riobamba, pero la que más se destaca es la marca circundada por los nombres de los patrones, así como el lema “Pastores siervos de Nuestro Señor Jesucristo. Ellos encabezan nuestras celebraciones 26 de diciembre.
+			  
+			  El caramelo es un dulce elaborado con productos naturales como el pan de jengibre, azúcar, jarabe, canela, naranjas, clavo de especia, amapola, turrón y polvo para hornear, lo que lo hace único y difícil de freír.
+			  
+			  Al ser esta una técnica ancestral, se emplea solo el calor de la leña, el cual es algo lento. Se dice que freir los caramelos es una tarea fácil, pero sí requiere precisión, antes de meterver bastante leña. No se pueden tapar ya que podrían estallar.
+			  
+			  Para ello es necesario lograr la temperatura ideal, ya que será alcanzada a los 45 minutos en el embudo cuando ontija la tintura amarilla, pero deben dejarse por lo menos 1 hora más en la tierra.
+			  
+			  Después de esto se saca del horno y se extiende sobre una carpeta para que enfrié lo más pronto posible y así evitar que pierda su forma.
+			  
+			  El procer guillermo Lasso Figueroa, gobernó cuatro provinciales y otros dos cantones, dentro de las provincias. Le llueven los premios, pero las cabinas de confesión suelen quedar vacías, sin embargo, Víctor posee recuerdos impagables con su papá, a quien le dedica este libro y que en sus años finales, fiel a su vocación de giñense, dejaban de hacer ledos enfadados. Algo de estos vivencios lo relataré al final de este libro.
+			  
+			  4.6. Universidades
+			  
+			  Entre las Universidades de Cuenca se destacan algunas como la Universidad del Azuay, que cuenta con 3 campus, entre los
