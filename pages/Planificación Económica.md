@@ -88,7 +88,9 @@
 			  
 			  Sin embargo, la pobreza es un problema generalizado en el cantón y ha obligado a que muchos de sus habitantes migren a otras zonas del paí[[S]] o al extranjero. Esta situación no es ajena ni al gobierno local, ni a los líderes de las comunidades indígenas quienes ven esta situación con preocupación y aun planteándose hacer algo, por la falta de recursos existente buscan apoyo para promover el reconocimiento, autodeterminación y empoderamiento cultural.
 	- Historia de Nabon
+	  collapsed:: true
 		- La Historia
+		  collapsed:: true
 		  
 		  Una [[S]]íntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
 		  De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.
@@ -113,6 +115,7 @@
 			  
 			  -1533: Los españoles conquistan el Imperio Inca y Nabón se convierte en un importante tambo debido a su ubicación estratégica.
 		- **El Período Colonial**
+		  collapsed:: true
 		  La presencia española en el territorio de Nabón se da a finales del siglo XVI con la llegada de españoles. Al respecto, Wolf relata: “La codicia de autoridades españolas de aquellas comarcas, principalmente la del Gobernador de Macas, residente en Sevilla de Oro, fue la causa de la repentina ruina de esos florecientes países. El año de 1599 los Jíbaros acaudillados por Quiruba, concentraron un plan de insurrección, tan secreto y hábilmente conducido, que destruyeron hasta los cimientos de las ciudades de Logroño y Sevilla de Oro, pasando a cuchillo a sus moradores y dando muerte al codicioso gobernador”
 		  El encuentro de estas culturas son el germen de las nuevas generaciones de Nabón, que con orgullo y dignidad continuarán impulsando el desarrollo de su cantón.
 		  **Independencia y República**
@@ -147,19 +150,4 @@
 			  1982- Se reinicia el trámite de cantonización.
 			  
 			  1987- Nabón fue cantonizado y proclamado como el octavo cantón del Azuay.
-	-
-- Una [[S]]íntesis bien lograda de los orígenes de Nabón se sintetiza en el libro: “Nabón, su Fe, su Historia”, publicado en 1995, editado por el Comité Pro-celebración de las Bodas de Oro de la Coronación Canónica de Nuestra Señora del Rosario.
-  De este libro y de otros documentos se ha sistematizado, la siguiente sinopsis histórica.**
-  Primer Sistema Agrario: Los Tuncahuanes**
-  Se maneja la hipótesis de que los primeros habitantes del cantón fueron los Tuncahuanes provenientes de la sierra centro. Desarrollaron el primer sistema agrario con el cultivo de maíz, la recolección de frutos silvestres y la caza de animales. Esta producción [[S]]ólo permitió la sobrevivencia de éste pueblo, sin generar excedentes.
-  La recolección y la caza se explican por la gran variedad de especies en flora y fauna. “La recolección incluía, seguramente, frutas diversas como la uvilla, el taxo, la mora, el nogal o tocte, la nigua, el capulí, la joyapa o hualicón, granos de amarantáceas como el ataco, de quenopodiáceas como la ashpa, chocho; en fin, de hojas de bledo y berro y tal vez, tubérculos silvestres como sacha papa, Ayala Mora.**
-  El Asentamiento de los Cañaris**
-  Siendo los Cañaris, una cultura social y técnicamente má[[S]] desarrollada, dominó a los Tuncahuanes y establecieron su acervo cultural desarrollando una tecnología que incrementó la productividad del [[Trabajo]] y permitió generar excedentes para mantener a su clase política y guerrera. El cultivo de maíz en asociación con tubérculos andinos fue base de la producción.**
-  Ocupación Incaica**
-  El avance de la conquista incásica, en principio, fue resistido por los Cañaris, al mando del Cacique Duma. “Se avanzó, pues a resistir al inca hasta un punto que hoy parte linderos con las parroquias de Nabón y Cochapata, en un sitio que del nombre del generalísimo Cañari se conoce hasta ahora con el nombre de Dumapara, donde aún actualmente se ven muchas ruinas.
-  Posteriormente, el ejército inca se demostró como muy superior y el cacique Duma, frente a esta realidad entendió que los cañaris ganarían mucho al entrar a formar parte del imperio incásico y aceptó los requerimientos de paz que le ofrecía el inca Yupanqui, acuerdo que se selló con el recibimiento que a éste hicieron en Tumipamba, donde le prepararon magníficos alojamientos, en espléndida meseta de Pumapungo. (Octavio Cordero Palacios). La dominación inca fue muy breve y aunque en Nabón se encuentran vestigios de construcciones incaicas en combinación con ruinas cañaris, no hay indicadores para afirmar que el sistema agrario de los Cañaris haya sido modificado fuertemente por la presencia del Incario.
-  
-  En la época incásica, Nabón se convierte en un importante Tambo debido a que es un paso obligado de chasquis y punto estratégico del Camino Real o del Inca, para comunicar el Collasuyo con el Intisuyo.
-  
-  Detallas una linea témporal de Nabón con la información anterior
-	- , así como los hitos más importantes de su historia.
+	- Parroquias
