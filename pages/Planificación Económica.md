@@ -13,7 +13,7 @@
 	  
 	  -Alta vulnerabilidad a desastres naturales: el Cantón Nabón se encuentra en una zona de alta vulnerabilidad a los desastres naturales, lo que significa que está expuesto a riesgos como las inundaciones y los deslizamientos de tierra.
 	  
-	  -Población vulnerable: la población más vulnerable en el Cantón Nabón son los niños, las mujeres y los ancianos, quienes tienen menos acceso a los recursos y servicios.
+	  -Población vulnerable: la población más vulnerable en el Cantón Nabón son los niños, las mujeres y los ancianos, quienes tienen menos acceso a los recursos y servicios debido a que en su mayor parte esta población pertenece al sector agricola.
 	  
 	  Oportunidades:
 	  
