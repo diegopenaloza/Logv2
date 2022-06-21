@@ -438,3 +438,28 @@
 		  
 		  2004: Se declara a Nabón como Ciudad Histórica del Ecuador.
 	-
+	- El cantón Nabón se encuentra ubicado al sureste de la provincia del Azuay a 2.700 msnm; a 73 kilómetros de la ciudad de Cuenca. Se ha caracterizado por su clima frío, con una temperatura de 8 a 20ºC; tiene una población de 15.892 habitantes de los cuales 8552 son hombres y 7340 son mujeres, según el último censo poblacional del 2010 (INEC, 2010). Sus parroquias son: Las Nieves, Cochapata y el Progreso, por lo que sus caminos forman parte del Camino Real de las Cordilleras, las que fueron atravesadas por los incas, conquistadores, colonos y libertadores. (Anexo 1)
+	  
+	  El pueblo nabonense está reconocido por el espíritu religioso, defienden su religión y aman sobre todas las cosas a Dios, profesando una alta devoción hacia la patrona del cantón la Virgen del Rosario que se encuentra en la iglesia central del lugar.
+	  
+	  En el año de 1907 hasta 1908 fue construida la iglesia por el párroco doctor Francisco Terán Castro y fue renovada por el doctor Justo Torres quien inició la obra de reconstrucción el 10 de agosto de 1940; luego de varios pasos se llega a la decisión de dividir la vicaría de Girón para posteriormente establecer la nueva vicaría en Nabón.
+	  
+	  También la antes conocida parroquia de Nabón se subdividió en dos: La matriz de San Juan Bautista de Nabón que comprendía la actual parroquia del cantón como es Las Nieves; y, la parroquia eclesiástica Nuestra Señora del Rosario, donde hoy se sitúa la parroquia Cochapata.
+	  
+	  En 1983 cuando se encontraba como presidente del Ecuador el ingeniero León Febres Cordero, se decide apoyarlo con la finalidad de obtener obras en beneficio de Nabón y sobre todas las cosas, obtener la tan anhelada cantonización; los primeros pasos se dan con el inicio de reuniones y concentraciones. En el Cantón Girón y Santa Isabel se logra hablar con el candidato quien se compromete a colaborar con el proceso de la cantonización una vez alcanzado el poder.
+	  
+	  Con el apoyo incondicional del Senador Miguel Heredia Crespo y los diputados Mora y Tamariz Crespo, obtuvieron la aprobación de la cantonización de Nabón en la Cámara de diputados, quedándose como suspenso en la sala de los Senadores. Sin embargo siguió la lucha por lograr el objetivo; personas como el profesor José Mayancela como líder, seguido de los señores Benjamín Quezada, Leoncio Cabrera, Manuel Cabrera, Alfonso Ramón, Miguel Quezada, Julio Carrión entre otros, impulsaron nuevamente la lucha por alcanzar la cantonización, logrando que la comisión de límites internos de la República lleguen al pueblo para revisar y llevar el informe correspondiente.
+	  
+	  En 1985 se tiene el apoyo de las autoridades provinciales, del gobernador, del subdirector del CREA, del director del Ministerio de Agricultura y Ganadería (MAG), quienes planifican nuevamente las gestiones para entregar todos los
+	  
+	  documentos necesarios que eran solicitados. Esta unión llevó a crear el anteproyecto de cantonización que se presentó el 15 de mayo de 1986 al Congreso Nacional, el cual que fue dado lectura el 6 de agosto del año antes mencionado, para posteriormente pasar a la comisión de lo civil y lo penal para los trámites correspondientes de ley.
+	  
+	  El Consejo Provincial del Azuay envía un informe próspero el 23 de junio de 1986, y la comisión de límites da también su informe el 10 de diciembre del mismo año, para posteriormente pasar al Congreso Nacional para su estudio.
+	  
+	  El 26 de mayo de 1987 la subcomisión de municipalidades de lo civil y penal aprueba el informe; el plenario de las comisiones legislativas se une para su primer debate realizado el 10 de junio del mismo año. De esta forma por Decreto Ejecutivo del 3 de agosto de 1987 y publicado en el Registro Oficial número 745 del 7 de agosto de 1987, en la administración del presidente de la República ingeniero León Febres Cordero se declara la cantonización de Nabón. Dada la noticia a los pobladores nabonenses se reúnen en el centro cantonal para celebrar el 29 de agosto de 1987 con gran armonía la tal anhelada cantonización.
+	  
+	  Una vez con estos antecedentes se torna interesante estudiar el tipo de comunicación que se evidencia en el cantón, puesto que es un pueblo que maneja una cultura muy arraigada en sus antepasados, debido a ello existían pocas vías de comunicación entre los pobladores.
+	  
+	  Para dar más realce, importancia y comprensión de todo el proceso histórico de la comunicación en el cantón Nabón, consideramos pertinente aplicar la teoría organizacional de la comunicación que consiste en determinar la secuencia a través de la cual se logra formar una estructura. En este caso se ha logrado definir los diferentes canales de comunicación que van desde el más antiguo hasta las actuales herramientas tecnológicas que esta tiene.
+	  
+	  Crear línea de tiempo del cantón Nabón con la información de los párrafos anteriores :
