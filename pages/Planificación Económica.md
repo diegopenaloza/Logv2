@@ -461,6 +461,7 @@
 	  Para dar más realce, importancia y comprensión de todo el proceso histórico de la comunicación en el cantón Nabón, consideramos pertinente aplicar la teoría organizacional de la comunicación que consiste en determinar la secuencia a través de la cual se logra formar una estructura. En este caso se ha logrado definir los diferentes canales de comunicación que van desde el más antiguo hasta las actuales herramientas tecnológicas que esta tiene.
 	  
 	  Crear una linea temporal de la historia del cantón Nabón usando la información anterior
+		- 1907:
 		- , juzgando que canales de comunicación hubieron existido en el desarrollo de este pueblo de Azuay.
 		  
 		  Organizar las cuatro fases de la historia de la comunicación en Nabón según cada etapa de desarrollo que presenta el proceso. (La primera fase en negrita corresponde a la teoría organizacional teoría que ayudará a poner en evidencia el tipo de comunicación que hay desde el inicio de Nabón hasta la actualidad).
