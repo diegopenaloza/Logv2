@@ -264,12 +264,21 @@
 	  i.- Los demá[[S]] establecidos en la Constitución y la ley.
 	  
 	  
-	  Describe continuación en cinco párrafos las bases legales del cantón Nabón, segun la constitucion o el  en base a la información de los párrafos anteriores:
+	  Describe continuación en cinco párrafos las bases legales del cantón Nabón, según la constitución o el Código Orgánico de Organización Territorial, Autonomía y Descentralización, en base a la información de los párrafos anteriores:
 	  
 	  [[1]].
 		-
 		- Ejemplos
 		  collapsed:: true
+			- La Municipalidad de Nabón se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+			  
+			  [[2]]. Entre las competencias de la Municipalidad de Nabón se encuentra el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización.
+			  
+			  [[3]]. También se encarga de la garantía de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
+			  
+			  4. Otro de sus fines es el fortalecimiento de la unidad nacional en la diversidad.
+			  
+			  5. Por último, la Municipalidad de Nabón también se encarga del desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
 			- [[1]]. En virtud de la autonomía que le otorga la Constitución Política de la República y el Código Orgánico de Organización Territorial, la M.I. Municipalidad de Nabón cuenta con la facultad de desarrollar un planificación y desarrollo equitativo y solidario de la circunscripción territorial que le corresponde.
 			  
 			  [[2]]. Asimismo, debe velar por la garantía, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
@@ -306,12 +315,12 @@
 				  i.- Los demá[[S]] establecidos en la Constitución y la ley.
 		-
 		-
-		- La Municipalidad de Nabón se rige en lo que prescribe los artículos 253 y 264 de la Constitución Política de la República y el Código Orgánico de Organización Territorial, en su apartado 56, donde establece la autonomía: administrativa, funcional, y económica.
+		- Los gobiernos Autónomos Descentralizados tienen como finalidad el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización.
 		  
-		  2. Entre las competencias de la Municipalidad de Nabón se encuentra el desarrollo equitativo y solidario mediante el fortalecimiento del proceso de autonomías y descentralización.
+		  2. Tienen como también como finalidad garantizar, sin discriminación alguna y en los términos previstos en la Constitución de la República, de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
 		  
-		  3. También se encarga de la garantía de la plena vigencia y el efectivo goce de los derechos individuales y colectivos constitucionales y de aquellos contemplados en los instrumentos internacionales.
+		  3. Asimismo, tienen como objetivo el fortalecimiento de la unidad nacional en la diversidad.
 		  
-		  4. Otro de sus fines es el fortalecimiento de la unidad nacional en la diversidad.
+		  4. Otro de los fines de los gobiernos Autónomos Descentralizados es la recuperación y conservación de la naturaleza y el mantenimiento de un ambiente sostenible y sustentable.
 		  
-		  5. Por último, la Municipalidad de Nabón también se encarga del desarrollo planificado participativamente para transformar la realidad e impulso de la economía popular y solidaria con el propósito de erradicar la pobreza, distribuir equitativamente los recursos y la riqueza, y alcanzar el buen vivir.
+		  5. Finalmente, tienen como último objetivo la protección y promoción de la diversidad cultural y el respeto a sus espacios de generación e intercambio; la recuperación, preservación y desarrollo de la memoria social y patrimonio cultural.
