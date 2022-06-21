@@ -101,6 +101,17 @@
 		  El avance de la conquista incásica, en principio, fue resistido por los Cañaris, al mando del Cacique Duma. “Se avanzó, pues a resistir al inca hasta un punto que hoy parte linderos con las parroquias de Nabón y Cochapata, en un sitio que del nombre del generalísimo Cañari se conoce hasta ahora con el nombre de Dumapara, donde aún actualmente se ven muchas ruinas.
 		  Posteriormente, el ejército inca se demostró como muy superior y el cacique Duma, frente a esta realidad entendió que los cañaris ganarían mucho al entrar a formar parte del imperio incásico y aceptó los requerimientos de paz que le ofrecía el inca Yupanqui, acuerdo que se selló con el recibimiento que a éste hicieron en Tumipamba, donde le prepararon magníficos alojamientos, en espléndida meseta de Pumapungo. (Octavio Cordero Palacios). La dominación inca fue muy breve y aunque en Nabón se encuentran vestigios de construcciones incaicas en combinación con ruinas cañaris, no hay indicadores para afirmar que el sistema agrario de los Cañaris haya sido modificado fuertemente por la presencia del Incario.
 		  En la época incásica, Nabón se convierte en un importante Tambo debido a que es un paso obligado de chasquis y punto estratégico del Camino Real o del Inca, para comunicar el Collasuyo con el Intisuyo.
+		  
+		  Crear una linea temporal de la historia del cantón Nabón usando la información anterior
+			- .
+			  
+			  -1000: Los Tuncahuanes se establecen en Nabón y comienzan a desarrollar el primer sistema agrario.
+			  
+			  -600: Los Cañaris dominan a los Tuncahuanes y comienzan a desarrollar una tecnología más avanzada.
+			  
+			  -1400: El inca Yupanqui conquista Nabón y se sella un acuerdo de paz con el cacique Duma.
+			  
+			  -1533: Los españoles conquistan el Imperio Inca y Nabón se convierte en un importante tambo debido a su ubicación estratégica.
 		- **El Período Colonial**
 		  La presencia española en el territorio de Nabón se da a finales del siglo XVI con la llegada de españoles. Al respecto, Wolf relata: “La codicia de autoridades españolas de aquellas comarcas, principalmente la del Gobernador de Macas, residente en Sevilla de Oro, fue la causa de la repentina ruina de esos florecientes países. El año de 1599 los Jíbaros acaudillados por Quiruba, concentraron un plan de insurrección, tan secreto y hábilmente conducido, que destruyeron hasta los cimientos de las ciudades de Logroño y Sevilla de Oro, pasando a cuchillo a sus moradores y dando muerte al codicioso gobernador”
 		  El encuentro de estas culturas son el germen de las nuevas generaciones de Nabón, que con orgullo y dignidad continuarán impulsando el desarrollo de su cantón.
