@@ -46,6 +46,9 @@
  {:block/name "a",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
+ {:block/name "ai",
+  :block/created-at 1655855128011,
+  :block/updated-at 1655855162041}
  {:block/name "b",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -143,7 +146,10 @@
   :block/updated-at 1655733242385}
  {:block/name "jun 21st, 2022",
   :block/created-at 1655812934662,
-  :block/updated-at 1655812934662}
+  :block/updated-at 1655853574632}
+ {:block/name "jun 22nd, 2022",
+  :block/created-at 1655898546979,
+  :block/updated-at 1655898546979}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
@@ -176,7 +182,7 @@
   :block/updated-at 1655650436965}
  {:block/name "python",
   :block/created-at 1655587919582,
-  :block/updated-at 1655731291777}
+  :block/updated-at 1655855094226}
  {:block/name "regulación",
   :block/created-at 1655574662652,
   :block/updated-at 1655574662652}
