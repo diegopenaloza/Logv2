@@ -1,10 +1,12 @@
 - #+BEGIN_QUOTE
-  No dejes que el miedo te genere ansiedad, si enfrentas ese miedo lo antes posible, enfrentaras el miedo al fracaso, que no te derribe, lo peor que puedes encontrar es un No, y lo
+  No dejes que el miedo te genere ansiedad, si enfrentas ese miedo lo antes posible, enfrentaras el miedo al fracaso, que no te derribe, lo peor que puedes encontrar es un No, y [[#green]]==el resto son soluciones.==
   #+END_QUOTE
+-
 - ✒️ [[Tareas Internas]]
   collapsed:: true
 	- {{renderer agenda, task-list}}
 	-
+- --*
 - 🗒️[[Tareas]]
   collapsed:: true
 	- <html><iframe src="https://ticktick.com/webapp/#q/all/today" height="400" width="800" name="demo">
