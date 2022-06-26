@@ -112,7 +112,7 @@
 		- Fill Area
 		  collapsed:: true
 			- https://plotly.com/python/filled-area-plots/a
-		- Notes
+		- [Text and annotations in Python](https://plotly.com/python/text-and-annotations/)
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
