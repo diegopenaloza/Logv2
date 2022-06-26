@@ -87,8 +87,7 @@
 			- ref
 			  collapsed:: true
 				- https://plotly.com/python/subplots/
-		- Layout
-		  collapsed:: true
+		- Update Layout
 			- Ajustar Axix. Ajustar Ejex
 				- ``` python
 				  
