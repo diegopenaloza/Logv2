@@ -190,4 +190,6 @@
   collapsed:: true
 	- Playwright
 -
-- Proyecto
+- Proyecto por revisar
+  collapsed:: true
+	- https://github.com/Python-World/python-mini-projects
