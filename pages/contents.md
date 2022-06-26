@@ -1,4 +1,6 @@
-- No dejes que el miedo
+- #+BEGIN_QUOTE
+  No dejes que el miedo te genere ansiedad, si enfrentas ese miedo lo antes posible la ansidad no  
+  #+END_QUOTE
 - ✒️ [[Tareas Internas]]
   collapsed:: true
 	- {{renderer agenda, task-list}}
