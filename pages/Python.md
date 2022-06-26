@@ -122,6 +122,8 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1656255563228_0.png)
 		- [Legends in Python](https://plotly.com/python/legend/)
+		  collapsed:: true
+			- Cambiar de posición las leyendas
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
