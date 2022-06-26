@@ -8,4 +8,5 @@ icon:: 🤖
 	  #+END_CENTER
 - Características
 	- Mapas Georreferenciados del tipo de consumo de las empresas publicas
+	-
 - Modelo de Negocio
