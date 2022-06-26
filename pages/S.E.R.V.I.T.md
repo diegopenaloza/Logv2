@@ -2,8 +2,9 @@ title:: S.E.R.V.I.T
 icon:: 🤖
 
 - Presentación
-	- #+BEGIN_CENTER
-	  SERVIT es un bot que ayuda a todo tipo de empresas a incrementar sus po incurrir en compras publicas 
+	- background-color:: #264c9b
+	  #+BEGIN_CENTER
+	  SERVIT es un bot que ayuda a todo tipo de empresas a incrementar sus potencial de ganar ofertas de  compras  publicas  hasta en un 80%.
 	  #+END_CENTER
 - Características
 - Modelo de Negocio
