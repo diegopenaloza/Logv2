@@ -44,7 +44,6 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
-  collapsed:: true
 	- [[Plotly]]
 		- Histograma Simple con Una variable - Grafico de Barras simple con una Variable
 		  collapsed:: true
@@ -122,6 +121,7 @@
 			- Cambiar color de barras
 			  collapsed:: true
 				- ![image.png](../assets/image_1656255563228_0.png)
+		- [Legends in Python](https://plotly.com/python/legend/)
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
