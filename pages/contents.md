@@ -1,4 +1,6 @@
-- ✒️ Tareas Internas
+- No dejes que el miedo
+- ✒️ [[Tareas Internas]]
+  collapsed:: true
 	- {{renderer agenda, task-list}}
 	-
 - 🗒️[[Tareas]]
