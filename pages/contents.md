@@ -6,7 +6,7 @@
   collapsed:: true
 	- {{renderer agenda, task-list}}
 	-
-- --*
+- ---
 - 🗒️[[Tareas]]
   collapsed:: true
 	- <html><iframe src="https://ticktick.com/webapp/#q/all/today" height="400" width="800" name="demo">
