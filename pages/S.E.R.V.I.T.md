@@ -3,7 +3,7 @@ icon:: 🤖
 
 - Presentación
 	- #+BEGIN_CENTER
-	  Modelo de Negocio 
+	  SERVIT es un bot que ayuda a todo tipo de empresas a incrementar sus po incurrir en compras publicas 
 	  #+END_CENTER
 - Características
 - Modelo de Negocio
