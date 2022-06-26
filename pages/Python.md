@@ -88,6 +88,7 @@
 			  collapsed:: true
 				- https://plotly.com/python/subplots/
 		- Update Layout
+		  collapsed:: true
 			- Ajustar Axix. Ajustar Ejex
 				- ``` python
 				  
@@ -108,6 +109,8 @@
 				  ```
 				- ref
 					- https://community.plotly.com/t/plotly-python-fill-control-opacity-of-filled-area/18445
+		- Fill Area
+			- https://plotly.com/python/filled-area-plots/a
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
