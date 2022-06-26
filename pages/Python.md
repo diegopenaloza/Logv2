@@ -114,7 +114,9 @@
 			- https://plotly.com/python/filled-area-plots/a
 		- [Text and annotations in Python](https://plotly.com/python/text-and-annotations/)
 		- [Line charts in Python](https://plotly.com/python/line-charts/)
+		  collapsed:: true
 			- Cambiar color de Línea y  tipo de Línea
+		-
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
