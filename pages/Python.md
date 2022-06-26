@@ -44,6 +44,7 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
+  collapsed:: true
 	- [[Plotly]]
 		- Histograma Simple con Una variable - Grafico de Barras simple con una Variable
 		  collapsed:: true
@@ -185,3 +186,4 @@
 				- ``` python
 				  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
 				  ```
+- Web Scrsping
