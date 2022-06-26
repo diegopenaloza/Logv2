@@ -10,7 +10,6 @@ icon:: 🤖
 	-
 	- TODO Mapas Georreferenciados del tipo de consumo de las empresas publicas [:span {:is "slider-mpbwgeklk"}]{{renderer :slider_mpbwgeklk}} >[2022-06-26 23:00 - 2022-07-03 23:00](#agenda://?start=2022-06-27T04%3A00%3A55.719Z&end=2022-07-04T04%3A00%3A20.749Z&allDay=false)
 	  value:: 2
-	  collapsed:: true
 		- Información
 		  collapsed:: true
 			- {{renderer :linkpreview,https://medium.com/swlh/web-scraping-using-python-and-plotting-the-data-on-a-map-6ec4d806c07d}}
