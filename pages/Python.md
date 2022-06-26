@@ -192,8 +192,13 @@
 - Web Scrsping
 	- Playwright
 		- Abrir navegador sin modo incognito
-			-
--
+		  collapsed:: true
+			- ``` python
+			   browser = p.chromium.launch_persistent_context(channel="chrome",headless=False,user_data_dir=direct)
+			  ```
+			- ref
+			  collapsed:: true
+				- https://playwright.dev/python/docs/api/class-browsertype#browser-type-launch-persistent-context
 - Proyecto por revisar
   collapsed:: true
 	- https://github.com/Python-World/python-mini-projects
