@@ -187,3 +187,5 @@
 				  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
 				  ```
 - Web Scrsping
+	- Playwright
+-
