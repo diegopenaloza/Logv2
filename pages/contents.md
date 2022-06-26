@@ -1,5 +1,5 @@
 - #+BEGIN_QUOTE
-  No dejes que el miedo te genere ansiedad, si enfrentas ese miedo lo antes posible la ansidad no  
+  No dejes que el miedo te genere ansiedad, si enfrentas ese miedo lo antes posible, enfrentaras el miedo al fracaso, que no te derribe, lo peor que puedes encontrar es un No, y lo
   #+END_QUOTE
 - ✒️ [[Tareas Internas]]
   collapsed:: true
