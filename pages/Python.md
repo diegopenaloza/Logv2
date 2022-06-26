@@ -44,9 +44,7 @@
 		  collapsed:: true
 			- https://stackoverflow.com/questions/11338143/how-to-remove-the-first-and-last-item-in-a-list
 - Gráficos
-  collapsed:: true
 	- [[Plotly]]
-	  collapsed:: true
 		- Histograma Simple con Una variable - Grafico de Barras simple con una Variable
 		  collapsed:: true
 			- ``` python
@@ -90,7 +88,6 @@
 			  collapsed:: true
 				- https://plotly.com/python/subplots/
 		- Ajustes
-		  collapsed:: true
 			- Ajustar Axix. Ajustar Ejex
 				- ``` python
 				  
@@ -135,7 +132,9 @@
 		- https://pypi.org/project/pandas-weighting/#:~:text=pandas%2Dweighting%20enables%20general%20level,defined%20in%20'weight'%20column.
 		- https://datagy.io/pandas-weighted-average/
 - IDES
+  collapsed:: true
 	- [[Jupyter Notebook]]
+	  collapsed:: true
 		- {{embed ((62af393f-3e18-4210-ab57-6f60968563b7))}}
 	- [[Jupyter Lab]]
 		- Cambiar Ancho de celdas o bloques de codigo
