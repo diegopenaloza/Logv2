@@ -110,7 +110,9 @@
 				- ref
 					- https://community.plotly.com/t/plotly-python-fill-control-opacity-of-filled-area/18445
 		- Fill Area
+		  collapsed:: true
 			- https://plotly.com/python/filled-area-plots/a
+		- Notes
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
