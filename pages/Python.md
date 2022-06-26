@@ -193,11 +193,16 @@
 	- Playwright
 		- Abrir navegador sin modo incognito
 		  collapsed:: true
-			- ``` python
-			   browser = p.chromium.launch_persistent_context(channel="chrome",headless=False,user_data_dir=direct)
-			  ```
+			- wxhkjs
 			- ref
 			  collapsed:: true
+				- https://playwright.dev/python/docs/api/class-browsertype#browser-type-launch-persistent-context
+		- Abrir en navegador con otro navegador como brave o chrome o firefox
+			- ``` python
+			      browser = p.chromium.launch_persistent_context(channel="chrome",headless=False,user_data_dir=direct)
+			  
+			  ```
+			- ref
 				- https://playwright.dev/python/docs/api/class-browsertype#browser-type-launch-persistent-context
 - Proyecto por revisar
   collapsed:: true
