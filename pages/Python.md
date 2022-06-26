@@ -117,7 +117,10 @@
 		  collapsed:: true
 			- Cambiar color de Línea y  tipo de Línea
 		- [Bar charts in Python](https://plotly.com/python/bar-charts/)
+		  collapsed:: true
 			- Cambiar color de barras
+			  collapsed:: true
+				- ![image.png](../assets/image_1656255563228_0.png)
 - Factor de Expansión en Python
   collapsed:: true
 	- ``` python
