@@ -4,3 +4,6 @@
 - Comunicación Interpersonal
   collapsed:: true
 	- {{tweet https://twitter.com/Daily_bookquote/status/1539246766310277121}}
+- Estoicismo
+  collapsed:: true
+	- {{tweet https://twitter.com/DeepFlowMDL/status/1540365426793689096}}
