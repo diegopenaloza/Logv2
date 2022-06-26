@@ -76,6 +76,9 @@
  {:block/name "diario",
   :block/created-at 1654746466986,
   :block/updated-at 1654746466986}
+ {:block/name "diseño",
+  :block/created-at 1656281304786,
+  :block/updated-at 1656281316718}
  {:block/name "doing",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -88,6 +91,9 @@
  {:block/name "ecuador",
   :block/created-at 1655391788774,
   :block/updated-at 1655391788774}
+ {:block/name "english",
+  :block/created-at 1656250885843,
+  :block/updated-at 1656250885843}
  {:block/name "favorites",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
@@ -137,7 +143,7 @@
   :block/updated-at 1655464955370}
  {:block/name "jun 18th, 2022",
   :block/created-at 1655565070663,
-  :block/updated-at 1655733259423}
+  :block/updated-at 1656249067186}
  {:block/name "jun 19th, 2022",
   :block/created-at 1655614844048,
   :block/updated-at 1655614844048}
@@ -155,7 +161,13 @@
   :block/updated-at 1655999749617}
  {:block/name "jun 24th, 2022",
   :block/created-at 1656081117852,
-  :block/updated-at 1656081117852}
+  :block/updated-at 1656126103124}
+ {:block/name "jun 25th, 2022",
+  :block/created-at 1656133206602,
+  :block/updated-at 1656202433613}
+ {:block/name "jun 26th, 2022",
+  :block/created-at 1656248473094,
+  :block/updated-at 1656252989189}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
@@ -171,6 +183,9 @@
  {:block/name "later",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
+ {:block/name "lecturas",
+  :block/created-at 1656281845058,
+  :block/updated-at 1656281999190}
  {:block/name "logseq",
   :block/created-at 1654745858056,
   :block/updated-at 1654745858056}
@@ -188,7 +203,7 @@
   :block/updated-at 1655650436965}
  {:block/name "python",
   :block/created-at 1655587919582,
-  :block/updated-at 1655855094226}
+  :block/updated-at 1656280117505}
  {:block/name "regulación",
   :block/created-at 1655574662652,
   :block/updated-at 1655574662652}
@@ -203,7 +218,7 @@
   :block/updated-at 1654864265125}
  {:block/name "s.e.r.v.i.t",
   :block/created-at 1654870447317,
-  :block/updated-at 1654910081091}
+  :block/updated-at 1656160228583}
  {:block/name "s/e",
   :block/created-at 1654864265126,
   :block/updated-at 1654864265126}
@@ -243,6 +258,9 @@
  {:block/name "tarifación",
   :block/created-at 1655574756817,
   :block/updated-at 1655575102602}
+ {:block/name "thread",
+  :block/created-at 1656257708018,
+  :block/updated-at 1656280024368}
  {:block/name "todo",
   :block/created-at 1654745543996,
   :block/updated-at 1654745543996}
