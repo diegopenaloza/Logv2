@@ -8,8 +8,11 @@ icon:: 🤖
 	  #+END_CENTER
 - Características
 	- TODO Envío de instantáneo de información sobre procesos de compras públicas [:span {:is "slider-luclydf"}]{{renderer :slider_luclydf}} >[2022-06-26 17:53 - 2022-07-01 17:53](#agenda://?start=2022-06-26T22%3A53%3A48.873Z&end=2022-07-01T22%3A53%3A48.873Z&allDay=false)
-	- E
+	  value:: 0
+	- TODO Entrenamiento de Vit en compras Publicas  [:span {:is "slider-ethrqvm"}]{{renderer :slider_ethrqvm}}
+	  value:: 0
 	- TODO Mapas Georreferenciados del tipo de consumo de las empresas publicas [:span {:is "slider-mpbwgeklk"}]{{renderer :slider_mpbwgeklk}} >[2022-06-26 23:00 - 2022-07-03 23:00](#agenda://?start=2022-06-27T04%3A00%3A55.719Z&end=2022-07-04T04%3A00%3A20.749Z&allDay=false)
+	  value:: 0
 	  collapsed:: true
 		- Información
 		  collapsed:: true
