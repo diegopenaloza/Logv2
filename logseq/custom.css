@@ -113,3 +113,7 @@ a[href*="#agenda"]::before {
         color: #000000;
         text-shadow: #b70aef 0 -1px;
     }
+
+    .CodeMirror-sizer {
+        /* margin-left: 20px !important; */
+    }

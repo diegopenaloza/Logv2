@@ -83,6 +83,9 @@ a[href*="#agenda"] {
 opacity: 1   !important;
 font-size: 0.1px !important;
 text-decoration: none !important;
+/* margin-left: auto !important;  */
+/* margin-right: 0 !important; */
+float: right !important;
 }
 
 a[href*="#agenda"]::before {
@@ -91,9 +94,26 @@ a[href*="#agenda"]::before {
     font-size: 13px !important;
     text-decoration: none !important;
     }
-    .external-link[href^="#agenda://"]::before {
+
+
+
+.external-link[href^="#agenda://"]::before {
         content: '📅';
         margin: 0 !important;
         text-decoration: none !important;
-        
+
+    }
+
+
+    .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
+        display: inline !important;
+    }
+
+    .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
+        color: #000000;
+        text-shadow: #b70aef 0 -1px;
+    }
+
+    .CodeMirror-sizer {
+        margin-left: 0px !important;
     }
