@@ -127,6 +127,6 @@ a[href*="#agenda"]::before {
         padding: 6px 32px;
     } */
 
-    /* .cm-s-solarized .CodeMirror-linenumber {
-        padding: 0 0px;
-    } */
+    .cm-s-solarized .CodeMirror-linenumber {
+        padding: 0 0px 10px 0px;
+    }

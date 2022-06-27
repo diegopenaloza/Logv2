@@ -113,21 +113,20 @@ a[href*="#agenda"]::before {
         color: #000000;
         text-shadow: #b70aef 0 -1px;
     }
-
+/* 
     .CodeMirror-sizer {
         margin-left: 20px !important;
     }
 
-
- 
+     */
 .CodeMirror-linenumbers{
     margin-left:0px !important;
     }
 
-    .CodeMirror-lines {
+    /* .CodeMirror-lines {
         padding: 6px 32px;
-    }
+    } */
 
     .cm-s-solarized .CodeMirror-linenumber {
-        padding: 0 0px;
+        padding: 0 0px 20px 0px;
     }
