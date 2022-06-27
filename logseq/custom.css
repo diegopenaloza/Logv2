@@ -134,8 +134,13 @@ a[href*="#agenda"]::before {
     margin-left: -25px !important;
  }
 
+ .cm-s-solarized .CodeMirror-gutters{
+
+    background-color: #3131314d !important;
+ }
+
  .cm-s-solarized.cm-s-dark {
     color: #839496;
     background-color: #002b3600 !important;
-    text-shadow: #002b36 0 1px;
+    text-shadow: #002b3600 0 1px;
 }
