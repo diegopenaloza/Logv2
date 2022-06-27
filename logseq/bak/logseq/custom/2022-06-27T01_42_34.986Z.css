@@ -83,7 +83,9 @@ a[href*="#agenda"] {
 opacity: 1   !important;
 font-size: 0.1px !important;
 text-decoration: none !important;
-margin-right: 200px !important;
+/* margin-left: auto !important;  */
+/* margin-right: 0 !important; */
+float: right !important;
 }
 
 a[href*="#agenda"]::before {
@@ -91,17 +93,15 @@ a[href*="#agenda"]::before {
     opacity: 1   !important;
     font-size: 13px !important;
     text-decoration: none !important;
-    margin-right: 200px !important;
-
     }
-    .external-link[href^="#agenda://"]::before {
+
+
+
+.external-link[href^="#agenda://"]::before {
         content: '📅';
         margin: 0 !important;
         text-decoration: none !important;
-        margin-right: 0 !important;
+        margin-left: auto; 
+margin-right: 0;
+        
     }
-    .lsp-hook-ui-slot,.slot__lkhjpv3x::before{
-
-display: none !important;
-    }
-
