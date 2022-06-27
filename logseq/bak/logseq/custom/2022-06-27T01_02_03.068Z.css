@@ -80,10 +80,10 @@ h1{
 
 a[href*="#agenda"] {
 
-display:none   !important;
+opacity: 0   !important;
 }
 
 .external-link::before{
 
-    display:block !important;
+    display:inline  !important;
     }
