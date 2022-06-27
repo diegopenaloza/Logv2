@@ -1,9 +1,9 @@
-
+/* 
 
 .dark-theme #main-content-container{
     margin-top:4.5% !important;
     max-width: 960px !important;
-    max-height: 90% !important;
+    max-height: 84% !important;
 }
 
 
@@ -11,7 +11,7 @@
 #main-content-container{
     margin-top:4.5% !important;
     max-width: 960px !important;
-    max-height: 90% !important;
+    max-height: 84% !important;
 }
 
 
@@ -73,4 +73,4 @@ h1{
 .asset-ref.is-pdf:before,.asset-ref.is-pdf:after,.ls-block h1::after{
 
     display: none   !important;
-}
+} */
