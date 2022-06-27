@@ -82,6 +82,10 @@ a[href*="#agenda"] {
 
 opacity: 0   !important;
 }
+a[href*="#agenda"]:: {
+
+    opacity: 1   !important;
+    }
 
 .external-link::before{
 
