@@ -210,9 +210,21 @@ icon:: 💻
   collapsed:: true
 	- https://github.com/Python-World/python-mini-projects
 - Algebra
-	- ``` python
-	  
-	  ```
+	- Remplazar Variables por otras variables o números
+	  collapsed:: true
+		- ``` python
+		  from sympy import * 
+		    
+		  x, y = symbols('x y') 
+		    
+		  f = log(sin(x)) + tan(cos(2 * x)) 
+		  gfg = f.replace(log, tan) 
+		       
+		  print(gfg) 
+		  ```
+		- ref
+		  collapsed:: true
+			- https://es.acervolima.com/python-metodo-sympy-replace/
 - Calculo
 	- Derivadas
 		- ``` python
