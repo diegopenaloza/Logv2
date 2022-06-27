@@ -227,14 +227,17 @@ icon:: 💻
 			- https://es.acervolima.com/python-metodo-sympy-replace/
 - Calculo
 	- Derivadas
+	  collapsed:: true
 		- ``` python
-		  from sympy import * 
-		    
-		  x, y = symbols('x y') 
-		    
-		  f = log(sin(x)) + tan(cos(2 * x)) 
-		  gfg = f.replace(log, tan) 
-		       
-		  print(gfg) 
+		  from sympy import *
+		  import numpy as np
+		  
+		  x = Symbol('x')
+		  y = x**2 + 1
+		  
+		  yprime = y.diff(x)
+		  print(yprime)
 		  ```
-		-
+		- ref
+		  collapsed:: true
+			- https://www.delftstack.com/es/howto/python/python-derivative/#:~:text=Puede%20usarse%20para%20realizar%20operaciones,funci%C3%B3n%20Symbol()%20en%20Python.
