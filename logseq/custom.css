@@ -125,3 +125,10 @@ a[href*="#agenda"]::before {
         bottom: 0;
         z-index: 4;
     }
+
+    .CodeMirror-gutter-wrapper {
+        position: absolute;
+        z-index: 4;
+        background: 0 0!important;
+        border: none!important;
+    }
