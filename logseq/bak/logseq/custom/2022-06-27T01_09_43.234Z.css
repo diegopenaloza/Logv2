@@ -93,6 +93,6 @@ a[href*="#agenda"]::before {
     }
     .external-link[href^="#agenda://"]::before {
         content: '📅';
-        margin: 0 0px;
+        margin: 0 !important;
         text-decoration: none !important;
     }

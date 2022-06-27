@@ -92,7 +92,7 @@ a[href*="#agenda"]::before {
     text-decoration: none !important;
     }
     .external-link[href^="#agenda://"]::before {
-        content: '📅';
-        /* margin: 0 0; */
+        content: '😎';
+        margin: 0 !important;
         text-decoration: none !important;
     }
