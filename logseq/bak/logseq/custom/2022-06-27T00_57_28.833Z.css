@@ -1,17 +1,17 @@
-
+/* 
 
 .dark-theme #main-content-container{
     margin-top:4.5% !important;
-    max-width: 900px !important;
-    max-height: 80% !important;
+    max-width: 960px !important;
+    max-height: 84% !important;
 }
 
 
 
 #main-content-container{
     margin-top:4.5% !important;
-    max-width: 900px !important;
-    max-height: 80% !important;
+    max-width: 960px !important;
+    max-height: 84% !important;
 }
 
 
@@ -48,11 +48,11 @@ width: calc(var(--ct-marker-size) + 0px);
     width:200px !important;
     height:160px !important;
     /*transform: scale(0.65);
-    */filter: brightness(9%) saturate(0%) invert(0%) sepia(0%) saturate(0%) hue-rotate(3deg) brightness(90%) contrast(200%);
+   filter: brightness(9%) saturate(0%) invert(0%) sepia(0%) saturate(0%) hue-rotate(3deg) brightness(90%) contrast(200%);
     z-index:100;
     visibility:hidden;
     -webkit-filter: brightness(99%) saturate(0%) invert(0%) sepia(0%) saturate(0%) hue-rotate(3deg) brightness(90%) contrast(200%);
-}
+} */
 
 
 
@@ -73,4 +73,16 @@ h1{
 .asset-ref.is-pdf:before,.asset-ref.is-pdf:after,.ls-block h1::after{
 
     display: none   !important;
+} 
+
+
+.external-link::before{
+
+/* display:none !important; */
+}
+
+
+a[href*="#agenda"] {
+
+display:none   !important;
 }
