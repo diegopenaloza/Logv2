@@ -105,9 +105,9 @@ a[href*="#agenda"]::before {
     }
 
 
-    .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
+    .CodeMirror-linenumber, .cm-s-solarized .CodeMirror-gutters {
         display: inline !important;
-        
+
     }
 
     /* .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
@@ -127,5 +127,11 @@ a[href*="#agenda"]::before {
     /* .CodeMirror-lines {
         padding: 6px 32px;
     } */
+
+ .CodeMirror-linenumber,.cm-s-solarized .CodeMirror-gutters{
+
+    position: absolute !important;
+    /* margin-left: 10px !important; */
+ }
 
  

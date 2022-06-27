@@ -105,7 +105,7 @@ a[href*="#agenda"]::before {
     }
 
 
-    .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
+    .CodeMirror-linenumber, .cm-s-solarized .CodeMirror-gutters {
         display: inline !important;
 
     }
