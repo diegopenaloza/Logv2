@@ -103,6 +103,9 @@
  {:block/name "finanzas públicas ",
   :block/created-at 1655342033948,
   :block/updated-at 1655342033948}
+ {:block/name "frances",
+  :block/created-at 1656335063784,
+  :block/updated-at 1656335090568}
  {:block/name "guiones",
   :block/created-at 1655579509856,
   :block/updated-at 1655580437098}
@@ -170,7 +173,10 @@
   :block/updated-at 1656202433613}
  {:block/name "jun 26th, 2022",
   :block/created-at 1656248473094,
-  :block/updated-at 1656252989189}
+  :block/updated-at 1656300915788}
+ {:block/name "jun 27th, 2022",
+  :block/created-at 1656325725708,
+  :block/updated-at 1656335063786}
  {:block/name "jun 8th, 2022",
   :block/created-at 1654741967322,
   :block/updated-at 1654759763103}
