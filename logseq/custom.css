@@ -131,8 +131,7 @@ a[href*="#agenda"]::before {
  .CodeMirror-linenumber,.cm-s-solarized .CodeMirror-gutters{
 
     position: absolute !important;
-    margin-left: 0 !important;
-    padding-left: 0 !important;
+    margin-left: -25px !important;
  }
 
  
