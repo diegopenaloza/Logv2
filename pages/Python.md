@@ -245,6 +245,11 @@ icon:: 💻
 			- https://www.delftstack.com/es/howto/python/python-derivative/#:~:text=Puede%20usarse%20para%20realizar%20operaciones,funci%C3%B3n%20Symbol()%20en%20Python.
 - Diccionarios
 	- Crear Diccionarios con Loop For
-- ``` Python
-  
-  ```
+		- ``` Python
+		  dicts = {}
+		  keys = range(4)
+		  values = ["Hi", "I", "am", "John"]
+		  for i in keys:
+		          dicts[i] = values[i]
+		  print(dicts)
+		  ```
