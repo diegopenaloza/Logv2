@@ -139,7 +139,7 @@ a[href*="#agenda"]::before {
         height: 100%;
         display: inline-block;
         vertical-align: top;
-        margin-bottom: 50px !important;
+        margin-bottom: 5px !important;
     }
 
 .CodeMirror-linenumbers{
@@ -151,5 +151,5 @@ a[href*="#agenda"]::before {
     }
 
     .cm-s-solarized .CodeMirror-linenumber {
-        padding: 0 50px;
+        padding: 0 0px;
     }
