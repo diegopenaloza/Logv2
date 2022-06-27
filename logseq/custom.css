@@ -115,7 +115,7 @@ a[href*="#agenda"]::before {
     }
 
     .CodeMirror-sizer {
-        /* margin-left: 20px !important; */
+        margin-left: 40px !important;
     }
 
     
@@ -139,5 +139,5 @@ a[href*="#agenda"]::before {
         height: 100%;
         display: inline-block;
         vertical-align: top;
-        margin-bottom: -50px;
+        margin-bottom: -50px !important;
     }

@@ -101,7 +101,43 @@ a[href*="#agenda"]::before {
         content: '📅';
         margin: 0 !important;
         text-decoration: none !important;
-        margin-left: auto; 
-margin-right: 0;
-        
+
+    }
+
+
+    .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
+        display: inline !important;
+    }
+
+    .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
+        color: #000000;
+        text-shadow: #b70aef 0 -1px;
+    }
+
+    .CodeMirror-sizer {
+        /* margin-left: 20px !important; */
+    }
+
+    
+.CodeMirror-gutter-background {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        z-index: 4;
+    }
+
+    .CodeMirror-gutter-wrapper {
+        margin-left: 20px !important;
+        position: absolute !important;
+        z-index: 4;
+        background: 0 0!important;
+        border: none!important;
+    }
+
+    .CodeMirror-gutter {
+        white-space: normal;
+        height: 100%;
+        display: inline-block;
+        vertical-align: top;
+        /* margin-bottom: -50px; */
     }
