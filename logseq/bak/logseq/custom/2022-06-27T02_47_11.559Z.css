@@ -107,26 +107,25 @@ a[href*="#agenda"]::before {
 
     .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
         display: inline !important;
+        
     }
 
-    .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
+    /* .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
         color: #000000;
         text-shadow: #b70aef 0 -1px;
-    }
+    } */
 /* 
     .CodeMirror-sizer {
         margin-left: 20px !important;
     }
 
      */
-.CodeMirror-linenumbers{
+/* .CodeMirror-linenumbers{
     margin-left:0px !important;
-    }
+    } */
 
     /* .CodeMirror-lines {
         padding: 6px 32px;
     } */
 
-    .cm-s-solarized .CodeMirror-linenumber {
-        padding: 0 0px 30px 0px;
-    }
+ 
