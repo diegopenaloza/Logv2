@@ -91,4 +91,8 @@ a[href*="#agenda"]::before {
     font-size: 13px !important;
     text-decoration: none !important;
     }
-
+    .external-link[href^="#agenda://"]::before {
+        content: '📅';
+        margin: 0 0px;
+        text-decoration: none !important;
+    }
