@@ -82,11 +82,13 @@ a[href*="#agenda"] {
 
 opacity: 1   !important;
 font-size: 0.1px !important;
+text-decoration: none !important;
 }
 
 a[href*="#agenda"]::before {
     content: "Email address: ";
     opacity: 1   !important;
     font-size: 12px !important;
+    text-decoration: none !important;
     }
 
