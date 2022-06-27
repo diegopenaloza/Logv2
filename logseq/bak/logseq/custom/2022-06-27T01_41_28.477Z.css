@@ -81,7 +81,7 @@ h1{
 a[href*="#agenda"] {
 
 opacity: 1   !important;
-/* font-size: 0.1px !important; */
+font-size: 0.1px !important;
 text-decoration: none !important;
 }
 
@@ -95,10 +95,5 @@ a[href*="#agenda"]::before {
         content: '📅';
         margin: 0 !important;
         text-decoration: none !important;
+        
     }
-    .lsp-hook-ui-slot,.slot__lkhjpv3x::before{
-
-display: none !important;
-    }
-
-    //*[@id="block-content-62b8e159-517d-4855-ae9b-fcc54a34146a"]/div[1]/div/span/text()[2]
