@@ -210,6 +210,7 @@ icon:: 💻
   collapsed:: true
 	- https://github.com/Python-World/python-mini-projects
 - Algebra
+  collapsed:: true
 	- Remplazar Variables por otras variables o números
 	  collapsed:: true
 		- ``` python
@@ -226,6 +227,7 @@ icon:: 💻
 		  collapsed:: true
 			- https://es.acervolima.com/python-metodo-sympy-replace/
 - Calculo
+  collapsed:: true
 	- Derivadas
 	  collapsed:: true
 		- ``` python
@@ -241,3 +243,6 @@ icon:: 💻
 		- ref
 		  collapsed:: true
 			- https://www.delftstack.com/es/howto/python/python-derivative/#:~:text=Puede%20usarse%20para%20realizar%20operaciones,funci%C3%B3n%20Symbol()%20en%20Python.
+- Diccionarios
+	- Crear Diccionarios con Loop For
+		-
