@@ -209,3 +209,6 @@ icon:: 💻
 - Proyecto por revisar
   collapsed:: true
 	- https://github.com/Python-World/python-mini-projects
+- Calculo
+	- Derivadas
+	-
