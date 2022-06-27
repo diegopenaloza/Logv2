@@ -110,10 +110,10 @@ a[href*="#agenda"]::before {
 
     }
 
-    /* .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
+    .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
         color: #000000;
-        text-shadow: #b70aef 0 -1px;
-    } */
+       
+    }
 /* 
     .CodeMirror-sizer {
         margin-left: 20px !important;
@@ -133,7 +133,12 @@ a[href*="#agenda"]::before {
     position: absolute !important;
     margin-left: -25px !important;
  }
+ .CodeMirror-linenumber{
 
+    position: absolute !important;
+    margin-left: -25px !important;
+    text-shadow: #002b3600 0 1px;
+ }
  .cm-s-solarized .CodeMirror-gutters{
 
     background-color: #3131314d !important;

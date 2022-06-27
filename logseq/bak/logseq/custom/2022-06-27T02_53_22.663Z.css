@@ -131,7 +131,21 @@ a[href*="#agenda"]::before {
  .CodeMirror-linenumber,.cm-s-solarized .CodeMirror-gutters{
 
     position: absolute !important;
-    margin-left: -20px !important;
+    margin-left: -25px !important;
+ }
+ .CodeMirror-linenumber{
+
+    position: absolute !important;
+    margin-left: -25px !important;
+    text-shadow: #002b3600 0 1px;
+ }
+ .cm-s-solarized .CodeMirror-gutters{
+
+    background-color: #3131314d !important;
  }
 
- 
+ .cm-s-solarized.cm-s-dark {
+    color: #839496;
+    background-color: #002b3600 !important;
+    text-shadow: #002b3600 0 1px;
+}
