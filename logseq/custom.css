@@ -110,23 +110,7 @@ a[href*="#agenda"]::before {
 
     }
 
-    .cm-s-solarized.cm-s-dark .CodeMirror-linenumber {
-        color: #000000;
-       
-    }
-/* 
-    .CodeMirror-sizer {
-        margin-left: 20px !important;
-    }
 
-     */
-/* .CodeMirror-linenumbers{
-    margin-left:0px !important;
-    } */
-
-    /* .CodeMirror-lines {
-        padding: 6px 32px;
-    } */
 
  .CodeMirror-linenumber,.cm-s-solarized .CodeMirror-gutters{
 
