@@ -95,7 +95,7 @@ a[href*="#agenda"]::before {
         content: '📅';
         margin: 0 !important;
         text-decoration: none !important;
-        margin-right: 0 !important;
+        
     }
     .lsp-hook-ui-slot,.slot__lkhjpv3x::before{
 
