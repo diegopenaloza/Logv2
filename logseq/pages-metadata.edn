@@ -1,4 +1,7 @@
-[{:block/name "#yellow",
+[{:block/name "#green",
+  :block/created-at 1656286284266,
+  :block/updated-at 1656286284266}
+ {:block/name "#yellow",
   :block/created-at 1655342035279,
   :block/updated-at 1655342035279}
  {:block/name "$%",
@@ -69,7 +72,7 @@
   :block/updated-at 1654741694137}
  {:block/name "contents",
   :block/created-at 1654745543997,
-  :block/updated-at 1655579510193}
+  :block/updated-at 1656286300259}
  {:block/name "daily log",
   :block/created-at 1654907702116,
   :block/updated-at 1654907702116}
@@ -185,16 +188,22 @@
   :block/updated-at 1654745543996}
  {:block/name "lecturas",
   :block/created-at 1656281845058,
-  :block/updated-at 1656281999190}
+  :block/updated-at 1656282284640}
  {:block/name "logseq",
   :block/created-at 1654745858056,
   :block/updated-at 1654745858056}
  {:block/name "me_distraje",
   :block/created-at 1655585453731,
   :block/updated-at 1655585453731}
+ {:block/name "network analysis",
+  :block/created-at 1656282284422,
+  :block/updated-at 1656282531646}
  {:block/name "now",
   :block/created-at 1654745543997,
   :block/updated-at 1654745543997}
+ {:block/name "nuevo tema",
+  :block/created-at 1656282423239,
+  :block/updated-at 1656282423239}
  {:block/name "planificación económica",
   :block/created-at 1654864427359,
   :block/updated-at 1655831760543}
@@ -203,7 +212,7 @@
   :block/updated-at 1655650436965}
  {:block/name "python",
   :block/created-at 1655587919582,
-  :block/updated-at 1656280117505}
+  :block/updated-at 1656286107970}
  {:block/name "regulación",
   :block/created-at 1655574662652,
   :block/updated-at 1655574662652}
@@ -218,7 +227,7 @@
   :block/updated-at 1654864265125}
  {:block/name "s.e.r.v.i.t",
   :block/created-at 1654870447317,
-  :block/updated-at 1656160228583}
+  :block/updated-at 1656292409368}
  {:block/name "s/e",
   :block/created-at 1654864265126,
   :block/updated-at 1654864265126}
