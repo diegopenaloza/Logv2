@@ -81,9 +81,15 @@ h1{
 a[href*="#agenda"] {
 
 opacity: 0   !important;
+font-size: 60px !important;
 }
+
+a[href*="#agenda"]::before {
+
+    opacity: 1   !important;
+    }
 
 .external-link::before{
 
-    /* display:inline !important; */
+    display:inline-block !important;
     }
