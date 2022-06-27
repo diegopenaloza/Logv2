@@ -1,3 +1,5 @@
+icon:: ![image.png](../assets/image_1656294344763_0.png)
+
 - Archivos Locales
   collapsed:: true
 	- RAR
