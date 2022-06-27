@@ -85,5 +85,5 @@ opacity: 0   !important;
 
 .external-link::before{
 
-    display:block !important;
+    display:inline-block !important;
     }
