@@ -103,3 +103,8 @@ a[href*="#agenda"]::before {
         text-decoration: none !important;
 
     }
+
+
+    .cm-s-solarized .CodeMirror-linenumber, .CodeMirror-gutter-background, .cm-s-solarized .CodeMirror-gutters {
+        display: inline !important;
+    }
