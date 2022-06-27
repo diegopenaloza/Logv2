@@ -227,6 +227,7 @@ icon:: 💻
 			- https://es.acervolima.com/python-metodo-sympy-replace/
 - Calculo
 	- Derivadas
+	  collapsed:: true
 		- ``` python
 		  from sympy import * 
 		    
