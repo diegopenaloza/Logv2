@@ -113,43 +113,20 @@ a[href*="#agenda"]::before {
         color: #000000;
         text-shadow: #b70aef 0 -1px;
     }
-
+/* 
     .CodeMirror-sizer {
         margin-left: 20px !important;
     }
 
-    
-.CodeMirror-gutter-background {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        z-index: 4;
-    }
-
-    .CodeMirror-gutter-wrapper {
-        margin-left: 0px !important;
-        /* position: absolute !important; */
-        /* z-index: 4; */
-        /* background: 0 0!important; */
-        border: none!important;
-    }
-
-    .CodeMirror-gutter {
-        white-space: normal;
-        height: 100%;
-        display: inline-block;
-        vertical-align: top;
-        margin-bottom: 50px !important;
-    }
-
+     */
 .CodeMirror-linenumbers{
-    margin-left:-10px !important;
+    margin-left:0px !important;
     }
 
-    .CodeMirror-lines {
-        /* padding: 6px 32px; */
-    }
+    /* .CodeMirror-lines {
+        padding: 6px 32px;
+    } */
 
-    .cm-s-solarized .CodeMirror-linenumber {
+    /* .cm-s-solarized .CodeMirror-linenumber {
         padding: 0 0px;
-    }
+    } */

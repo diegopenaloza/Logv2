@@ -118,30 +118,8 @@ a[href*="#agenda"]::before {
         margin-left: 20px !important;
     }
 
-    
-.CodeMirror-gutter-background {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        z-index: 4;
-    }
 
-    .CodeMirror-gutter-wrapper {
-        margin-left: 0px !important;
-        /* position: absolute !important; */
-        /* z-index: 4; */
-        /* background: 0 0!important; */
-        border: none!important;
-    }
-
-    .CodeMirror-gutter {
-        white-space: normal;
-        height: 100%;
-        display: inline-block;
-        vertical-align: top;
-        margin-bottom: 50px !important;
-    }
-
+ 
 .CodeMirror-linenumbers{
     margin-left:0px !important;
     }
