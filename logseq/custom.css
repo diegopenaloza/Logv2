@@ -141,3 +141,7 @@ a[href*="#agenda"]::before {
         vertical-align: top;
         margin-bottom: -50px !important;
     }
+
+.CodeMirror-linenumbers{
+    margin-left:20px !important;
+    }
