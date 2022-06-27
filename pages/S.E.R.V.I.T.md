@@ -22,4 +22,4 @@ icon:: 🤖
 			- {{renderer :linkpreview,https://medium.com/swlh/web-scraping-using-python-and-plotting-the-data-on-a-map-6ec4d806c07d}}
 	-
 - Modelo de Negocio
--
+- https://www.delftstack.com/es/howto/python/python-derivative/#:~:text=Puede%20usarse%20para%20realizar%20operaciones,funci%C3%B3n%20Symbol()%20en%20Python.
