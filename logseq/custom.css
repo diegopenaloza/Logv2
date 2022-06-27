@@ -117,3 +117,11 @@ a[href*="#agenda"]::before {
     .CodeMirror-sizer {
         /* margin-left: 20px !important; */
     }
+
+    
+.CodeMirror-gutter-background {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        z-index: 4;
+    }
