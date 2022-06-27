@@ -115,7 +115,7 @@ a[href*="#agenda"]::before {
     }
 
     .CodeMirror-sizer {
-        margin-left: 40px !important;
+        margin-left: 20px !important;
     }
 
     
@@ -127,10 +127,10 @@ a[href*="#agenda"]::before {
     }
 
     .CodeMirror-gutter-wrapper {
-        margin-left: 20px !important;
-        position: absolute !important;
-        z-index: 4;
-        background: 0 0!important;
+        margin-left: 0px !important;
+        /* position: absolute !important; */
+        /* z-index: 4; */
+        /* background: 0 0!important; */
         border: none!important;
     }
 
@@ -143,5 +143,9 @@ a[href*="#agenda"]::before {
     }
 
 .CodeMirror-linenumbers{
-    margin-left:20px !important;
+    margin-left:0px !important;
+    }
+
+    .CodeMirror-lines {
+        padding: 6px 32px;
     }
