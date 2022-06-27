@@ -245,4 +245,6 @@ icon:: 💻
 			- https://www.delftstack.com/es/howto/python/python-derivative/#:~:text=Puede%20usarse%20para%20realizar%20operaciones,funci%C3%B3n%20Symbol()%20en%20Python.
 - Diccionarios
 	- Crear Diccionarios con Loop For
-		-
+- ``` Python
+  
+  ```
