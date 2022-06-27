@@ -74,3 +74,9 @@ h1{
 
     display: none   !important;
 } 
+
+
+.external-link::before{
+
+display:none !important;
+}
