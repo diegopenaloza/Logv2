@@ -132,3 +132,11 @@ a[href*="#agenda"]::before {
         background: 0 0!important;
         border: none!important;
     }
+
+    .CodeMirror-gutter {
+        white-space: normal;
+        height: 100%;
+        display: inline-block;
+        vertical-align: top;
+        margin-bottom: -50px;
+    }
