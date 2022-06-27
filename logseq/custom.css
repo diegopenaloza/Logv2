@@ -96,7 +96,7 @@ div[data-refs-self*="notav"] {
 	margin-left:10px !important;
 		margin-right:10px !important;
 	} */
-div[href*="#agenda"] {
+a[href*="#agenda"] {
 
 display:none   !important;
 }
