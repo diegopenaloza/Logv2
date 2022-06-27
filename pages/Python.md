@@ -1,4 +1,4 @@
-icon:: ![image.png](../assets/image_1656294344763_0.png)
+icon:: 💻
 
 - Archivos Locales
   collapsed:: true
@@ -192,6 +192,7 @@ icon:: ![image.png](../assets/image_1656294344763_0.png)
 				  df.loc[df['Age'] < 30, 'Age Category'] = 'Under 30'
 				  ```
 - Web Scrsping
+  collapsed:: true
 	- Playwright
 		- Abrir navegador sin modo incognito
 		  collapsed:: true
