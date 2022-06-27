@@ -209,6 +209,19 @@ icon:: 💻
 - Proyecto por revisar
   collapsed:: true
 	- https://github.com/Python-World/python-mini-projects
+- Algebra
+	- ``` python
+	  
+	  ```
 - Calculo
 	- Derivadas
-		-
+		- ``` python
+		  from sympy import * 
+		    
+		  x, y = symbols('x y') 
+		    
+		  f = log(sin(x)) + tan(cos(2 * x)) 
+		  gfg = f.replace(log, tan) 
+		       
+		  print(gfg) 
+		  ```
